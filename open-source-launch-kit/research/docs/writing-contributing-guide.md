@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write a Good CONTRIBUTING.md?"
-tags: [contributing, documentation, contributors, onboarding]
+tags: [contributing, documentation, contributors, onboarding, dev-setup, good-first-issue]
 content_type: research
 domain: engineering
 ---

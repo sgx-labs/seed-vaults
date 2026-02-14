@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap — Open Source Launch Kit"
-tags: [bootstrap, onboarding, session-start, critical]
+tags: [bootstrap, onboarding, session-start, critical, getting-started, navigation]
 content_type: hub
 domain: engineering
 pinned: true

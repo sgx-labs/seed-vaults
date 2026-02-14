@@ -1,6 +1,6 @@
 ---
 title: "How Do I Launch on Product Hunt?"
-tags: [product-hunt, launch, marketing, strategy]
+tags: [product-hunt, launch, marketing, strategy, maker-comment, devhunt]
 content_type: research
 domain: engineering
 ---

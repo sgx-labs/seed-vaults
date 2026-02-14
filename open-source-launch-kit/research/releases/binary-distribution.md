@@ -1,6 +1,6 @@
 ---
 title: "How Do I Set Up npm, Homebrew, and Binary Distribution?"
-tags: [distribution, npm, homebrew, binaries, packaging, releases]
+tags: [distribution, npm, homebrew, binaries, packaging, releases, goreleaser, install-script]
 content_type: research
 domain: engineering
 ---

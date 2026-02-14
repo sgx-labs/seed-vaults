@@ -1,6 +1,6 @@
 ---
 title: "What Is the Minimum Viable Open Source Project?"
-tags: [launch, mvp, project-structure, checklist]
+tags: [launch, mvp, project-structure, checklist, readme, license, gitignore]
 content_type: research
 domain: engineering
 ---

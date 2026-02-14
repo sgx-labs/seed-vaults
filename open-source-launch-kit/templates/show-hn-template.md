@@ -1,7 +1,7 @@
 ---
 title: "Show HN Post Template"
-tags: [template, show-hn, hacker-news, launch]
-content_type: research
+tags: [template, show-hn, hacker-news, launch, marketing]
+content_type: template
 domain: engineering
 ---
 

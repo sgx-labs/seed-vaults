@@ -1,6 +1,6 @@
 ---
 title: "Launch Day Checklist — What to Do in the First 48 Hours"
-tags: [launch, checklist, day-one, marketing, engagement]
+tags: [launch, checklist, day-one, marketing, engagement, first-48-hours, energy-management]
 content_type: research
 domain: engineering
 ---

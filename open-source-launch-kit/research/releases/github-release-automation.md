@@ -1,6 +1,6 @@
 ---
 title: "How Do I Automate the Full Release Process?"
-tags: [release-automation, github-actions, ci-cd, goreleaser, semantic-release]
+tags: [release-automation, github-actions, ci-cd, goreleaser, semantic-release, release-please, tag-trigger]
 content_type: research
 domain: engineering
 ---

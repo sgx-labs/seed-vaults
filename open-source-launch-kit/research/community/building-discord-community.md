@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build a Discord Community Around My Project?"
-tags: [discord, community, chat, engagement, growth]
+tags: [discord, community, chat, engagement, growth, channels, moderation]
 content_type: research
 domain: engineering
 ---

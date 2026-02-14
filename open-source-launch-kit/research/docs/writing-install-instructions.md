@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write Installation Instructions That Actually Work?"
-tags: [installation, documentation, onboarding, setup, developer-experience]
+tags: [installation, documentation, onboarding, setup, developer-experience, prerequisites, troubleshooting]
 content_type: research
 domain: engineering
 ---

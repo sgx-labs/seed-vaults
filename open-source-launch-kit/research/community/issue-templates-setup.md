@@ -1,6 +1,6 @@
 ---
 title: "How Do I Set Up GitHub Issue Templates?"
-tags: [github, issues, templates, contributor-experience, triage]
+tags: [github, issues, templates, contributor-experience, triage, bug-report, feature-request]
 content_type: research
 domain: engineering
 ---

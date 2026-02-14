@@ -1,6 +1,6 @@
 ---
 title: "When Should I Archive or Hand Off My Project?"
-tags: [archive, handoff, maintenance, sustainability, end-of-life]
+tags: [archive, handoff, maintenance, sustainability, end-of-life, transfer, deprecation]
 content_type: research
 domain: engineering
 ---

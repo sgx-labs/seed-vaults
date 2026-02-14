@@ -1,6 +1,6 @@
 ---
 title: "How Do I Handle Breaking Changes Without Losing Users?"
-tags: [breaking-changes, migration, versioning, communication, trust]
+tags: [breaking-changes, migration, versioning, communication, trust, deprecation, semver]
 content_type: research
 domain: engineering
 ---

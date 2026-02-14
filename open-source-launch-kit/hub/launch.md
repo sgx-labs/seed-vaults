@@ -1,15 +1,16 @@
 ---
 title: "Launch — Pre-Launch Checklist and First Release"
-tags: [launch, checklist, first-release, go-live]
+tags: [launch, checklist, first-release, go-live, pre-launch, soft-launch]
 content_type: hub
 domain: engineering
+pinned: true
 ---
 
 # Launch — Pre-Launch Checklist and First Release
 
 ## Overview
 
-Launching an open source project is part engineering, part marketing. You need working code AND a story that makes people care. This hub covers everything from "is my repo ready?" to "how do I get my first users?"
+Launching an open source project requires a pre-launch checklist, soft launch feedback, and a coordinated public release strategy. This hub covers repository setup essentials like README, LICENSE, CONTRIBUTING.md, and CI/CD configuration. It walks through the launch sequence from soft launch with beta testers through Show HN and Product Hunt submissions, and into building initial traction for your first 100 GitHub stars.
 
 ## Pre-Launch Checklist
 
@@ -56,7 +57,10 @@ Launching an open source project is part engineering, part marketing. You need w
 - `research/launch/product-hunt-playbook.md` — Product Hunt launch strategy
 - `research/launch/first-100-stars.md` — Getting initial traction
 
-## Related
+## See Also
 
-- `hub/docs.md` — Documentation strategy
-- `hub/marketing.md` — Distribution channels beyond launch day
+- `hub/docs.md` — Documentation strategy for README, guides, and API reference
+- `hub/marketing.md` — Distribution channels, directories, and content marketing beyond launch day
+- `hub/releases.md` — Versioning, changelogs, and CI/CD for your first release
+- `hub/community.md` — Building community around your project after launch
+- `hub/sustainability.md` — Long-term project health and burnout prevention

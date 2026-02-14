@@ -1,6 +1,6 @@
 ---
 title: "How Do I Handle My First External Contributor PR?"
-tags: [contributors, pull-requests, community, onboarding]
+tags: [contributors, pull-requests, community, onboarding, code-review, first-pr]
 content_type: research
 domain: engineering
 ---

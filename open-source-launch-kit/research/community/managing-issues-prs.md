@@ -1,6 +1,6 @@
 ---
 title: "How Do I Manage Issues and PRs From Contributors?"
-tags: [issues, pull-requests, triage, management, contributors]
+tags: [issues, pull-requests, triage, management, contributors, labels, stale-bot]
 content_type: research
 domain: engineering
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Decision Log"
-tags: [decisions, architecture, log]
+tags: [decisions, architecture, log, license, semver, github-actions, changelog]
 content_type: decision
 domain: engineering
 ---

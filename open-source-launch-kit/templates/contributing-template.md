@@ -1,7 +1,7 @@
 ---
 title: "CONTRIBUTING.md Template"
-tags: [template, contributing, community, contributors]
-content_type: research
+tags: [template, contributing, community, contributors, onboarding]
+content_type: template
 domain: engineering
 ---
 

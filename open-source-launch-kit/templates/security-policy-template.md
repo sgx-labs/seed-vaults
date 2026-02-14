@@ -1,7 +1,7 @@
 ---
 title: "SECURITY.md Template"
-tags: [template, security, vulnerability, disclosure]
-content_type: research
+tags: [template, security, vulnerability, disclosure, responsible-reporting]
+content_type: template
 domain: engineering
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "README Template"
-tags: [template, readme, documentation]
-content_type: research
+tags: [template, readme, documentation, landing-page, first-impression]
+content_type: template
 domain: engineering
 ---
 

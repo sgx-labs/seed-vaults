@@ -1,6 +1,6 @@
 ---
 title: "How Do I Optimize My GitHub Repository for Discovery?"
-tags: [github, seo, discovery, optimization, metadata]
+tags: [github, seo, discovery, optimization, metadata, topics, social-preview]
 content_type: research
 domain: engineering
 ---

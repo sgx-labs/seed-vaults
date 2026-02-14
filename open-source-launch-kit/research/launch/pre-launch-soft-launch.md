@@ -1,6 +1,6 @@
 ---
 title: "How Do I Run a Soft Launch Before Going Public?"
-tags: [soft-launch, feedback, beta, testing, launch]
+tags: [soft-launch, feedback, beta, testing, launch, friction, user-testing]
 content_type: research
 domain: engineering
 ---

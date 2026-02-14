@@ -1,6 +1,6 @@
 ---
 title: "How Do I Prevent Burnout as a Solo Maintainer?"
-tags: [burnout, sustainability, health, maintainer, boundaries]
+tags: [burnout, sustainability, health, maintainer, boundaries, automation, self-care]
 content_type: research
 domain: engineering
 ---

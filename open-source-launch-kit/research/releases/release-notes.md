@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write Good Release Notes?"
-tags: [release-notes, communication, releases, github]
+tags: [release-notes, communication, releases, github, announcement, highlights]
 content_type: research
 domain: engineering
 ---

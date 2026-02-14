@@ -1,6 +1,6 @@
 ---
 title: "How Do I Launch on Hacker News (Show HN)?"
-tags: [show-hn, hacker-news, launch, marketing, strategy]
+tags: [show-hn, hacker-news, launch, marketing, strategy, engagement, timing]
 content_type: research
 domain: engineering
 ---

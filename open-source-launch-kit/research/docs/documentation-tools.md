@@ -1,6 +1,6 @@
 ---
 title: "What Documentation Tools Should I Use?"
-tags: [documentation, tools, static-site, hosting, docs]
+tags: [documentation, tools, static-site, hosting, docs, docusaurus, mkdocs, vitepress]
 content_type: research
 domain: engineering
 ---

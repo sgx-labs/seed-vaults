@@ -1,6 +1,6 @@
 ---
 title: "How Do I Choose an Open Source License?"
-tags: [license, legal, mit, apache, gpl, launch]
+tags: [license, legal, mit, apache, gpl, launch, agpl, bsd, copyleft]
 content_type: research
 domain: engineering
 ---

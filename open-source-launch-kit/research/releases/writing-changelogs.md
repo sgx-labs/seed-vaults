@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write a Changelog That People Actually Read?"
-tags: [changelog, releases, documentation, communication]
+tags: [changelog, releases, documentation, communication, keep-a-changelog, release-please]
 content_type: research
 domain: engineering
 ---

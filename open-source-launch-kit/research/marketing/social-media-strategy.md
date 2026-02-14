@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build a Social Media Presence Without Being Spammy?"
-tags: [social-media, twitter, marketing, community, growth]
+tags: [social-media, twitter, marketing, community, growth, reddit, linkedin, build-in-public]
 content_type: research
 domain: engineering
 ---

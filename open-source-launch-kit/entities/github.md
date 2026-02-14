@@ -1,8 +1,9 @@
 ---
 title: "GitHub — Platform Features for OSS"
-tags: [github, entity, platform, actions, releases, discussions]
+tags: [github, entity, platform, actions, releases, discussions, ci-cd]
 content_type: entity
 domain: engineering
+pinned: true
 ---
 
 # GitHub — Platform Features for OSS

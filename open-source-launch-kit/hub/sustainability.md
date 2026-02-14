@@ -1,6 +1,6 @@
 ---
 title: "Sustainability — Funding, Sponsorships, and Burnout Prevention"
-tags: [sustainability, funding, burnout, sponsorship, maintenance]
+tags: [sustainability, funding, burnout, sponsorship, maintenance, github-sponsors, governance]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Most open source maintainers quit within two years. The code is the easy part — sustaining motivation, handling demands from users, and funding your time are the real challenges. This hub covers how to keep going without burning out.
+Open source sustainability rests on three pillars: personal burnout prevention through boundary-setting and automation, financial sustainability through GitHub Sponsors, Open Collective grants, and open core business models, and community sustainability through governance, co-maintainers, and bus factor reduction. This hub covers warning signs of maintainer burnout, concrete funding options from individual sponsors to sovereign tech grants, project health metrics, security vulnerability handling, and knowing when to archive or hand off a project responsibly.
 
 ## The Three Pillars of Sustainability
 
@@ -52,7 +52,10 @@ If you recognize these signs, read `research/sustainability/preventing-burnout.m
 - `research/sustainability/project-health-metrics.md` — What to measure and why
 - `research/sustainability/security-vulnerability-handling.md` — Responsible disclosure process
 
-## Related
+## See Also
 
-- `hub/community.md` — Building a community that shares the load
-- `hub/releases.md` — Automating releases reduces maintenance burden
+- `hub/community.md` — Building a community that shares the maintenance load
+- `hub/releases.md` — Automating releases to reduce maintenance burden
+- `hub/launch.md` — Sustainable launch practices that set healthy expectations
+- `hub/docs.md` — Documentation that enables others to maintain the project
+- `hub/marketing.md` — Sustainable marketing cadence for solo maintainers

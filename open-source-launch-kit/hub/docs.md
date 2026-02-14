@@ -1,6 +1,6 @@
 ---
 title: "Documentation — Strategy, README, Guides, and API Docs"
-tags: [documentation, readme, guides, api-docs, writing]
+tags: [documentation, readme, guides, api-docs, writing, developer-experience]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Documentation is the difference between "I starred it" and "I use it every day." Your README is your landing page. Your guides are your onboarding. Your API docs are your retention. Invest in all three.
+Open source documentation spans four layers: README as landing page, getting started guides for onboarding, API and CLI reference for daily use, and tutorials for power users. This hub covers writing READMEs that convert visitors to users, choosing documentation site generators like Docusaurus or MkDocs, writing copy-paste-friendly install instructions, and documenting APIs and CLI commands with working examples and clear parameter references.
 
 ## Documentation Layers
 
@@ -54,8 +54,12 @@ Walk someone from zero to working in under 5 minutes:
 - `research/docs/writing-install-instructions.md` — Installation docs that actually work
 - `research/docs/api-documentation.md` — Documenting APIs and CLIs
 
-## Related
+## See Also
 
-- `hub/launch.md` — Pre-launch documentation checklist
-- `hub/community.md` — Good docs reduce support burden
+- `hub/launch.md` — Pre-launch documentation checklist and repository essentials
+- `hub/community.md` — Good docs reduce community support burden
+- `hub/releases.md` — Migration guides and changelogs for major versions
+- `hub/marketing.md` — README as your primary marketing asset
+- `hub/sustainability.md` — Documentation that enables maintainer succession
 - `templates/readme-template.md` — README fill-in template
+- `templates/contributing-template.md` — CONTRIBUTING.md fill-in template

@@ -1,6 +1,6 @@
 ---
 title: "What Metrics Should I Track for Project Health?"
-tags: [metrics, health, analytics, sustainability, growth]
+tags: [metrics, health, analytics, sustainability, growth, downloads, stars, contributor-count]
 content_type: research
 domain: engineering
 ---

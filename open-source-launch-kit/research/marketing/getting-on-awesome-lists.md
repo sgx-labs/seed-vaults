@@ -1,6 +1,6 @@
 ---
 title: "How Do I Get My Project on Awesome Lists?"
-tags: [awesome-lists, directories, github, discovery, marketing]
+tags: [awesome-lists, directories, github, discovery, marketing, curated-lists, submission]
 content_type: research
 domain: engineering
 ---

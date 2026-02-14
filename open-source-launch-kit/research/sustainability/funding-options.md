@@ -1,6 +1,6 @@
 ---
 title: "What Funding Options Exist for Open Source Projects?"
-tags: [funding, sponsors, grants, monetization, sustainability]
+tags: [funding, sponsors, grants, monetization, sustainability, github-sponsors, open-collective, open-core]
 content_type: research
 domain: engineering
 ---

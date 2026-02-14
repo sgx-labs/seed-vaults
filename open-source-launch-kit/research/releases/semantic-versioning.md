@@ -1,6 +1,6 @@
 ---
 title: "What Is Semantic Versioning and When Do I Bump What?"
-tags: [semver, versioning, releases, breaking-changes]
+tags: [semver, versioning, releases, breaking-changes, major-minor-patch, conventional-commits]
 content_type: research
 domain: engineering
 ---

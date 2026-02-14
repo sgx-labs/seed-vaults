@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write a README That Converts Visitors to Users?"
-tags: [readme, documentation, marketing, conversion, first-impression]
+tags: [readme, documentation, marketing, conversion, first-impression, seo, landing-page]
 content_type: research
 domain: engineering
 ---

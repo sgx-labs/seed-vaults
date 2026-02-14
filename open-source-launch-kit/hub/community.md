@@ -1,6 +1,6 @@
 ---
 title: "Community — Building and Managing Your OSS Community"
-tags: [community, contributors, governance, collaboration]
+tags: [community, contributors, governance, collaboration, discord, pull-requests]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Community is what separates a repo from a project. A repo with no community is just code. A project with a community is something people care about, contribute to, and advocate for. Building community is a skill — and it starts before your first external contributor shows up.
+Building an open source community means managing contributors, handling pull requests, setting up governance, and growing engagement through Discord, GitHub Discussions, and issue triage. This hub covers every stage from solo maintainer to established project with twenty-plus contributors, including first-time contributor onboarding, code of conduct enforcement, recognition and retention strategies, and the transition from BDFL governance to a maintainer council.
 
 ## Community Building Stages
 
@@ -43,9 +43,12 @@ Community is what separates a repo from a project. A repo with no community is j
 - `research/community/governance-models.md` — From BDFL to committees
 - `research/community/code-of-conduct.md` — Why you need one and how to enforce it
 
-## Related
+## See Also
 
-- `hub/docs.md` — Good docs reduce community support burden
-- `hub/sustainability.md` — Preventing burnout as community grows
-- `entities/discord.md` — Discord setup specifics
-- `entities/github.md` — GitHub community features
+- `hub/docs.md` — Good documentation reduces community support burden
+- `hub/sustainability.md` — Preventing maintainer burnout as community grows
+- `hub/launch.md` — Launch strategy that seeds your initial community
+- `hub/marketing.md` — Community as a marketing and distribution channel
+- `hub/releases.md` — Release communication that keeps contributors engaged
+- `entities/discord.md` — Discord setup, channels, and moderation specifics
+- `entities/github.md` — GitHub Discussions, Issues, and community features

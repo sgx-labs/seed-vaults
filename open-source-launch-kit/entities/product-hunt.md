@@ -1,6 +1,6 @@
 ---
 title: "Product Hunt — Launch Strategy, Timing, and Preparation"
-tags: [product-hunt, entity, launch, marketing, platform]
+tags: [product-hunt, entity, launch, marketing, platform, maker-comment, upvotes]
 content_type: entity
 domain: engineering
 ---

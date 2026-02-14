@@ -1,3 +1,9 @@
+---
+title: "Open Source Launch Kit Seed Specification"
+content_type: hub
+tags: [seed-spec, open-source, launch-kit, project-structure, metadata]
+---
+
 # Open Source Launch Kit Seed
 
 ## Metadata

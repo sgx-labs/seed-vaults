@@ -1,6 +1,6 @@
 ---
 title: "What Directories and Platforms Should I List My Project On?"
-tags: [directories, listings, discovery, distribution, marketing]
+tags: [directories, listings, discovery, distribution, marketing, awesome-lists, devhunt, alternativeto]
 content_type: research
 domain: engineering
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How Do I Document My API or CLI?"
-tags: [api, cli, documentation, reference, developer-experience]
+tags: [api, cli, documentation, reference, developer-experience, typedoc, jsdoc, godoc]
 content_type: research
 domain: engineering
 ---

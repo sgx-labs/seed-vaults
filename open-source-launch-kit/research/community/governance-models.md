@@ -1,6 +1,6 @@
 ---
 title: "What Governance Model Should My Project Use?"
-tags: [governance, leadership, community, decision-making]
+tags: [governance, leadership, community, decision-making, bdfl, maintainer-council]
 content_type: research
 domain: engineering
 ---

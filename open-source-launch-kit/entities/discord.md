@@ -1,6 +1,6 @@
 ---
 title: "Discord — Community Setup, Channels, and Moderation"
-tags: [discord, entity, community, chat, moderation]
+tags: [discord, entity, community, chat, moderation, channels, bots]
 content_type: entity
 domain: engineering
 ---

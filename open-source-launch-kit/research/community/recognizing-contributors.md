@@ -1,6 +1,6 @@
 ---
 title: "How Do I Recognize and Retain Contributors?"
-tags: [contributors, recognition, retention, community, motivation]
+tags: [contributors, recognition, retention, community, motivation, all-contributors, maintainer]
 content_type: research
 domain: engineering
 ---

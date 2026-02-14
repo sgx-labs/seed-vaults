@@ -1,7 +1,7 @@
 ---
 title: "CHANGELOG.md Template"
-tags: [template, changelog, releases, versioning]
-content_type: research
+tags: [template, changelog, releases, versioning, keep-a-changelog]
+content_type: template
 domain: engineering
 ---
 

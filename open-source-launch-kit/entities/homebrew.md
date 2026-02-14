@@ -1,6 +1,6 @@
 ---
 title: "Homebrew — Tap Setup, Formula Writing, and Updates"
-tags: [homebrew, entity, distribution, macos, linux]
+tags: [homebrew, entity, distribution, macos, linux, tap, formula, goreleaser]
 content_type: entity
 domain: engineering
 ---

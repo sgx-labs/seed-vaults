@@ -1,6 +1,6 @@
 ---
 title: "Marketing — Distribution Channels, Directories, and Content"
-tags: [marketing, distribution, directories, content, growth]
+tags: [marketing, distribution, directories, content, growth, awesome-lists, social-media]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Most open source projects die in obscurity, not from bad code. Marketing for OSS is not about being salesy — it is about putting your project where the people who need it will find it. You built something useful. Now make it discoverable.
+Open source marketing covers launch-day distribution through Show HN, Product Hunt, and Reddit, ongoing discovery via Awesome Lists and directory listings, and long-term growth through content marketing, tutorials, comparison posts, and social media strategy. This hub prioritizes channels by impact: high-signal platforms like Hacker News first, curated directory listings second, and build-in-public social presence third. Discoverability is the difference between a useful project and a used project.
 
 ## Distribution Channels (Priority Order)
 
@@ -46,8 +46,11 @@ Content that drives adoption (in order of effectiveness):
 - `research/marketing/social-media-strategy.md` — Building presence without being spammy
 - `research/marketing/getting-on-awesome-lists.md` — How to get accepted to curated lists
 
-## Related
+## See Also
 
-- `hub/launch.md` — Launch-day marketing
-- `hub/community.md` — Community as a marketing channel
-- `entities/product-hunt.md` — Product Hunt specifics
+- `hub/launch.md` — Launch-day marketing, Show HN, and Product Hunt timing
+- `hub/community.md` — Community as a viral marketing and advocacy channel
+- `hub/docs.md` — README as your primary marketing landing page
+- `hub/releases.md` — Release announcements as content marketing moments
+- `hub/sustainability.md` — Sustainable marketing cadence to prevent burnout
+- `entities/product-hunt.md` — Product Hunt launch preparation and strategy

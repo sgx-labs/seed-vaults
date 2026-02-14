@@ -1,6 +1,6 @@
 ---
 title: "How Do I Get My First 100 GitHub Stars?"
-tags: [stars, traction, growth, launch, github]
+tags: [stars, traction, growth, launch, github, adoption, discovery]
 content_type: research
 domain: engineering
 ---

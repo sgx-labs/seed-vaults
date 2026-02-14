@@ -1,6 +1,6 @@
 ---
 title: "How Do I Set Up GitHub Actions for Testing and Releases?"
-tags: [github-actions, ci, cd, automation, testing, releases]
+tags: [github-actions, ci, cd, automation, testing, releases, workflows, matrix-builds]
 content_type: research
 domain: engineering
 ---

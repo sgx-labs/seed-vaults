@@ -1,8 +1,9 @@
 ---
 title: "npm — Publishing, Scoped Packages, and Provenance"
-tags: [npm, entity, publishing, distribution, javascript]
+tags: [npm, entity, publishing, distribution, javascript, package-manager]
 content_type: entity
 domain: engineering
+pinned: true
 ---
 
 # npm — Publishing, Scoped Packages, and Provenance

@@ -1,6 +1,6 @@
 ---
 title: "Releases — Versioning, Changelogs, CI/CD, and Distribution"
-tags: [releases, versioning, cicd, changelog, distribution]
+tags: [releases, versioning, cicd, changelog, distribution, semver, automation]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Releases are how you deliver value to users. A good release process builds trust: users know what changed, versions mean something, and updates do not break their setup. A bad release process destroys trust fast.
+A solid release process covers semantic versioning, Keep a Changelog formatting, GitHub Actions CI/CD automation, and multi-platform binary distribution through npm, Homebrew, and GitHub Releases. This hub walks through the complete release workflow from deciding what ships and writing user-facing changelogs, to tagging, building artifacts, publishing packages, and writing release notes that communicate breaking changes and migration steps clearly.
 
 ## Release Workflow
 
@@ -57,8 +57,13 @@ Releases are how you deliver value to users. A good release process builds trust
 - `research/releases/release-notes.md` — Writing effective release notes
 - `research/releases/binary-distribution.md` — npm, Homebrew, and binary distribution
 
-## Related
+## See Also
 
-- `hub/docs.md` — Migration guides for major versions
+- `hub/docs.md` — Migration guides and documentation for major versions
+- `hub/launch.md` — First release as part of your launch sequence
+- `hub/marketing.md` — Release announcements as marketing opportunities
+- `hub/community.md` — Contributor recognition in release notes
+- `hub/sustainability.md` — Automating releases to reduce maintenance burden
 - `templates/changelog-template.md` — Changelog format template
-- `entities/npm.md`, `entities/homebrew.md` — Platform specifics
+- `entities/npm.md` — npm publishing and trusted publishing setup
+- `entities/homebrew.md` — Homebrew tap and formula automation

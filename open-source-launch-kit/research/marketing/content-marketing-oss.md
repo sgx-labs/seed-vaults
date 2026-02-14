@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write Content That Drives OSS Adoption?"
-tags: [content-marketing, blog, tutorials, writing, growth]
+tags: [content-marketing, blog, tutorials, writing, growth, dev-to, hashnode, seo]
 content_type: research
 domain: engineering
 ---

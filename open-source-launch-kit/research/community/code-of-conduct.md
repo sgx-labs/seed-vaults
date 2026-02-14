@@ -1,6 +1,6 @@
 ---
 title: "Why Do I Need a Code of Conduct and How Do I Enforce It?"
-tags: [code-of-conduct, community, moderation, safety]
+tags: [code-of-conduct, community, moderation, safety, contributor-covenant, enforcement]
 content_type: research
 domain: engineering
 ---
