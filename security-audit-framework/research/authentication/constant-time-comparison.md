@@ -1,6 +1,6 @@
 ---
 title: "Constant-Time Comparison — Preventing Timing Attacks"
-tags: [authentication, timing-attacks, comparison, cryptography]
+tags: [authentication, timing-attacks, comparison, cryptography, hmac, webhook-signatures, timing-safe-equal]
 content_type: research
 domain: security
 ---

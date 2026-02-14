@@ -1,6 +1,6 @@
 ---
 title: "HIPAA Basics for Developers"
-tags: [compliance, hipaa, healthcare, phi, encryption]
+tags: [compliance, hipaa, healthcare, phi, encryption, baa, audit-trail, session-timeout]
 content_type: research
 domain: security
 ---

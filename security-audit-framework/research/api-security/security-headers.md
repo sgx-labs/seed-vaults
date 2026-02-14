@@ -1,6 +1,6 @@
 ---
 title: "Security Headers — Complete Guide"
-tags: [api-security, headers, csp, hsts, xss-protection]
+tags: [api-security, headers, csp, hsts, xss-protection, helmet, content-security-policy]
 content_type: research
 domain: security
 ---

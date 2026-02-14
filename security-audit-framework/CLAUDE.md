@@ -1,3 +1,10 @@
+---
+title: "Security Audit Framework — Governance"
+content_type: template
+tags: [governance, rules, security-review, code-review]
+pinned: true
+---
+
 # Security Audit Framework — Governance
 
 ## Purpose

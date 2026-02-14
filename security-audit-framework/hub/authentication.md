@@ -1,13 +1,13 @@
 ---
 title: "Authentication & Session Management"
-tags: [authentication, session, oauth, jwt, passwords]
+tags: [authentication, session-management, oauth, jwt, passwords, mfa, passkeys]
 content_type: hub
 domain: security
 ---
 
 # Authentication & Session Management
 
-Authentication is the single most critical security boundary. Get it wrong and nothing else matters.
+Authentication and session management form the most critical security boundary in any application. This hub covers password hashing with Argon2id and bcrypt, secure session cookies, JWT token lifecycle, OAuth 2.1 with PKCE, OpenID Connect federation, FIDO2 passkeys and WebAuthn, multi-factor authentication patterns, RBAC authorization, and password reset flows. It includes algorithm comparison tables, code examples in Node.js, Python, and Go, and links to detailed research notes for each authentication topic.
 
 ## Core Principles
 
@@ -67,7 +67,10 @@ See: research/authentication/jwt-security.md
 
 ## See Also
 
-- hub/api-security.md — API authentication patterns
+- hub/owasp-top-10.md — A07: Authentication Failures
+- hub/api-security.md — API authentication patterns, rate limiting
+- hub/compliance.md — Compliance requirements for auth controls
 - research/authentication/password-reset-flows.md
 - research/authentication/rbac-patterns.md
+- research/authentication/constant-time-comparison.md
 - entities/auth-standards.md

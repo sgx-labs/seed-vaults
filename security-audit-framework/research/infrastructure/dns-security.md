@@ -1,6 +1,6 @@
 ---
 title: "DNS Security and Subdomain Takeover"
-tags: [infrastructure, dns, subdomain-takeover, dnssec]
+tags: [infrastructure, dns, subdomain-takeover, dnssec, caa-records, cname, domain-security]
 content_type: research
 domain: security
 ---

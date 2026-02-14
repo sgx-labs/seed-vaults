@@ -1,6 +1,6 @@
 ---
 title: "Security Review of Pull Requests"
-tags: [code-review, security, pull-request, checklist]
+tags: [code-review, security, pull-request, checklist, red-flags, semgrep]
 content_type: research
 domain: security
 ---

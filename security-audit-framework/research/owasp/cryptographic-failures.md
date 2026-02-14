@@ -1,6 +1,6 @@
 ---
 title: "A05:2025 — Cryptographic Failures"
-tags: [owasp, cryptography, encryption, hashing, tls]
+tags: [owasp, cryptography, encryption, hashing, tls, aes-256, csprng, key-management]
 content_type: research
 domain: security
 ---

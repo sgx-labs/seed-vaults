@@ -1,6 +1,6 @@
 ---
 title: "TLS Configuration Best Practices"
-tags: [infrastructure, tls, ssl, https, encryption-in-transit]
+tags: [infrastructure, tls, ssl, https, encryption-in-transit, nginx, lets-encrypt, cipher-suites]
 content_type: research
 domain: security
 ---

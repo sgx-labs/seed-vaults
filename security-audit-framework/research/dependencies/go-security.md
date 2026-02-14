@@ -1,6 +1,6 @@
 ---
 title: "Go Module Security"
-tags: [dependencies, go, modules, govulncheck]
+tags: [dependencies, go, modules, govulncheck, go-sum, goprivate, sql-injection]
 content_type: research
 domain: security
 ---

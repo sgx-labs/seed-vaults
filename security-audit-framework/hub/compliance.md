@@ -1,13 +1,13 @@
 ---
 title: "Security Compliance for Developers"
-tags: [compliance, soc2, gdpr, hipaa, privacy]
+tags: [compliance, soc2, gdpr, hipaa, pci-dss, privacy, data-protection]
 content_type: hub
 domain: security
 ---
 
 # Security Compliance for Developers
 
-Compliance is not security, but security is prerequisite for compliance. This covers what developers actually need to know.
+Security compliance covers the regulatory frameworks and audit standards that developers must implement, including SOC 2 Trust Service Criteria for B2B SaaS, GDPR data protection rights for EU users, HIPAA Protected Health Information safeguards for healthcare applications, PCI DSS cardholder data requirements for payment processing, and CCPA consumer privacy rights. This hub provides developer-focused checklists, cost estimates, framework comparison tables, and links to detailed research notes with code examples for implementing each compliance requirement.
 
 ## Core Principles
 
@@ -64,6 +64,10 @@ See: research/compliance/gdpr-developers.md
 
 ## See Also
 
+- hub/owasp-top-10.md — OWASP as compliance baseline
+- hub/authentication.md — Auth controls required by all frameworks
 - hub/infrastructure.md — Technical controls for compliance
+- hub/dependencies.md — SBOM and provenance for compliance
 - research/infrastructure/incident-response.md — Required for all frameworks
 - research/infrastructure/sensitive-data-logs.md — Logging compliance
+- research/compliance/security-policy-templates.md — Policy templates for startups

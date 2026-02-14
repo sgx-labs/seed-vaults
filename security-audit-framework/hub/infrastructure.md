@@ -1,13 +1,13 @@
 ---
 title: "Infrastructure & Cloud Security"
-tags: [infrastructure, cloud, secrets, network, containers]
+tags: [infrastructure, cloud-security, secrets-management, containers, tls, ci-cd, incident-response]
 content_type: hub
 domain: security
 ---
 
 # Infrastructure & Cloud Security
 
-Secure code on insecure infrastructure is still insecure. This covers secrets management, cloud configuration, and operational security.
+Infrastructure and cloud security ensures your production environment protects the application it hosts. This hub covers secrets management with HashiCorp Vault and AWS Secrets Manager, container security with Docker hardening and Kubernetes pod policies, cloud IAM least-privilege policies for AWS, GCP, and Azure, TLS configuration with modern cipher suites, CI/CD pipeline hardening with pinned actions and OIDC authentication, DNS security and subdomain takeover prevention, incident response procedures, and sensitive data handling in logs. Every section links to implementation-ready research notes with code examples.
 
 ## Core Principles
 
@@ -62,6 +62,10 @@ See: research/infrastructure/cloud-security.md
 
 ## See Also
 
-- hub/dependencies.md — Build pipeline security
-- hub/compliance.md — Infrastructure compliance requirements
+- hub/owasp-top-10.md — A02: Security Misconfiguration
+- hub/authentication.md — Auth infrastructure, session stores
+- hub/dependencies.md — Build pipeline security, container scanning
+- hub/compliance.md — Infrastructure compliance requirements (SOC 2, HIPAA)
 - entities/security-tools.md — Infrastructure scanning tools
+- research/infrastructure/dns-security.md — DNS and subdomain takeover
+- research/infrastructure/tls-configuration.md — TLS setup and cipher suites

@@ -1,6 +1,6 @@
 ---
 title: "A10:2025 — Mishandling of Exceptional Conditions"
-tags: [owasp, error-handling, exceptions, fail-secure]
+tags: [owasp, error-handling, exceptions, fail-secure, fail-closed, stack-traces]
 content_type: research
 domain: security
 ---

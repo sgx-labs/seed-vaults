@@ -1,13 +1,13 @@
 ---
 title: "API Security"
-tags: [api, rate-limiting, cors, headers, input-validation]
+tags: [api-security, rate-limiting, cors, security-headers, input-validation, xss]
 content_type: hub
 domain: security
 ---
 
 # API Security
 
-APIs are the attack surface. Every endpoint is a door — secure each one.
+API security encompasses every layer of protection for your HTTP endpoints, including security headers like Content-Security-Policy and HSTS, server-side input validation with schema enforcement, rate limiting to prevent brute force and DDoS, CORS configuration to control cross-origin access, secure file upload handling, WebSocket authentication, GraphQL query depth limiting, and SPA versus SSR security tradeoffs. This hub provides configuration examples, implementation patterns, and links to detailed research notes for each attack vector.
 
 ## Core Principles
 
@@ -69,6 +69,10 @@ See: research/api-security/cors-configuration.md
 
 ## See Also
 
-- hub/owasp-top-10.md — A04: Injection
-- hub/authentication.md — API auth patterns
+- hub/owasp-top-10.md — A04: Injection, A02: Security Misconfiguration
+- hub/authentication.md — API auth patterns, JWT, session cookies
+- hub/infrastructure.md — TLS configuration, secrets in transit
+- hub/dependencies.md — Dependency scanning in API build pipelines
 - research/owasp/injection.md — SQL/NoSQL/Command injection
+- research/api-security/graphql-security.md — GraphQL-specific patterns
+- research/api-security/spa-ssr-security.md — SPA vs SSR tradeoffs

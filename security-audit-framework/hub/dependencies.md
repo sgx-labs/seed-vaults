@@ -1,13 +1,13 @@
 ---
 title: "Dependency & Supply Chain Security"
-tags: [dependencies, supply-chain, sca, npm, pip, go-modules]
+tags: [dependencies, supply-chain, sca, npm-audit, pip-audit, govulncheck, sbom]
 content_type: hub
 domain: security
 ---
 
 # Dependency & Supply Chain Security
 
-Your code is only as secure as your weakest dependency. Supply chain attacks nearly doubled in 2025 — this is not theoretical.
+Dependency and supply chain security protects your application from compromised third-party packages, typosquatting attacks, dependency confusion exploits, and vulnerable transitive components. This hub covers npm audit, pip-audit, govulncheck, and cargo audit commands, lockfile verification, version pinning strategies, Dependabot and Renovate configuration, SBOM generation with CycloneDX and Syft, software provenance with SLSA, and CI/CD scanning pipelines. Supply chain attacks grew 93% in 2025 -- this is the fastest-growing attack vector.
 
 ## Core Principles
 
@@ -66,5 +66,8 @@ See: research/dependencies/ci-cd-scanning.md
 ## See Also
 
 - hub/owasp-top-10.md — A03: Supply Chain, A06: Vulnerable Components
+- hub/infrastructure.md — CI/CD pipeline security, container scanning
+- hub/compliance.md — SBOM requirements for SOC 2, government contracts
 - entities/security-tools.md — SCA tools (Snyk, Dependabot, Trivy)
 - entities/cve-databases.md — Where to look up vulnerabilities
+- research/dependencies/go-security.md — Go module security patterns

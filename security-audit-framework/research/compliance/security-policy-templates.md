@@ -1,6 +1,6 @@
 ---
 title: "Security Policy Templates for Startups"
-tags: [compliance, policy, security-policy, responsible-disclosure]
+tags: [compliance, policy, security-policy, responsible-disclosure, security-md, data-classification]
 content_type: research
 domain: security
 ---

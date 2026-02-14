@@ -1,6 +1,6 @@
 ---
 title: "Container Security Best Practices"
-tags: [infrastructure, containers, docker, kubernetes, scanning]
+tags: [infrastructure, containers, docker, kubernetes, scanning, distroless, non-root, trivy]
 content_type: research
 domain: security
 ---

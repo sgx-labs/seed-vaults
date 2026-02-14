@@ -1,3 +1,9 @@
+---
+title: "Security Audit Framework Seed Specification"
+content_type: template
+tags: [seed-spec, security, framework, knowledge-base]
+---
+
 # Security Audit Framework Seed
 
 ## Metadata

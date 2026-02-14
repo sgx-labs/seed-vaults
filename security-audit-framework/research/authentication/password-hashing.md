@@ -1,6 +1,6 @@
 ---
 title: "Password Hashing — Secure Implementation"
-tags: [authentication, passwords, hashing, bcrypt, argon2]
+tags: [authentication, passwords, hashing, bcrypt, argon2, scrypt, pbkdf2, cost-factor]
 content_type: research
 domain: security
 ---

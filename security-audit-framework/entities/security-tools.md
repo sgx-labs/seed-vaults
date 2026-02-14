@@ -3,6 +3,7 @@ title: "Security Tools — Entity Reference"
 tags: [tools, sast, dast, sca, scanning, entity]
 content_type: entity
 domain: security
+pinned: true
 ---
 
 # Security Tools Reference

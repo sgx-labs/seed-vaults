@@ -1,6 +1,6 @@
 ---
 title: "Cloud Security Fundamentals"
-tags: [infrastructure, cloud, aws, iam, s3, network]
+tags: [infrastructure, cloud, aws, iam, s3, network, least-privilege, cloudtrail]
 content_type: research
 domain: security
 ---

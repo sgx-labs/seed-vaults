@@ -1,6 +1,6 @@
 ---
 title: "Secure Password Reset Flows"
-tags: [authentication, password-reset, tokens, email-verification]
+tags: [authentication, password-reset, tokens, email-verification, rate-limiting, user-enumeration]
 content_type: research
 domain: security
 ---

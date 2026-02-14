@@ -1,6 +1,6 @@
 ---
 title: "Secrets Management — From Dev to Production"
-tags: [infrastructure, secrets, vault, kms, environment-variables]
+tags: [infrastructure, secrets, vault, kms, environment-variables, hashicorp, aws-secrets-manager, rotation]
 content_type: research
 domain: security
 ---

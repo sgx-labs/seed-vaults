@@ -1,6 +1,6 @@
 ---
 title: "A07:2025 — Authentication Failures"
-tags: [owasp, authentication, brute-force, credential-stuffing, session]
+tags: [owasp, authentication, brute-force, credential-stuffing, session, user-enumeration, nist-800-63b]
 content_type: research
 domain: security
 ---

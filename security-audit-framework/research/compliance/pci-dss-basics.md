@@ -1,6 +1,6 @@
 ---
 title: "PCI DSS Basics for Developers"
-tags: [compliance, pci-dss, payments, cardholder-data]
+tags: [compliance, pci-dss, payments, cardholder-data, stripe, tokenization, saq]
 content_type: research
 domain: security
 ---

@@ -1,8 +1,9 @@
 ---
 title: "OWASP — Entity Reference"
-tags: [owasp, entity, standards, testing]
+tags: [owasp, entity, standards, testing, web-security]
 content_type: entity
 domain: security
+pinned: true
 ---
 
 # OWASP (Open Worldwide Application Security Project)

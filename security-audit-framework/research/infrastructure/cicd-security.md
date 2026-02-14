@@ -1,6 +1,6 @@
 ---
 title: "CI/CD Pipeline Security"
-tags: [infrastructure, ci-cd, github-actions, pipeline, supply-chain]
+tags: [infrastructure, ci-cd, github-actions, pipeline, supply-chain, oidc, sha-pinning]
 content_type: research
 domain: security
 ---

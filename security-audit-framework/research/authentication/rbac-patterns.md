@@ -1,6 +1,6 @@
 ---
 title: "Role-Based Access Control (RBAC) Patterns"
-tags: [authentication, authorization, rbac, permissions, roles]
+tags: [authentication, authorization, rbac, permissions, roles, middleware, access-control]
 content_type: research
 domain: security
 ---

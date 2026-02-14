@@ -1,6 +1,6 @@
 ---
 title: "CI/CD Security Scanning Setup"
-tags: [dependencies, ci-cd, sast, sca, automation]
+tags: [dependencies, ci-cd, sast, sca, automation, semgrep, gitleaks, github-actions]
 content_type: research
 domain: security
 ---

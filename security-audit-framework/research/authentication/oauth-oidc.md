@@ -1,6 +1,6 @@
 ---
 title: "OAuth 2.1 and OpenID Connect Implementation"
-tags: [authentication, oauth, oidc, authorization, tokens]
+tags: [authentication, oauth, oidc, authorization, pkce, redirect-uri, sso]
 content_type: research
 domain: security
 ---

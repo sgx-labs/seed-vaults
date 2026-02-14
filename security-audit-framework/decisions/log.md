@@ -1,7 +1,7 @@
 ---
 title: "Security Decision Log"
-tags: [decisions, log]
-content_type: decisions
+tags: [decisions, log, security-policy, architecture-decisions]
+content_type: decision
 domain: security
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "JWT Security — Pitfalls and Best Practices"
-tags: [authentication, jwt, tokens, refresh-tokens]
+tags: [authentication, jwt, tokens, refresh-tokens, token-rotation, revocation, rs256]
 content_type: research
 domain: security
 ---

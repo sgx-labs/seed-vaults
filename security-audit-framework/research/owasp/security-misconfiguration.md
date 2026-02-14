@@ -1,6 +1,6 @@
 ---
 title: "A02:2025 — Security Misconfiguration"
-tags: [owasp, misconfiguration, headers, defaults, hardening]
+tags: [owasp, misconfiguration, headers, defaults, hardening, debug-mode, cloud-buckets]
 content_type: research
 domain: security
 ---

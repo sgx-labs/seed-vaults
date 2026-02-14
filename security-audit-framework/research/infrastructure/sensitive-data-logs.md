@@ -1,6 +1,6 @@
 ---
 title: "Handling Sensitive Data in Logs"
-tags: [infrastructure, logging, pii, data-protection, compliance]
+tags: [infrastructure, logging, pii, data-protection, compliance, redaction, masking, log-retention]
 content_type: research
 domain: security
 ---

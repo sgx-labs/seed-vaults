@@ -1,6 +1,6 @@
 ---
 title: "Security Incident Response — The First 30 Minutes"
-tags: [infrastructure, incident-response, breach, forensics]
+tags: [infrastructure, incident-response, breach, forensics, containment, vulnerability-report]
 content_type: research
 domain: security
 ---

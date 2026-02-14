@@ -1,6 +1,6 @@
 ---
 title: "Input Validation — Server-Side Patterns"
-tags: [api-security, validation, sanitization, xss, injection]
+tags: [api-security, validation, sanitization, xss, injection, zod, pydantic, schema]
 content_type: research
 domain: security
 ---

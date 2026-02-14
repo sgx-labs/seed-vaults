@@ -1,6 +1,6 @@
 ---
 title: "GraphQL Security Patterns"
-tags: [api-security, graphql, query-complexity, introspection]
+tags: [api-security, graphql, query-complexity, introspection, depth-limiting, batching, field-authorization]
 content_type: research
 domain: security
 ---

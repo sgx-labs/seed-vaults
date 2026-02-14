@@ -1,6 +1,6 @@
 ---
 title: "Secure File Upload Handling"
-tags: [api-security, file-upload, validation, malware]
+tags: [api-security, file-upload, validation, malware, mime-type, path-traversal, multer]
 content_type: research
 domain: security
 ---

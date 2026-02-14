@@ -1,6 +1,6 @@
 ---
 title: "GDPR for Developers — What Actually Matters"
-tags: [compliance, gdpr, privacy, data-protection, ccpa]
+tags: [compliance, gdpr, privacy, data-protection, ccpa, right-to-deletion, data-export, consent]
 content_type: research
 domain: security
 ---

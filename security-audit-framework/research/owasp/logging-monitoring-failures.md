@@ -1,6 +1,6 @@
 ---
 title: "A09:2025 — Security Logging and Monitoring Failures"
-tags: [owasp, logging, monitoring, detection, alerting]
+tags: [owasp, logging, monitoring, detection, alerting, structured-logging, correlation-id]
 content_type: research
 domain: security
 ---

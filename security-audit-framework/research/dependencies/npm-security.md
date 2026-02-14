@@ -1,6 +1,6 @@
 ---
 title: "npm Security — Audit and Hardening"
-tags: [dependencies, npm, node, javascript, audit]
+tags: [dependencies, npm, node, javascript, audit, lockfile, npmrc, package-lock]
 content_type: research
 domain: security
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SBOM and Software Provenance"
-tags: [dependencies, sbom, provenance, supply-chain, attestation]
+tags: [dependencies, sbom, provenance, supply-chain, attestation, cyclonedx, slsa, spdx]
 content_type: research
 domain: security
 ---

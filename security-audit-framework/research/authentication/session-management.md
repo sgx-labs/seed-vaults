@@ -1,6 +1,6 @@
 ---
 title: "Session Management Security"
-tags: [authentication, sessions, cookies, csrf, fixation]
+tags: [authentication, sessions, cookies, csrf, fixation, httponly, samesite, redis]
 content_type: research
 domain: security
 ---

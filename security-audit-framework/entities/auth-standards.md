@@ -1,6 +1,6 @@
 ---
 title: "Authentication Standards — Entity Reference"
-tags: [oauth, oidc, fido2, webauthn, passkeys, entity]
+tags: [oauth, oidc, fido2, webauthn, passkeys, totp, authentication-standards]
 content_type: entity
 domain: security
 ---

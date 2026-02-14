@@ -1,6 +1,6 @@
 ---
 title: "Security Audit Framework — Bootstrap"
-tags: [bootstrap, security, orientation]
+tags: [bootstrap, security-audit, orientation, code-review, vulnerability-assessment]
 content_type: orientation
 domain: security
 pinned: true
@@ -8,7 +8,7 @@ pinned: true
 
 # Security Audit Framework
 
-A practical security knowledge base for AI coding agents. When asked "is this code secure?", search this vault for specific, actionable guidance with real code examples.
+A practical security knowledge base for AI coding agents covering the OWASP Top 10 2025, authentication and session management, API security hardening, dependency and supply chain auditing, infrastructure and cloud security, and compliance frameworks including SOC 2, GDPR, HIPAA, and PCI DSS. When asked "is this code secure?", search this vault for specific, actionable guidance with real code examples in Node.js, Python, and Go. Start with the hub notes for category overviews, then drill into research notes for implementation details.
 
 ## Rules of Engagement
 

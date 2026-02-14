@@ -1,6 +1,6 @@
 ---
 title: "SOC 2 Compliance for Startups"
-tags: [compliance, soc2, audit, controls, startups]
+tags: [compliance, soc2, audit, controls, startups, trust-service-criteria, type-ii]
 content_type: research
 domain: security
 ---

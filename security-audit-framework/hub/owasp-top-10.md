@@ -1,13 +1,13 @@
 ---
 title: "OWASP Top 10 (2025)"
-tags: [owasp, top-10, vulnerabilities, web-security]
+tags: [owasp, top-10, vulnerabilities, web-security, security-audit]
 content_type: hub
 domain: security
 ---
 
 # OWASP Top 10 — 2025 Edition
 
-The OWASP Top 10 is the industry-standard awareness document for web application security. The 2025 edition reflects current threat data with two new categories and updated rankings.
+The OWASP Top 10 is the industry-standard vulnerability classification for web application security, covering broken access control, injection, cryptographic failures, security misconfiguration, and supply chain attacks. This hub provides the complete 2025 ranking with severity ratings, code examples showing vulnerable and secure patterns, prevention checklists, and links to deep-dive research notes for each category. Use this as the starting point for security audits, code reviews, and penetration testing preparation.
 
 ## The List
 
@@ -45,5 +45,10 @@ The OWASP Top 10 is the industry-standard awareness document for web application
 
 ## See Also
 
+- hub/authentication.md — Auth failures (A07), password hashing, session management
+- hub/api-security.md — Input validation, security headers, injection prevention
+- hub/dependencies.md — Supply chain failures (A03), vulnerable components (A06)
+- hub/infrastructure.md — Security misconfiguration (A02), secrets management
+- hub/compliance.md — Compliance frameworks that reference OWASP
 - entities/owasp.md — OWASP resources and testing guides
 - entities/security-tools.md — Scanning tools for each category

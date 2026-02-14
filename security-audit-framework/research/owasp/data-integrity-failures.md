@@ -1,6 +1,6 @@
 ---
 title: "A08:2025 — Data Integrity Failures"
-tags: [owasp, integrity, deserialization, ci-cd, updates]
+tags: [owasp, integrity, deserialization, ci-cd, updates, yaml-safe-load, github-actions]
 content_type: research
 domain: security
 ---
