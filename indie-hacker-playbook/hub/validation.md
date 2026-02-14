@@ -1,11 +1,13 @@
 ---
 title: "Validation — Test Before You Build"
-tags: [validation, ideas, market-research, hub]
+tags: [validation, ideas, market-research, customer-discovery, hub]
 content_type: hub
 domain: business
 ---
 
 # Validation — Test Before You Build
+
+**Overview.** Idea validation is the foundation of every successful indie hacker project. This hub covers customer discovery, the Mom Test interview method, landing page validation, preselling for revenue before building, competitor analysis, and idea scoring frameworks. Whether you are validating a SaaS idea, a developer tool, or a side project, these research notes teach you how to prove demand, avoid common validation traps, and make a confident build-or-kill decision in under two weeks.
 
 ## Why This Matters
 
@@ -40,3 +42,9 @@ Most indie projects fail because the founder built something nobody wanted. Vali
 ## Key Principle
 
 > "If you can't find 10 people who will pay for it, you don't have a business — you have a hobby." Validation is not about confirming your idea is good. It is about finding out if it is bad before you invest months building it.
+
+## See Also
+
+- `hub/building.md` — Once validated, build your MVP fast
+- `hub/pricing.md` — Pricing decisions inform validation (preselling)
+- `hub/launching.md` — Where to put your validated product in front of people

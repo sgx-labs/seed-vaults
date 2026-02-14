@@ -1,11 +1,13 @@
 ---
 title: "Launching — Get It In Front of People"
-tags: [launching, product-hunt, show-hn, marketing, hub]
+tags: [launching, product-hunt, show-hn, marketing, distribution, hub]
 content_type: hub
 domain: business
 ---
 
 # Launching — Get It In Front of People
+
+**Overview.** Launching an indie product means strategically putting it in front of the right audiences across multiple channels. This hub covers Product Hunt launch strategy, Show HN on Hacker News, Reddit promotion without getting banned, Twitter/X build-in-public momentum, Indie Hackers community posting, and the launch multiplier effect of stacking launches over weeks. Includes hour-by-hour launch day checklists, channel-specific framing, and realistic traffic and signup expectations.
 
 ## Why This Matters
 
@@ -42,3 +44,10 @@ A launch is not a one-time event. It is a series of moments where you put your p
 ## Key Principle
 
 > "Launch early, launch often." Your first launch will not be your biggest. Treat every new feature, integration, or milestone as a reason to launch again.
+
+## See Also
+
+- `hub/building.md` — Ship your MVP before launching
+- `hub/growth.md` — Sustain momentum after the launch spike fades
+- `hub/pricing.md` — Pricing and payment setup for launch day
+- `hub/validation.md` — Validate demand before investing in a full launch

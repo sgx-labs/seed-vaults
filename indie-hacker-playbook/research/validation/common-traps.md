@@ -1,6 +1,6 @@
 ---
 title: "Validation Traps — Mistakes That Waste Months"
-tags: [validation, mistakes, traps, beginner]
+tags: [validation, mistakes, traps, beginner, pitfalls]
 content_type: research
 domain: business
 ---

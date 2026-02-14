@@ -1,6 +1,6 @@
 ---
 title: "First 10 Customers — The Hardest and Most Important Milestone"
-tags: [growth, customers, early-stage, outreach, milestone]
+tags: [growth, first-customers, early-stage, outreach, direct-sales]
 content_type: research
 domain: business
 ---

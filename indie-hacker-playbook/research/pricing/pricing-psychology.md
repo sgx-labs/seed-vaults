@@ -1,6 +1,6 @@
 ---
 title: "Pricing Psychology — The Science of What People Pay"
-tags: [pricing, psychology, strategy, conversion]
+tags: [pricing, psychology, anchoring, decoy-effect, conversion]
 content_type: research
 domain: business
 ---

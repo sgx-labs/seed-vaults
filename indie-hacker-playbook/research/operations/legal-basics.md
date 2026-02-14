@@ -1,6 +1,6 @@
 ---
 title: "Legal Basics — LLC, Terms, Privacy Policy"
-tags: [operations, legal, llc, terms, privacy, compliance]
+tags: [operations, legal, llc, terms-of-service, privacy-policy]
 content_type: research
 domain: business
 ---

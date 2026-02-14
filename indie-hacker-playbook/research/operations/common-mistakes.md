@@ -1,6 +1,6 @@
 ---
 title: "Common Mistakes — What Kills Indie Projects"
-tags: [operations, mistakes, failure, lessons, beginner]
+tags: [operations, mistakes, failure, lessons, anti-patterns]
 content_type: research
 domain: business
 ---

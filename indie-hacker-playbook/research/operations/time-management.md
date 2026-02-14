@@ -1,6 +1,6 @@
 ---
 title: "Time Management — The 2-Hour Founder"
-tags: [operations, time-management, productivity, day-job]
+tags: [operations, time-management, productivity, day-job, focus]
 content_type: research
 domain: business
 ---

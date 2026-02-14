@@ -1,6 +1,6 @@
 ---
 title: "Building in Public — What to Share, What to Keep Private"
-tags: [growth, building-in-public, transparency, marketing]
+tags: [growth, building-in-public, transparency, twitter, audience]
 content_type: research
 domain: business
 ---

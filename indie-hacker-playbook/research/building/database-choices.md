@@ -1,6 +1,6 @@
 ---
 title: "Database Choices — Pick One and Move On"
-tags: [building, database, infrastructure, decisions]
+tags: [building, database, infrastructure, supabase, sqlite]
 content_type: research
 domain: business
 ---

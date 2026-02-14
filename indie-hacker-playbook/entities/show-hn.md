@@ -1,6 +1,6 @@
 ---
 title: "Show HN — Current State"
-tags: [show-hn, hacker-news, launch, entity, platform]
+tags: [show-hn, hacker-news, launch, entity, developer-audience]
 content_type: entity
 domain: business
 ---

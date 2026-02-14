@@ -1,6 +1,6 @@
 ---
 title: "Pivot or Persevere — When to Change Direction"
-tags: [operations, pivot, strategy, decision, perseverance]
+tags: [operations, pivot, strategy, product-market-fit, perseverance]
 content_type: research
 domain: business
 ---

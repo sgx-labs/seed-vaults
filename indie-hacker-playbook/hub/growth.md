@@ -7,6 +7,8 @@ domain: business
 
 # Growth — From Launch to Revenue
 
+**Overview.** Sustainable growth for indie hackers comes from repeatable, compounding distribution channels. This hub covers getting your first 10 paying customers through manual outreach, SEO and content marketing for organic traffic, building in public on Twitter/X, email list building and newsletter strategy, the path from zero to one thousand dollars MRR, and tracking the metrics that actually matter for early-stage products. Each research note maps a specific growth tactic with realistic timelines and conversion expectations.
+
 ## Why This Matters
 
 Launch spikes fade. Sustainable growth comes from repeatable channels — SEO, content, community, word of mouth. As a solo founder, you need channels that compound over time, not ones that require constant attention.
@@ -43,3 +45,10 @@ Launch spikes fade. Sustainable growth comes from repeatable channels — SEO, c
 ## Key Principle
 
 > "You don't need 1,000 users — you need 10 who love it." Focus on making existing users successful before chasing new ones. Happy users are your best marketing channel.
+
+## See Also
+
+- `hub/launching.md` — Launch channels drive initial growth spikes
+- `hub/pricing.md` — Pricing directly affects MRR growth math
+- `hub/operations.md` — Sustain growth without burnout
+- `hub/validation.md` — Growth tactics work best on validated products

@@ -1,6 +1,6 @@
 ---
 title: "Three-Tier Pricing — Good / Better / Best"
-tags: [pricing, tiers, structure, strategy]
+tags: [pricing, tiers, structure, strategy, saas-pricing]
 content_type: research
 domain: business
 ---

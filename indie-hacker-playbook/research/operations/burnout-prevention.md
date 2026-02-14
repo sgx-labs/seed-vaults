@@ -1,6 +1,6 @@
 ---
 title: "Burnout Prevention — Sustainable Pace for Solo Founders"
-tags: [operations, burnout, health, sustainability, mindset]
+tags: [operations, burnout, health, sustainability, work-life-balance]
 content_type: research
 domain: business
 ---

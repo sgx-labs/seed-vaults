@@ -7,6 +7,8 @@ domain: business
 
 # Pricing — Charge What You're Worth
 
+**Overview.** Pricing strategy is the single biggest revenue lever for indie hackers and bootstrapped SaaS founders. This hub covers pricing psychology, anchoring and decoy tiers, charm pricing, the three-tier Good/Better/Best structure, free tier versus free trial decisions, payment processor setup with Stripe and Lemon Squeezy and Polar, and signals that indicate you should raise your prices. Getting monetization right early prevents the painful free-user trap and accelerates your path to sustainable MRR.
+
 ## Why This Matters
 
 Pricing is the single biggest lever for revenue. Most indie hackers undercharge. Doubling your price loses fewer customers than you think and doubles your revenue. Getting pricing right early prevents the painful "our users expect it to be free" trap.
@@ -40,3 +42,10 @@ Pricing is the single biggest lever for revenue. Most indie hackers undercharge.
 ## Key Principle
 
 > "The pain is the price multiplier." The deeper the pain you solve, the more you can charge. A tool that saves someone $500/mo is worth $50/mo easily. Price based on the value gap, not your imposter syndrome.
+
+## See Also
+
+- `hub/validation.md` — Preselling validates willingness to pay
+- `hub/growth.md` — Growth strategies after pricing is set
+- `hub/launching.md` — Payment setup is a launch prerequisite
+- `hub/operations.md` — Legal and billing operations for solo founders

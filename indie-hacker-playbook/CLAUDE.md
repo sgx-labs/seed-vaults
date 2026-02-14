@@ -1,3 +1,9 @@
+---
+title: "Indie Hacker Playbook — Governance"
+content_type: hub
+tags: [governance, rules, claude, playbook, search]
+---
+
 # Indie Hacker Playbook — Governance
 
 ## Purpose

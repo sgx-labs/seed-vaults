@@ -1,6 +1,6 @@
 ---
 title: "Solo Support — Handling Customer Support Alone"
-tags: [operations, support, customer-service, solo-founder]
+tags: [operations, support, customer-service, solo-founder, help-desk]
 content_type: research
 domain: business
 ---

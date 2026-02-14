@@ -1,6 +1,6 @@
 ---
 title: "When to Raise Prices — Signs You Are Undercharging"
-tags: [pricing, raising-prices, revenue, strategy]
+tags: [pricing, raising-prices, revenue, strategy, undercharging]
 content_type: research
 domain: business
 ---

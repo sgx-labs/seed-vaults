@@ -1,6 +1,6 @@
 ---
 title: "Launch Multiplier — Stack Launches for Compound Effect"
-tags: [launching, strategy, distribution, compound]
+tags: [launching, strategy, distribution, compound, multi-channel]
 content_type: research
 domain: business
 ---

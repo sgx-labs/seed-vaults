@@ -1,6 +1,6 @@
 ---
 title: "Indie Hackers — Current State"
-tags: [indie-hackers, community, entity, platform]
+tags: [indie-hackers, community, entity, platform, bootstrapped-founders]
 content_type: entity
 domain: business
 ---

@@ -3,6 +3,7 @@ title: "Product Hunt — Current State"
 tags: [product-hunt, launch, entity, platform]
 content_type: entity
 domain: business
+pinned: true
 ---
 
 # Product Hunt — Current State

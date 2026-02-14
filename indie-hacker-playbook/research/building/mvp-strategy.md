@@ -1,6 +1,6 @@
 ---
 title: "MVP Strategy — What to Build, Fake, and Skip"
-tags: [building, mvp, strategy, shipping]
+tags: [building, mvp, strategy, shipping, wizard-of-oz]
 content_type: research
 domain: business
 ---

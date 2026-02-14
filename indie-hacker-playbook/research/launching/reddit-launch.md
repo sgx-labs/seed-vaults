@@ -1,6 +1,6 @@
 ---
 title: "Reddit Launch — Promoting Without Getting Banned"
-tags: [launching, reddit, community, marketing]
+tags: [launching, reddit, community, marketing, self-promotion]
 content_type: research
 domain: business
 ---

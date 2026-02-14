@@ -1,6 +1,6 @@
 ---
 title: "The Free Tier Trap — When Free Helps vs. Kills Your Product"
-tags: [pricing, free-tier, freemium, monetization]
+tags: [pricing, free-tier, freemium, monetization, free-trial]
 content_type: research
 domain: business
 ---

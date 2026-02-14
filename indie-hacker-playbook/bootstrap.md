@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap — Indie Hacker Playbook"
-tags: [bootstrap, onboarding, session-start, critical]
+tags: [bootstrap, onboarding, session-start, navigation, indie-hacker]
 content_type: hub
 domain: business
 pinned: true

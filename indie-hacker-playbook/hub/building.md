@@ -7,6 +7,8 @@ domain: business
 
 # Building — Ship Your MVP Fast
 
+**Overview.** Building an MVP as a solo founder means choosing the right tech stack, leveraging SaaS boilerplates, and shipping your minimum viable product in weeks instead of months. This hub covers MVP strategy, no-code and low-code tools, boilerplate starters like ShipFast and Supastarter, AI-assisted coding with Claude Code and Cursor, database choices like Supabase and SQLite, and design-for-developers patterns. Speed is the competitive advantage of the indie hacker.
+
 ## Why This Matters
 
 The MVP is the smallest thing you can ship that tests your core assumption. Not a prototype. Not a demo. A real product that solves one problem for one type of person. The goal is speed — get it in front of users in weeks, not months.
@@ -38,3 +40,10 @@ The MVP is the smallest thing you can ship that tests your core assumption. Not 
 ## Key Principle
 
 > "If you are not embarrassed by the first version of your product, you have launched too late." The MVP is a learning vehicle. Ship it, watch what people do, then iterate based on real behavior.
+
+## See Also
+
+- `hub/validation.md` — Validate your idea before building
+- `hub/launching.md` — Launch strategy for your MVP
+- `hub/pricing.md` — Set up payments and pricing before launch
+- `hub/operations.md` — Manage your time while building with a day job

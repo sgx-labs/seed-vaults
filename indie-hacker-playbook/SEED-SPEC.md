@@ -1,3 +1,9 @@
+---
+title: "Indie Hacker Playbook Seed — Specification"
+content_type: hub
+tags: [seed-spec, indie-hacker, playbook, solo-founder, bootstrapping]
+---
+
 # Indie Hacker Playbook Seed
 
 ## Metadata

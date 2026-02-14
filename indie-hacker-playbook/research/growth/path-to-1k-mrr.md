@@ -1,6 +1,6 @@
 ---
 title: "Path to $1K MRR — The First Revenue Milestone"
-tags: [growth, revenue, mrr, milestone, strategy]
+tags: [growth, revenue, mrr, milestone, first-revenue]
 content_type: research
 domain: business
 ---

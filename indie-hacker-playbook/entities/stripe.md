@@ -3,6 +3,7 @@ title: "Stripe — Current State"
 tags: [stripe, payments, billing, entity, platform]
 content_type: entity
 domain: business
+pinned: true
 ---
 
 # Stripe — Current State

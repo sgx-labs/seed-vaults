@@ -1,6 +1,6 @@
 ---
 title: "Analytics Setup — Simple Analytics Without the Complexity"
-tags: [operations, analytics, tracking, metrics, tools]
+tags: [operations, analytics, tracking, plausible, sentry]
 content_type: research
 domain: business
 ---
