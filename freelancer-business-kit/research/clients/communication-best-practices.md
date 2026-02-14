@@ -1,6 +1,6 @@
 ---
 title: "Client Communication — Practices That Build Trust"
-tags: [clients, communication, trust, professionalism]
+tags: [communication, status-updates, trust, professionalism, meetings]
 content_type: research
 domain: business
 ---

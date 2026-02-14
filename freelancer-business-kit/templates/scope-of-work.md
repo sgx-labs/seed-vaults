@@ -1,6 +1,6 @@
 ---
 title: "Scope of Work (SOW) Template"
-tags: [template, SOW, scope, deliverables, planning]
+tags: [template, SOW, scope-of-work, deliverables, acceptance-criteria]
 content_type: template
 domain: business
 ---

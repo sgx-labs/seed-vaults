@@ -1,8 +1,9 @@
 ---
 title: "FreshBooks — Invoicing and Accounting"
-tags: [freshbooks, invoicing, accounting, expenses, tools, entity]
+tags: [freshbooks, invoicing, accounting, expenses, time-tracking]
 content_type: entity
 domain: business
+pinned: true
 ---
 
 # FreshBooks — Invoicing and Accounting

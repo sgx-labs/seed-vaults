@@ -1,8 +1,9 @@
 ---
 title: "Stripe — Payment Processing"
-tags: [stripe, payments, processing, tools, entity]
+tags: [stripe, payments, processing, credit-cards, ACH]
 content_type: entity
 domain: business
+pinned: true
 ---
 
 # Stripe — Payment Processing

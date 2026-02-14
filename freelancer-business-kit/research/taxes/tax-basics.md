@@ -1,6 +1,6 @@
 ---
 title: "Tax Basics for US Freelancers"
-tags: [taxes, basics, self-employment, IRS, US]
+tags: [tax-basics, self-employment-tax, IRS, Schedule-C, record-keeping]
 content_type: research
 domain: business
 ---

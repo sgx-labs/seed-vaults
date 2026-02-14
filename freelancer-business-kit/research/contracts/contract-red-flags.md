@@ -1,6 +1,6 @@
 ---
 title: "Contract Red Flags — What to Watch For in Client Contracts"
-tags: [contracts, red-flags, legal, negotiation]
+tags: [contract-red-flags, non-compete, kill-fee, liability, negotiation]
 content_type: research
 domain: business
 ---

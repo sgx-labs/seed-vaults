@@ -1,6 +1,6 @@
 ---
 title: "Freelance Contract Template"
-tags: [template, contract, legal, agreement]
+tags: [template, contract, agreement, IP-transfer, termination]
 content_type: template
 domain: business
 ---

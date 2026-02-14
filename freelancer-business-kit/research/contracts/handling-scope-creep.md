@@ -1,6 +1,6 @@
 ---
 title: "Handling Scope Creep — The Number One Freelancer Killer"
-tags: [contracts, scope-creep, boundaries, change-orders]
+tags: [scope-creep, change-orders, boundaries, SOW, project-budget]
 content_type: research
 domain: business
 ---

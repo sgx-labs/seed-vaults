@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Scope of Work (SOW)"
-tags: [proposals, scope, SOW, deliverables, planning]
+tags: [SOW, scope-of-work, deliverables, exclusions, milestones]
 content_type: research
 domain: business
 ---

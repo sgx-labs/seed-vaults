@@ -1,6 +1,6 @@
 ---
 title: "IP and Ownership — Protecting Your Work"
-tags: [contracts, IP, intellectual-property, ownership, copyright]
+tags: [intellectual-property, copyright, ownership, work-for-hire, portfolio-rights]
 content_type: research
 domain: business
 ---

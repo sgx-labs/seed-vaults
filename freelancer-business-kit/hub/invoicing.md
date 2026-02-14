@@ -1,6 +1,6 @@
 ---
 title: "Invoicing and Payments"
-tags: [invoicing, payments, late-payments, tools, hub]
+tags: [invoicing, payments, late-payments, cash-flow, billing]
 content_type: hub
 domain: business
 ---
@@ -9,7 +9,7 @@ domain: business
 
 ## Overview
 
-Getting paid is not automatic. You need systems: clear invoices, consistent follow-up, and procedures for when clients are late. The goal is to make paying you the easiest thing on your client's to-do list while having a firm escalation process for when they don't.
+Invoicing and payment collection are critical freelance business operations that directly affect cash flow and financial stability. This hub covers invoice formatting best practices, payment terms (Net 15 vs Net 30), handling late payments with a documented escalation procedure from friendly reminders to collections, choosing invoicing tools like FreshBooks and Stripe, managing cash flow with the three-account system, setting up milestone-based billing and retainer invoicing, and enforcing late fees consistently. Systematic invoicing prevents the cash flow crises that sink freelance businesses.
 
 ## Key Principles
 
@@ -25,6 +25,7 @@ Getting paid is not automatic. You need systems: clear invoices, consistent foll
 | Invoice best practices | `research/invoicing/invoice-best-practices.md` |
 | Late payment procedures | `research/invoicing/late-payment-procedures.md` |
 | Tools comparison | `research/invoicing/tools-comparison.md` |
+| Cash flow management | `research/invoicing/cash-flow-management.md` |
 
 ## Payment Terms Quick Reference
 
@@ -49,3 +50,10 @@ Getting paid is not automatic. You need systems: clear invoices, consistent foll
 - Invoice template: `templates/invoice-template.md`
 - FreshBooks setup: `entities/freshbooks.md`
 - Stripe setup: `entities/stripe.md`
+
+## See Also
+
+- [Contracts and Legal](contracts.md) -- Payment terms and late fee clauses in your contract
+- [Proposals and Pricing](proposals.md) -- Set pricing and payment schedules in proposals
+- [Taxes and Business Structure](taxes.md) -- Quarterly estimated payments from your invoiced income
+- [Business Growth](growth.md) -- Retainer billing for recurring revenue

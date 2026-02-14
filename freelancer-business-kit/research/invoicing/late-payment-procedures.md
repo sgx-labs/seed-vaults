@@ -1,6 +1,6 @@
 ---
 title: "Late Payment Procedures — How to Get Paid When Clients Are Overdue"
-tags: [invoicing, late-payments, collections, procedures]
+tags: [late-payments, collections, escalation, follow-up, overdue]
 content_type: research
 domain: business
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Building Recurring Revenue — Retainers and Productized Services"
-tags: [growth, recurring-revenue, retainers, productized, stability]
+tags: [recurring-revenue, retainers, productized-services, monthly-income, stability]
 content_type: research
 domain: business
 ---

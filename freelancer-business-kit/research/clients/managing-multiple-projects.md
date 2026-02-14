@@ -1,6 +1,6 @@
 ---
 title: "Managing Multiple Projects Without Dropping Balls"
-tags: [clients, project-management, time-management, organization]
+tags: [project-management, time-management, time-blocking, prioritization, productivity]
 content_type: research
 domain: business
 ---

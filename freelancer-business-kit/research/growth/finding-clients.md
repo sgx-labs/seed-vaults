@@ -1,6 +1,6 @@
 ---
 title: "Finding Clients — Where Premium Work Comes From"
-tags: [growth, clients, marketing, acquisition, referrals]
+tags: [client-acquisition, referrals, cold-outreach, pipeline, inbound-marketing]
 content_type: research
 domain: business
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Getting Referrals — The Highest-Value Client Acquisition Channel"
-tags: [growth, referrals, networking, word-of-mouth]
+tags: [referrals, networking, word-of-mouth, peer-referrals, reputation]
 content_type: research
 domain: business
 ---

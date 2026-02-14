@@ -1,6 +1,6 @@
 ---
 title: "Freelancer Tools Comparison — Invoicing, Contracts, Time Tracking"
-tags: [tools, invoicing, contracts, time-tracking, comparison]
+tags: [tools-comparison, invoicing-software, time-tracking, scheduling, payment-processing]
 content_type: research
 domain: business
 ---

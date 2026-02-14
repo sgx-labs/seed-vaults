@@ -1,6 +1,6 @@
 ---
 title: "Invoice Template"
-tags: [template, invoice, billing, payments]
+tags: [template, invoice, billing, payment-methods, line-items]
 content_type: template
 domain: business
 ---

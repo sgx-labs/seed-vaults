@@ -1,6 +1,6 @@
 ---
 title: "Writing Proposals That Win Projects"
-tags: [proposals, sales, writing, winning]
+tags: [proposals, sales, writing, winning, structure]
 content_type: research
 domain: business
 ---

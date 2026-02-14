@@ -1,6 +1,6 @@
 ---
 title: "Invoice Best Practices — Get Paid Faster"
-tags: [invoicing, payments, best-practices, cash-flow]
+tags: [invoicing, best-practices, payment-links, itemization, due-dates]
 content_type: research
 domain: business
 ---

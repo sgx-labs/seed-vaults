@@ -1,6 +1,6 @@
 ---
 title: "Personal Branding for Freelancers — Standing Out Without Being Salesy"
-tags: [growth, branding, marketing, positioning, visibility]
+tags: [personal-branding, positioning, LinkedIn, content-marketing, specialization]
 content_type: research
 domain: business
 ---

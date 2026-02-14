@@ -1,6 +1,6 @@
 ---
 title: "Contracts and Legal"
-tags: [contracts, legal, IP, liability, terms, hub]
+tags: [contracts, legal, IP-ownership, scope-creep, liability]
 content_type: hub
 domain: business
 ---
@@ -9,7 +9,7 @@ domain: business
 
 ## Overview
 
-A contract is the single most important document in your freelance business. It protects your work, guarantees payment, and defines the relationship. Working without a contract is working without a safety net. Every project, no matter how small, deserves a written agreement.
+Contracts and legal protection form the foundation of a sustainable freelance practice. This hub covers essential contract clauses every freelancer needs, intellectual property ownership and assignment language, handling scope creep with change orders, spotting red flags in client-drafted contracts, working with agencies as a subcontractor, and freelancer insurance options including professional liability and E&O coverage. Never start a project without a signed written agreement that protects your income, your IP, and your sanity.
 
 ## Key Principles
 
@@ -26,6 +26,8 @@ A contract is the single most important document in your freelance business. It 
 | Handling scope creep | `research/contracts/handling-scope-creep.md` |
 | IP and ownership language | `research/contracts/ip-ownership.md` |
 | Contract red flags | `research/contracts/contract-red-flags.md` |
+| Working with agencies | `research/contracts/working-with-agencies.md` |
+| Insurance for freelancers | `research/contracts/insurance-for-freelancers.md` |
 
 ## The Non-Negotiable Clauses
 
@@ -45,3 +47,10 @@ Every freelance contract should include at minimum:
 - Contract template: `templates/contract-template.md`
 - SOW template: `templates/scope-of-work.md`
 - Scope creep prevention: `research/contracts/handling-scope-creep.md`
+
+## See Also
+
+- [Proposals and Pricing](proposals.md) -- Write SOWs and proposals that define scope clearly
+- [Invoicing and Payments](invoicing.md) -- Payment terms, late fees, and enforcement
+- [Client Management](clients.md) -- Red flags to watch for before signing
+- [Taxes and Business Structure](taxes.md) -- LLC, S-Corp, and entity decisions that affect liability

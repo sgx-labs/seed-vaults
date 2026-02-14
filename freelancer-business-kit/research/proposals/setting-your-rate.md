@@ -1,6 +1,6 @@
 ---
 title: "How to Set Your Freelance Rate"
-tags: [pricing, rates, hourly, calculation, strategy]
+tags: [pricing, rate-calculation, hourly-rate, billable-hours, expenses]
 content_type: research
 domain: business
 ---

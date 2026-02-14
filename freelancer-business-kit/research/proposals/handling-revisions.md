@@ -1,6 +1,6 @@
 ---
 title: "Handling Revisions and Feedback Loops"
-tags: [revisions, feedback, scope, client-management]
+tags: [revisions, feedback-loops, scope-management, change-orders, approval]
 content_type: research
 domain: business
 ---

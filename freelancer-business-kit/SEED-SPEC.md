@@ -1,3 +1,9 @@
+---
+title: "Freelancer Business Kit Seed Specification"
+content_type: hub
+tags: [seed-spec, freelancer, framework, business-kit, overview]
+---
+
 # Freelancer Business Kit Seed
 
 ## Metadata

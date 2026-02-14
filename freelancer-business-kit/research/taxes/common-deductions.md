@@ -1,6 +1,6 @@
 ---
 title: "Common Tax Deductions for Freelancers"
-tags: [taxes, deductions, expenses, write-offs]
+tags: [tax-deductions, home-office, health-insurance, retirement, business-expenses]
 content_type: research
 domain: business
 ---

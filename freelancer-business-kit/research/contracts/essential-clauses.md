@@ -1,6 +1,6 @@
 ---
 title: "Essential Contract Clauses Every Freelancer Needs"
-tags: [contracts, clauses, legal, protection]
+tags: [contract-clauses, payment-terms, IP-assignment, termination, liability]
 content_type: research
 domain: business
 ---

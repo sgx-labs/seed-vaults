@@ -1,6 +1,6 @@
 ---
 title: "Getting Testimonials and Case Studies"
-tags: [clients, testimonials, case-studies, portfolio, social-proof]
+tags: [testimonials, case-studies, portfolio, social-proof, marketing]
 content_type: research
 domain: business
 ---

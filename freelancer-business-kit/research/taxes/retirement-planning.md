@@ -1,6 +1,6 @@
 ---
 title: "Retirement Planning for Freelancers"
-tags: [taxes, retirement, SEP-IRA, solo-401k, savings]
+tags: [retirement, SEP-IRA, Solo-401k, Roth-IRA, tax-reduction]
 content_type: research
 domain: business
 ---

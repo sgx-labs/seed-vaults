@@ -1,6 +1,6 @@
 ---
 title: "Working with Agencies as a Freelancer"
-tags: [contracts, agencies, subcontracting, partnerships]
+tags: [agencies, subcontracting, non-solicitation, partnerships, agency-rates]
 content_type: research
 domain: business
 ---

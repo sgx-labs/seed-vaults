@@ -1,6 +1,6 @@
 ---
 title: "Quarterly Estimated Tax Payments — How to Calculate and Pay"
-tags: [taxes, quarterly, estimated, IRS, payments]
+tags: [quarterly-estimates, Form-1040-ES, safe-harbor, EFTPS, tax-deadlines]
 content_type: research
 domain: business
 ---

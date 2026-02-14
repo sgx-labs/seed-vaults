@@ -1,6 +1,6 @@
 ---
 title: "Building a Portfolio That Attracts Premium Clients"
-tags: [growth, portfolio, marketing, case-studies, clients]
+tags: [portfolio, case-studies, premium-clients, personal-website, results]
 content_type: research
 domain: business
 ---

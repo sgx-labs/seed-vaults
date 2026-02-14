@@ -1,6 +1,6 @@
 ---
 title: "Insurance for Freelancers — What You Need and What You Don't"
-tags: [contracts, insurance, liability, protection, risk]
+tags: [insurance, professional-liability, E-and-O, health-insurance, risk-management]
 content_type: research
 domain: business
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hourly vs Project Pricing — Which to Use and When"
-tags: [pricing, hourly, project-based, value-based, strategy]
+tags: [pricing-models, hourly, project-based, value-based, productized]
 content_type: research
 domain: business
 ---

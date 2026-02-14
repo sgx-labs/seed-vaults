@@ -1,6 +1,6 @@
 ---
 title: "Proposal Template"
-tags: [template, proposal, sales, pricing]
+tags: [template, proposal, sales, tiered-pricing, executive-summary]
 content_type: template
 domain: business
 ---

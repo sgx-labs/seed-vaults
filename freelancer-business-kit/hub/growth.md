@@ -1,6 +1,6 @@
 ---
 title: "Business Growth"
-tags: [growth, marketing, portfolio, referrals, retainers, hub]
+tags: [growth, referrals, portfolio, recurring-revenue, personal-branding]
 content_type: hub
 domain: business
 ---
@@ -9,7 +9,7 @@ domain: business
 
 ## Overview
 
-Growth for freelancers is not about scaling headcount. It is about increasing revenue per hour, building predictable income, and attracting better clients. The path goes from feast-or-famine project work to stable retainers and productized services. Marketing is not a dirty word — it is how good clients find you.
+Freelance business growth means increasing revenue per hour, building predictable recurring income, and attracting premium clients. This hub covers finding clients through referrals, networking, and content marketing, building a portfolio with case studies and measurable results, creating productized services and retainer agreements for stable monthly revenue, transitioning from full-time employment to freelancing, personal branding and positioning to stand out in your niche, and raising your profile through LinkedIn, speaking, and community engagement. The progression from feast-or-famine project work to predictable retainer revenue is the path to a sustainable freelance career.
 
 ## Key Principles
 
@@ -25,6 +25,10 @@ Growth for freelancers is not about scaling headcount. It is about increasing re
 | Building a portfolio | `research/growth/building-portfolio.md` |
 | Building recurring revenue | `research/growth/recurring-revenue.md` |
 | Transitioning from full-time | `research/growth/transitioning-from-fulltime.md` |
+| Finding clients | `research/growth/finding-clients.md` |
+| Personal branding | `research/growth/personal-branding.md` |
+| Productized services | `research/growth/productized-services.md` |
+| Getting referrals | `research/growth/raising-your-profile.md` |
 | Getting testimonials | `research/clients/getting-testimonials.md` |
 | When to raise rates | `research/proposals/when-to-raise-rates.md` |
 | Negotiating rates | `research/proposals/negotiating-rates.md` |
@@ -51,3 +55,10 @@ Growth for freelancers is not about scaling headcount. It is about increasing re
 - Upwork strategy: `entities/upwork.md`
 - Calendly for scheduling: `entities/calendly.md`
 - Portfolio guide: `research/growth/building-portfolio.md`
+
+## See Also
+
+- [Client Management](clients.md) -- Getting testimonials and managing client relationships
+- [Proposals and Pricing](proposals.md) -- Raise your rates as you grow
+- [Invoicing and Payments](invoicing.md) -- Retainer billing and cash flow management
+- [Taxes and Business Structure](taxes.md) -- Entity changes as revenue scales

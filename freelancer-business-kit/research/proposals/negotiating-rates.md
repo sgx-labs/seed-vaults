@@ -1,6 +1,6 @@
 ---
 title: "Negotiating Rates Without Losing the Deal"
-tags: [pricing, negotiation, rates, tactics]
+tags: [pricing, negotiation, rates, tactics, objection-handling]
 content_type: research
 domain: business
 ---

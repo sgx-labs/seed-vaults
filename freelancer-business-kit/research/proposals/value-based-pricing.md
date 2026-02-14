@@ -1,6 +1,6 @@
 ---
 title: "Value-Based Pricing — Charging What the Work Is Worth"
-tags: [pricing, value-based, strategy, premium]
+tags: [value-based-pricing, ROI, premium, business-impact, discovery]
 content_type: research
 domain: business
 ---

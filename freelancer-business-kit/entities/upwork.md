@@ -1,6 +1,6 @@
 ---
 title: "Upwork — Freelance Platform"
-tags: [upwork, platform, bidding, profile, tools, entity]
+tags: [upwork, freelance-platform, bidding, profile-optimization, client-acquisition]
 content_type: entity
 domain: business
 ---

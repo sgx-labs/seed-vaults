@@ -1,6 +1,6 @@
 ---
 title: "Client Onboarding Checklist"
-tags: [template, onboarding, clients, checklist, process]
+tags: [template, onboarding, checklist, kickoff, access-setup]
 content_type: template
 domain: business
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Calendly — Scheduling"
-tags: [calendly, scheduling, meetings, availability, tools, entity]
+tags: [calendly, scheduling, meetings, availability, discovery-calls]
 content_type: entity
 domain: business
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Transitioning from Full-Time Employment to Freelancing"
-tags: [growth, transition, full-time, planning, career]
+tags: [transition, full-time-to-freelance, financial-runway, side-projects, career-change]
 content_type: research
 domain: business
 ---

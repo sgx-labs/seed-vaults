@@ -1,6 +1,6 @@
 ---
 title: "Client Onboarding — Setting the Relationship Up for Success"
-tags: [clients, onboarding, communication, process]
+tags: [clients, onboarding, kickoff, discovery-call, expectations]
 content_type: research
 domain: business
 ---

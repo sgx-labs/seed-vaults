@@ -1,6 +1,6 @@
 ---
 title: "When and How to Raise Your Rates"
-tags: [pricing, rates, growth, strategy]
+tags: [rate-increases, pricing, growth, existing-clients, annual-review]
 content_type: research
 domain: business
 ---

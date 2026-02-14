@@ -1,6 +1,6 @@
 ---
 title: "Setting Boundaries Without Losing Clients"
-tags: [clients, boundaries, communication, work-life]
+tags: [clients, boundaries, work-life-balance, burnout-prevention, availability]
 content_type: research
 domain: business
 ---

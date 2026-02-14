@@ -1,6 +1,6 @@
 ---
 title: "Proposals and Pricing"
-tags: [proposals, pricing, rates, scope, hub]
+tags: [proposals, pricing, rates, negotiation, value-based]
 content_type: hub
 domain: business
 ---
@@ -9,7 +9,7 @@ domain: business
 
 ## Overview
 
-A proposal is a sales document disguised as a project plan. The best proposals demonstrate understanding of the client's problem, outline a clear solution, set expectations, and make saying "yes" easy. Pricing is the other half of the equation — charge too little and you resent the work; charge too much without justification and you lose the deal.
+Proposals and pricing strategy determine your freelance income. This hub covers writing winning project proposals, calculating your freelance hourly rate, choosing between hourly, project-based, and value-based pricing models, negotiating rates without losing deals, writing clear scopes of work (SOW) with exclusions and revision limits, knowing when and how to raise your rates, and handling revisions and feedback loops. Master these skills to close more projects at higher margins and build predictable revenue.
 
 ## Key Principles
 
@@ -25,6 +25,7 @@ A proposal is a sales document disguised as a project plan. The best proposals d
 | Writing proposals that win | `research/proposals/writing-winning-proposals.md` |
 | Setting your rate | `research/proposals/setting-your-rate.md` |
 | Hourly vs project pricing | `research/proposals/hourly-vs-project.md` |
+| Value-based pricing | `research/proposals/value-based-pricing.md` |
 | Negotiating without losing deals | `research/proposals/negotiating-rates.md` |
 | Writing a scope of work | `research/proposals/writing-sow.md` |
 | When to raise your rates | `research/proposals/when-to-raise-rates.md` |
@@ -44,3 +45,10 @@ Most freelancers evolve through these stages:
 - Proposal template: `templates/proposal-template.md`
 - SOW template: `templates/scope-of-work.md`
 - Rate calculator: `research/proposals/setting-your-rate.md`
+
+## See Also
+
+- [Contracts and Legal](contracts.md) -- Protect your scope with essential contract clauses
+- [Client Management](clients.md) -- Onboard clients professionally after closing the deal
+- [Invoicing and Payments](invoicing.md) -- Get paid once the proposal is accepted
+- [Business Growth](growth.md) -- Recurring revenue through retainers and productized services

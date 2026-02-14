@@ -1,6 +1,6 @@
 ---
 title: "Taxes and Business Structure"
-tags: [taxes, quarterly, deductions, LLC, S-Corp, entity, hub]
+tags: [taxes, quarterly-estimates, deductions, LLC, S-Corp]
 content_type: hub
 domain: business
 ---
@@ -9,7 +9,7 @@ domain: business
 
 ## Overview
 
-Taxes are the part of freelancing nobody talks about until April. The basics: you owe income tax plus self-employment tax (15.3%), you pay quarterly (not annually), and your business entity structure affects how much you pay. Getting this right from the start saves thousands of dollars and prevents nasty surprises.
+Freelancer tax obligations and business entity structure are the financial backbone of your independent practice. This hub covers self-employment tax (15.3%), quarterly estimated tax payments and IRS deadlines, common tax deductions including home office and health insurance, choosing between sole proprietorship, LLC, and S-Corp election, retirement planning with SEP-IRA and Solo 401(k), the 25-30% set-aside rule for every payment, and when to hire a CPA. Proper tax planning from day one saves thousands of dollars annually and prevents costly penalties and audit surprises.
 
 ## Key Principles
 
@@ -26,6 +26,7 @@ Taxes are the part of freelancing nobody talks about until April. The basics: yo
 | Quarterly estimated payments | `research/taxes/quarterly-estimates.md` |
 | Common deductions | `research/taxes/common-deductions.md` |
 | LLC vs S-Corp vs sole prop | `research/taxes/entity-structure.md` |
+| Retirement planning | `research/taxes/retirement-planning.md` |
 
 ## Quarterly Payment Schedule (US)
 
@@ -48,3 +49,10 @@ Taxes are the part of freelancing nobody talks about until April. The basics: yo
 
 - FreshBooks for expense tracking: `entities/freshbooks.md`
 - Entity decision framework: `research/taxes/entity-structure.md`
+
+## See Also
+
+- [Invoicing and Payments](invoicing.md) -- Cash flow management and the three-account system
+- [Contracts and Legal](contracts.md) -- Independent contractor status and liability protection
+- [Business Growth](growth.md) -- Revenue scaling that triggers entity structure changes
+- [Proposals and Pricing](proposals.md) -- Rate calculations that account for taxes and overhead

@@ -1,3 +1,9 @@
+---
+title: "Freelancer Business Kit — Governance"
+content_type: hub
+tags: [governance, rules, structure, framework, freelancer]
+---
+
 # Freelancer Business Kit — Governance
 
 ## Purpose

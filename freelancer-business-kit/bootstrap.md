@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap — Freelancer Business Kit"
-tags: [bootstrap, onboarding, session-start, critical]
+tags: [bootstrap, onboarding, session-start, getting-started, setup]
 content_type: hub
 domain: business
 pinned: true

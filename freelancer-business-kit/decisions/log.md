@@ -1,8 +1,9 @@
 ---
 title: "Decision Log"
-tags: [decisions, business, log]
+tags: [decisions, business, log, contracts, payments]
 content_type: decision
 domain: business
+pinned: true
 ---
 
 # Decision Log

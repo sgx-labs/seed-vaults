@@ -1,6 +1,6 @@
 ---
 title: "Client Red Flags — What to Watch For Before Signing"
-tags: [clients, red-flags, evaluation, risk]
+tags: [clients, red-flags, evaluation, risk, vetting]
 content_type: research
 domain: business
 ---

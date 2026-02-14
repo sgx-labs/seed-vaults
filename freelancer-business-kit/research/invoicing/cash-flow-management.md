@@ -1,6 +1,6 @@
 ---
 title: "Cash Flow Management for Freelancers"
-tags: [invoicing, cash-flow, financial-planning, budgeting]
+tags: [cash-flow, financial-planning, three-account-system, forecasting, deposits]
 content_type: research
 domain: business
 ---

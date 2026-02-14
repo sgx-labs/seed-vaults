@@ -1,6 +1,6 @@
 ---
 title: "LLC vs S-Corp vs Sole Proprietorship — Choosing Your Business Entity"
-tags: [taxes, LLC, S-Corp, sole-proprietorship, entity, business-structure]
+tags: [LLC, S-Corp, sole-proprietorship, business-entity, payroll]
 content_type: research
 domain: business
 ---

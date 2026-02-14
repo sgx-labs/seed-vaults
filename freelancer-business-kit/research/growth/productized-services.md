@@ -1,6 +1,6 @@
 ---
 title: "Creating Productized Services — From Custom Work to Scalable Offers"
-tags: [growth, productized, scaling, packages, recurring]
+tags: [productized-services, scaling, packages, fixed-price, systemization]
 content_type: research
 domain: business
 ---

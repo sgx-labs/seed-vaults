@@ -1,6 +1,6 @@
 ---
 title: "How to Fire a Client Professionally"
-tags: [clients, firing, termination, communication]
+tags: [clients, firing, termination, exit-strategy, professional]
 content_type: research
 domain: business
 ---
