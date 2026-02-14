@@ -1,3 +1,10 @@
+---
+title: "Personal Productivity OS — Agent Governance"
+content_type: hub
+tags: [governance, rules, productivity, agent, personal-os]
+pinned: true
+---
+
 # Personal Productivity OS — Agent Governance
 
 ## Purpose

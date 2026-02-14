@@ -3,6 +3,7 @@ title: "AI Agent Architecture — Governance"
 content_type: hub
 tags: [governance, rules, structure, search, vault-guide]
 domain: engineering
+pinned: true
 ---
 
 # AI Agent Architecture — Governance

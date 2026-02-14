@@ -2,6 +2,7 @@
 title: "Open Source Launch Kit — Governance"
 content_type: hub
 tags: [governance, rules, search-first, vault-structure, CLAUDE]
+pinned: true
 ---
 
 # Open Source Launch Kit — Governance

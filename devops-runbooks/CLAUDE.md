@@ -2,6 +2,7 @@
 title: "DevOps Runbooks — Governance"
 content_type: recipe
 tags: [governance, rules, runbooks, incident-response, operations]
+pinned: true
 ---
 
 # DevOps Runbooks — Governance

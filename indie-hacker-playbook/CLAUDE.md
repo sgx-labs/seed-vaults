@@ -2,6 +2,7 @@
 title: "Indie Hacker Playbook — Governance"
 content_type: hub
 tags: [governance, rules, claude, playbook, search]
+pinned: true
 ---
 
 # Indie Hacker Playbook — Governance

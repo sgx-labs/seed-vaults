@@ -2,6 +2,7 @@
 title: "Freelancer Business Kit — Governance"
 content_type: hub
 tags: [governance, rules, structure, framework, freelancer]
+pinned: true
 ---
 
 # Freelancer Business Kit — Governance
