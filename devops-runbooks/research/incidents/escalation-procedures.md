@@ -1,6 +1,6 @@
 ---
 title: "Escalation Procedures"
-tags: [escalation, incident, on-call, communication, management]
+tags: [escalation, incident, on-call, communication, management, incident-commander]
 content_type: research
 domain: operations
 ---

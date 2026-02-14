@@ -1,6 +1,6 @@
 ---
 title: "Disaster Recovery Testing Guide"
-tags: [disaster-recovery, DR, testing, drill, chaos-engineering, resilience]
+tags: [disaster-recovery, DR, testing, drill, chaos-engineering, resilience, game-day, RTO, RPO]
 content_type: research
 domain: operations
 ---

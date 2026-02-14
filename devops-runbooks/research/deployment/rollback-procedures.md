@@ -1,6 +1,6 @@
 ---
 title: "Rollback Procedures"
-tags: [rollback, deployment, recovery, revert, runbook]
+tags: [rollback, deployment, recovery, revert, runbook, kubernetes, ECS, Lambda]
 content_type: research
 domain: operations
 ---

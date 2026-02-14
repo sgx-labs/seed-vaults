@@ -1,6 +1,6 @@
 ---
 title: "Network Troubleshooting Runbook"
-tags: [network, connectivity, DNS, firewall, latency, troubleshooting, runbook]
+tags: [network, connectivity, DNS, firewall, latency, troubleshooting, runbook, security-groups, TLS]
 content_type: research
 domain: operations
 ---

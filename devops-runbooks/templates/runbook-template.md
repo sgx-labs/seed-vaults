@@ -1,6 +1,6 @@
 ---
 title: "Template — Runbook"
-tags: [template, runbook, operations]
+tags: [template, runbook, operations, procedure, troubleshooting]
 content_type: template
 domain: operations
 ---

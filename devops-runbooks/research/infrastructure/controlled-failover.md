@@ -1,6 +1,6 @@
 ---
 title: "Controlled Failover Procedure"
-tags: [failover, disaster-recovery, multi-region, high-availability, runbook]
+tags: [failover, disaster-recovery, multi-region, high-availability, runbook, DNS, Route53]
 content_type: research
 domain: operations
 ---

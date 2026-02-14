@@ -1,6 +1,6 @@
 ---
 title: "Log Aggregation Strategy"
-tags: [logging, aggregation, ELK, structured-logs, observability]
+tags: [logging, aggregation, ELK, structured-logs, observability, JSON, FluentBit]
 content_type: research
 domain: operations
 ---

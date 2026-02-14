@@ -1,6 +1,6 @@
 ---
 title: "Cloud Cost Management"
-tags: [cost, cloud, optimization, FinOps, budget, infrastructure]
+tags: [cost, cloud, optimization, FinOps, budget, infrastructure, reserved-instances, right-sizing]
 content_type: research
 domain: operations
 ---

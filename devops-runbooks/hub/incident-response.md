@@ -1,6 +1,6 @@
 ---
 title: "Incident Response — Classification, Escalation, Communication"
-tags: [incident-response, classification, escalation, communication, hub]
+tags: [incident-response, classification, escalation, communication, paging, severity, P0, hub]
 content_type: hub
 domain: operations
 ---
@@ -9,7 +9,7 @@ domain: operations
 
 ## Overview
 
-Incident response is the structured process of detecting, classifying, responding to, and learning from production incidents. A good process means the difference between a 5-minute fix and a 5-hour outage.
+Incident response covers the full lifecycle of production incidents: detection, classification, escalation, communication, resolution, and post-mortem review. This hub indexes runbooks for security breaches, DDoS attacks, credential rotation, data loss, and on-call procedures. It defines severity levels P0 through P4, escalation paths, war room protocols, and incident communication templates. A well-practiced incident response process reduces MTTR, prevents repeat outages, and protects users during critical failures.
 
 ## Incident Lifecycle
 
@@ -51,3 +51,10 @@ Detect → Classify → Respond → Communicate → Resolve → Post-Mortem
 
 - `templates/incident-report.md` — Use during active incidents
 - `templates/postmortem.md` — Use within 48 hours after resolution
+
+## See Also
+
+- `hub/runbooks.md` — Index of all operational runbooks referenced during incidents
+- `hub/monitoring.md` — Alerting and detection that triggers incident response
+- `hub/post-mortems.md` — Learning from incidents after resolution
+- `hub/deployment.md` — Deployment failures are the leading cause of incidents

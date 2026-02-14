@@ -1,15 +1,13 @@
 ---
 title: "PagerDuty — Integration, Escalation Policies, Schedules"
-tags: [pagerduty, alerting, on-call, escalation, entity]
+tags: [pagerduty, alerting, on-call, escalation, incident-management, entity]
 content_type: entity
 domain: operations
 ---
 
 # PagerDuty — Current State
 
-## What It Is
-
-Incident management platform that routes alerts to the right person at the right time. Handles on-call scheduling, escalation policies, and incident coordination.
+PagerDuty is the incident management and on-call alerting platform used for paging engineers, managing escalation policies, configuring on-call rotation schedules, and coordinating incident response. This entity note covers API integration, CLI commands, Events API v2 for programmatic alerts, and escalation policy best practices for routing critical notifications from Datadog, Prometheus, and CloudWatch.
 
 ## Key Concepts
 

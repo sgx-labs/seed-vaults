@@ -1,6 +1,6 @@
 ---
 title: "Database Migration Safety Guide"
-tags: [database, migration, schema, deployment, safety, runbook]
+tags: [database, migration, schema, deployment, safety, runbook, SQL, locking, rollback]
 content_type: research
 domain: operations
 ---

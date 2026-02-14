@@ -1,6 +1,6 @@
 ---
 title: "Deployment Strategies — Canary, Blue-Green, Rolling"
-tags: [deployment, canary, blue-green, rolling, strategy, zero-downtime]
+tags: [deployment, canary, blue-green, rolling, strategy, zero-downtime, kubernetes, traffic-routing]
 content_type: research
 domain: operations
 ---

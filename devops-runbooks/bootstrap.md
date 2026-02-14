@@ -1,12 +1,16 @@
 ---
 title: "Bootstrap — Incident Response Quick Start"
-tags: [bootstrap, onboarding, session-start, critical, incident-response]
+tags: [bootstrap, onboarding, session-start, critical, incident-response, emergency, quick-start]
 content_type: hub
 domain: operations
 pinned: true
 ---
 
 # Bootstrap — Incident Response Quick Start
+
+## Overview
+
+This is the emergency quick-start guide for DevOps incident response. It provides a lookup table mapping symptoms to runbooks, incident classification from P0 through P4, and a directory of all vault resources for runbooks, monitoring, deployment, infrastructure, and post-mortems. Start here when something is broken in production and you need step-by-step commands immediately. For ongoing operational work, use the hub notes indexed below.
 
 ## EMERGENCY LOOKUP TABLE
 

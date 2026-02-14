@@ -1,15 +1,13 @@
 ---
 title: "Datadog — Monitoring Setup, Dashboards, APM"
-tags: [datadog, monitoring, dashboards, APM, entity]
+tags: [datadog, monitoring, dashboards, APM, metrics, traces, entity]
 content_type: entity
 domain: operations
 ---
 
 # Datadog — Current State
 
-## What It Is
-
-Cloud monitoring and analytics platform. Collects metrics, logs, and traces from your infrastructure and applications. Provides dashboards, alerting, and APM (Application Performance Monitoring).
+Datadog is the cloud monitoring and observability platform used for infrastructure metrics, application performance monitoring (APM), distributed tracing, log aggregation, dashboards, alerting, and synthetic monitoring. This entity note covers agent installation, monitor creation via API, useful Datadog queries for error rate, p99 latency, disk usage, and OOM kills, plus dashboard best practices for on-call engineers.
 
 ## Key Features
 

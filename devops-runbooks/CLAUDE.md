@@ -1,3 +1,9 @@
+---
+title: "DevOps Runbooks — Governance"
+content_type: recipe
+tags: [governance, rules, runbooks, incident-response, operations]
+---
+
 # DevOps Runbooks — Governance
 
 ## Purpose

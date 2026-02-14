@@ -1,15 +1,14 @@
 ---
 title: "Kubernetes — Debugging, Common Issues, kubectl Patterns"
-tags: [kubernetes, k8s, kubectl, debugging, pods, entity]
+tags: [kubernetes, k8s, kubectl, debugging, pods, nodes, deployments, entity]
 content_type: entity
 domain: operations
+pinned: true
 ---
 
 # Kubernetes — Current State
 
-## What It Is
-
-Container orchestration platform. Manages deployment, scaling, and operations of containerized applications. When K8s is healthy, it self-heals. When it is not, you need to know kubectl.
+Kubernetes (K8s) is the container orchestration platform for deploying, scaling, and operating containerized applications. This entity note provides essential kubectl commands for cluster health, pod debugging, deployment rollback, node management (cordon, drain, uncordon), and common pod failure states including CrashLoopBackOff, ImagePullBackOff, OOMKilled, Pending, and Evicted. Reference this during any Kubernetes-related incident.
 
 ## Essential kubectl Commands
 

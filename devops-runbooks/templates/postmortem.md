@@ -1,6 +1,6 @@
 ---
 title: "Template — Blameless Post-Mortem"
-tags: [template, post-mortem, blameless, review]
+tags: [template, post-mortem, blameless, review, action-items]
 content_type: template
 domain: operations
 ---

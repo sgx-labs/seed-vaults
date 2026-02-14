@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure — Cloud Resources, Networking, Scaling"
-tags: [infrastructure, cloud, networking, scaling, hub]
+tags: [infrastructure, cloud, networking, scaling, kubernetes, failover, disaster-recovery, hub]
 content_type: hub
 domain: operations
 ---
@@ -9,7 +9,7 @@ domain: operations
 
 ## Overview
 
-Infrastructure is the foundation everything runs on. When infrastructure fails, everything fails. This section covers cloud resources, container orchestration, networking, and scaling procedures.
+Infrastructure covers Kubernetes cluster management, AWS cloud resources, networking and DNS, horizontal and vertical scaling, controlled failover, disaster recovery testing, and cloud cost optimization. This hub indexes runbooks for Kubernetes failure modes (CrashLoopBackOff, OOMKilled, ImagePullBackOff), region failover procedures, network troubleshooting, and capacity planning. When infrastructure fails, every service on top of it fails. Proactive scaling, DR drills, and cost management prevent cascading outages and budget overruns.
 
 ## Key Research Notes
 
@@ -55,3 +55,10 @@ kubectl get pods --all-namespaces | grep -v Running
 
 - `entities/aws.md` — AWS failure modes, support tiers
 - `entities/kubernetes.md` — K8s debugging patterns
+
+## See Also
+
+- `hub/runbooks.md` — Operational runbooks that depend on infrastructure
+- `hub/monitoring.md` — Monitoring infrastructure health and capacity
+- `hub/deployment.md` — Deployments targeting infrastructure (K8s, cloud)
+- `hub/incident-response.md` — Incident response for infrastructure failures

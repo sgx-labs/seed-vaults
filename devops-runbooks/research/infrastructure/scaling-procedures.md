@@ -1,6 +1,6 @@
 ---
 title: "Scaling Procedures — Horizontal and Vertical"
-tags: [scaling, autoscaling, horizontal, vertical, capacity, infrastructure]
+tags: [scaling, autoscaling, horizontal, vertical, capacity, infrastructure, HPA, EKS]
 content_type: research
 domain: operations
 ---

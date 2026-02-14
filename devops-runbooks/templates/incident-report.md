@@ -1,6 +1,6 @@
 ---
 title: "Template — Incident Report"
-tags: [template, incident-report, communication]
+tags: [template, incident-report, communication, timeline, severity]
 content_type: template
 domain: operations
 ---

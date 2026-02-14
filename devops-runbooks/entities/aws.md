@@ -1,15 +1,14 @@
 ---
 title: "AWS — Common Failure Modes, Status Page, Support Tiers"
-tags: [aws, cloud, failure-modes, support, entity]
+tags: [aws, cloud, failure-modes, support, EC2, RDS, ELB, S3, entity]
 content_type: entity
 domain: operations
+pinned: true
 ---
 
 # AWS — Current State
 
-## What It Is
-
-Amazon Web Services. The most widely used cloud provider. When AWS has problems, a large portion of the internet has problems.
+Amazon Web Services (AWS) is the primary cloud infrastructure provider. This entity note covers common failure modes and diagnostic commands for EC2 instances, RDS databases, ELB/ALB load balancers, and S3 storage. It includes AWS support tier comparison, CLI quick diagnostics for CloudWatch alarms, service quotas, and caller identity checks. Reference this during AWS outages, RDS failovers, and cloud infrastructure troubleshooting.
 
 ## Status and Support
 

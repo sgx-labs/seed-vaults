@@ -1,6 +1,6 @@
 ---
 title: "Slow API Endpoint Debugging Runbook"
-tags: [API, latency, performance, debugging, slow, runbook, P1]
+tags: [API, latency, performance, debugging, slow, runbook, P1, p99, timeout]
 content_type: research
 domain: operations
 ---

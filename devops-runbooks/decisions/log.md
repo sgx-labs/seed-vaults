@@ -1,6 +1,6 @@
 ---
 title: "Decision Log"
-tags: [decisions, architecture, log]
+tags: [decisions, architecture, log, runbook-standards, alerting-philosophy]
 content_type: decision
 domain: operations
 ---

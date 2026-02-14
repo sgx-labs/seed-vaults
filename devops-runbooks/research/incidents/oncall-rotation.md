@@ -1,6 +1,6 @@
 ---
 title: "On-Call Rotation Management"
-tags: [on-call, rotation, burnout, scheduling, pagerduty]
+tags: [on-call, rotation, burnout, scheduling, pagerduty, handoff, follow-the-sun]
 content_type: research
 domain: operations
 ---

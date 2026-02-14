@@ -1,6 +1,6 @@
 ---
 title: "Incident Communication — Templates and Protocols"
-tags: [incident, communication, status-page, stakeholders, templates]
+tags: [incident, communication, status-page, stakeholders, templates, messaging, updates]
 content_type: research
 domain: operations
 ---

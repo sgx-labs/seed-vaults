@@ -1,6 +1,6 @@
 ---
 title: "CI/CD Pipeline Troubleshooting"
-tags: [CI-CD, pipeline, build, troubleshooting, GitHub-Actions, GitLab]
+tags: [CI-CD, pipeline, build, troubleshooting, GitHub-Actions, GitLab, stuck, failed]
 content_type: research
 domain: operations
 ---

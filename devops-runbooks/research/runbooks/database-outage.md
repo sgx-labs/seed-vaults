@@ -1,6 +1,6 @@
 ---
 title: "Database Outage Runbook"
-tags: [database, outage, postgresql, mysql, recovery, runbook, P0]
+tags: [database, outage, postgresql, mysql, recovery, runbook, P0, connection-pool, replication]
 content_type: research
 domain: operations
 ---

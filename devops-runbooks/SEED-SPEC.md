@@ -1,3 +1,9 @@
+---
+title: "DevOps Runbooks Seed Specification"
+content_type: recipe
+tags: [seed-spec, devops, runbooks, incident-response, SRE]
+---
+
 # DevOps Runbooks Seed
 
 ## Metadata

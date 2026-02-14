@@ -1,11 +1,15 @@
 ---
 title: "Runbooks — Index of All Operational Runbooks"
-tags: [runbooks, operations, index, hub]
+tags: [runbooks, operations, index, troubleshooting, outage, debugging, hub]
 content_type: hub
 domain: operations
 ---
 
 # Runbooks Index
+
+## Overview
+
+This hub indexes all operational runbooks for database outages, DNS failures, high CPU and memory, slow API debugging, SSL/TLS certificate issues, cache failures, message queue backups, and service dependency outages. Each runbook provides step-by-step diagnostic commands, fix procedures, rollback steps, and escalation paths. Runbooks are organized by category: database, compute, networking, deployment, security, and infrastructure. Use this index to find the right procedure during an incident.
 
 ## What Is A Runbook?
 
@@ -71,3 +75,10 @@ Every runbook in this vault follows these rules:
 ## Template
 
 Use `templates/runbook-template.md` when creating new runbooks.
+
+## See Also
+
+- `hub/incident-response.md` — Incident classification and escalation that triggers runbook use
+- `hub/monitoring.md` — Alerting that detects the symptoms runbooks address
+- `hub/infrastructure.md` — Infrastructure-level runbooks for Kubernetes and cloud
+- `hub/deployment.md` — Deployment failure and rollback runbooks

@@ -1,6 +1,6 @@
 ---
 title: "Memory Leak Investigation Runbook"
-tags: [memory, leak, OOM, profiling, debugging, runbook]
+tags: [memory, leak, OOM, profiling, debugging, runbook, heap-dump, garbage-collection]
 content_type: research
 domain: operations
 ---

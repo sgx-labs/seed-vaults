@@ -1,6 +1,6 @@
 ---
 title: "Monitoring — Alerting Strategy, Dashboards, SLOs"
-tags: [monitoring, alerting, dashboards, SLO, SLI, hub]
+tags: [monitoring, alerting, dashboards, SLO, SLI, observability, golden-signals, hub]
 content_type: hub
 domain: operations
 ---
@@ -9,7 +9,7 @@ domain: operations
 
 ## Overview
 
-Monitoring is not dashboards. Monitoring is the system that wakes you up when something is broken and gives you enough information to fix it fast. Good monitoring catches problems before users do. Bad monitoring wakes you up for nothing and trains you to ignore alerts.
+Monitoring encompasses alerting, SLO/SLI measurement, dashboards, log aggregation, synthetic health checks, and on-call observability. This hub covers how to define service level objectives, set alert thresholds that avoid alert fatigue, design actionable dashboards using golden signals (latency, traffic, errors, saturation), ship structured logs, and configure synthetic monitoring probes. Effective monitoring reduces mean time to detect (MTTD), surfaces problems before users notice, and drives error budget decisions.
 
 ## The Three Pillars
 
@@ -48,3 +48,10 @@ Monitor these four for every service:
 
 - `entities/datadog.md` — Datadog setup, dashboards, APM
 - `entities/pagerduty.md` — PagerDuty integration, escalation policies
+
+## See Also
+
+- `hub/incident-response.md` — Monitoring triggers incident response workflows
+- `hub/runbooks.md` — Runbooks executed when monitoring detects an issue
+- `hub/post-mortems.md` — Post-mortems improve monitoring based on lessons learned
+- `hub/infrastructure.md` — Infrastructure health feeds monitoring dashboards

@@ -1,6 +1,6 @@
 ---
 title: "SSL/TLS Certificate Issues Runbook"
-tags: [SSL, TLS, certificate, expired, HTTPS, runbook, P0]
+tags: [SSL, TLS, certificate, expired, HTTPS, runbook, P0, cert-manager, LetsEncrypt]
 content_type: research
 domain: operations
 ---
