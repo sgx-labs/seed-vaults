@@ -2,7 +2,7 @@
 
 Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/same). Install one command. Your AI agent gets instant domain expertise.
 
-**8 seeds. 500+ notes. All local, all private, no cloud.**
+**10 seeds. 620+ notes. All local, all private, no cloud.**
 
 ## Quick Start
 
@@ -23,19 +23,21 @@ same search "how do I write a pre-commit hook"
 
 | Seed | Notes | Size | Description |
 |------|------:|-----:|-------------|
-| **[Claude Code Power User](./claude-code-power-user/)** | 50 | 384 KB | Master hooks, MCP servers, workflows, and prompt patterns |
-| **[AI Agent Architecture](./ai-agent-architecture/)** | 56 | 276 KB | Production patterns for building AI agents — memory, tool use, orchestration |
+| **[Claude Code Power User](./claude-code-power-user/)** | 52 | 384 KB | Master hooks, MCP servers, workflows, and prompt patterns |
+| **[AI Agent Architecture](./ai-agent-architecture/)** | 58 | 276 KB | Production patterns for building AI agents — memory, tool use, orchestration |
 | **[Personal Productivity OS](./personal-productivity-os/)** | 118 | 680 KB | Full productivity system with ADHD support, habit tracking, recipes, gamification, and self-growth frameworks |
 
 ### All Seeds
 
 | Seed | Notes | Size | Description |
 |------|------:|-----:|-------------|
-| [Security Audit Framework](./security-audit-framework/) | 61 | 320 KB | OWASP-based security assessment methodology |
-| [DevOps Runbooks](./devops-runbooks/) | 55 | 316 KB | Infrastructure playbooks and incident response |
-| [Indie Hacker Playbook](./indie-hacker-playbook/) | 52 | 220 KB | From idea validation to first revenue |
-| [Open Source Launch Kit](./open-source-launch-kit/) | 54 | 228 KB | Ship, promote, and maintain open source projects |
-| [Freelancer Business Kit](./freelancer-business-kit/) | 54 | 332 KB | Proposals, contracts, invoicing, and client management |
+| [Security Audit Framework](./security-audit-framework/) | 63 | 320 KB | OWASP-based security assessment methodology |
+| [DevOps Runbooks](./devops-runbooks/) | 57 | 316 KB | Infrastructure playbooks and incident response |
+| [Indie Hacker Playbook](./indie-hacker-playbook/) | 54 | 220 KB | From idea validation to first revenue |
+| [Open Source Launch Kit](./open-source-launch-kit/) | 56 | 228 KB | Ship, promote, and maintain open source projects |
+| [Freelancer Business Kit](./freelancer-business-kit/) | 56 | 332 KB | Business templates for freelance developers |
+| [Home Chef Essentials](./home-chef-essentials/) | 58 | 468 KB | Evidence-based cooking techniques, meal prep, and nutrition |
+| [Fitness & Wellness](./fitness-and-wellness/) | 50 | 420 KB | Strength training, cardio, mobility, recovery, and habit building |
 
 > Personal Productivity OS requires SAME v0.8.0+. All other seeds require v0.7.0+.
 
@@ -57,6 +59,10 @@ When you run `same seed install`, SAME:
 From that point on, every AI session backed by SAME can search the seed's knowledge. Notes surface automatically through hooks, or on demand through `same search` and `same ask`.
 
 Seeds also ship with a `CLAUDE.md` that teaches your agent how to use the domain — what to search for, when to save decisions, and how to hand off between sessions.
+
+## Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on improving existing seeds and proposing new ones.
 
 ## Building Your Own Seed
 
@@ -112,6 +118,6 @@ same reindex
 
 ---
 
-All seeds are free and open source. Built with SAME, used with SAME.
+All seeds are free and open source under [CC BY 4.0](./LICENSE). See [DISCLAIMER.md](./DISCLAIMER.md) for content notices.
 
 *Plant a seed. Water it. Watch it grow.*
