@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "seeds": [
+    {
+      "name": "claude-code-power-user",
+      "display_name": "Claude Code Power User",
+      "description": "Master Claude Code workflows, hooks, and prompts",
+      "audience": "Developers using Claude Code",
+      "note_count": 50,
+      "size_kb": 384,
+      "tags": ["claude-code", "ai-tools", "developer-productivity", "workflows"],
+      "min_same_version": "0.7.0",
+      "path": "claude-code-power-user",
+      "featured": true
+    },
+    {
+      "name": "ai-agent-architecture",
+      "display_name": "AI Agent Architecture",
+      "description": "Patterns for building production AI agents",
+      "audience": "AI/ML engineers and architects",
+      "note_count": 56,
+      "size_kb": 276,
+      "tags": ["ai-agents", "architecture", "llm", "patterns"],
+      "min_same_version": "0.7.0",
+      "path": "ai-agent-architecture",
+      "featured": true
+    },
+    {
+      "name": "security-audit-framework",
+      "display_name": "Security Audit Framework",
+      "description": "OWASP-based security assessment methodology",
+      "audience": "Security engineers and developers",
+      "note_count": 61,
+      "size_kb": 320,
+      "tags": ["security", "owasp", "pentesting", "compliance"],
+      "min_same_version": "0.7.0",
+      "path": "security-audit-framework",
+      "featured": false
+    },
+    {
+      "name": "devops-runbooks",
+      "display_name": "DevOps Runbooks",
+      "description": "Infrastructure playbooks and incident response",
+      "audience": "DevOps and SRE engineers",
+      "note_count": 55,
+      "size_kb": 316,
+      "tags": ["devops", "infrastructure", "kubernetes", "incident-response"],
+      "min_same_version": "0.7.0",
+      "path": "devops-runbooks",
+      "featured": false
+    },
+    {
+      "name": "indie-hacker-playbook",
+      "display_name": "Indie Hacker Playbook",
+      "description": "Launch and grow indie software products",
+      "audience": "Solo founders and indie hackers",
+      "note_count": 52,
+      "size_kb": 220,
+      "tags": ["indie-hacker", "startup", "saas", "marketing"],
+      "min_same_version": "0.7.0",
+      "path": "indie-hacker-playbook",
+      "featured": false
+    },
+    {
+      "name": "open-source-launch-kit",
+      "display_name": "Open Source Launch Kit",
+      "description": "Ship and promote open source projects",
+      "audience": "Open source maintainers",
+      "note_count": 54,
+      "size_kb": 228,
+      "tags": ["open-source", "github", "community", "developer-relations"],
+      "min_same_version": "0.7.0",
+      "path": "open-source-launch-kit",
+      "featured": false
+    },
+    {
+      "name": "freelancer-business-kit",
+      "display_name": "Freelancer Business Kit",
+      "description": "Business templates for freelance developers",
+      "audience": "Freelance developers and consultants",
+      "note_count": 54,
+      "size_kb": 332,
+      "tags": ["freelance", "consulting", "contracts", "invoicing"],
+      "min_same_version": "0.7.0",
+      "path": "freelancer-business-kit",
+      "featured": false
+    },
+    {
+      "name": "personal-productivity-os",
+      "display_name": "Personal Productivity OS",
+      "description": "AI-powered personal productivity system with ADHD support, recipes, and self-growth",
+      "audience": "Knowledge workers and productivity enthusiasts",
+      "note_count": 118,
+      "size_kb": 680,
+      "tags": ["productivity", "adhd", "goals", "habits", "reviews", "mental-models", "recipes"],
+      "min_same_version": "0.8.0",
+      "path": "personal-productivity-os",
+      "featured": true
+    }
+  ]
+}

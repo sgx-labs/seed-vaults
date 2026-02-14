@@ -1,0 +1,37 @@
+# SAME Configuration — Personal Productivity OS
+#
+# Copy this to .same/config.toml and uncomment your preferred provider.
+# Run `same init` to generate interactively, or configure manually.
+
+[vault]
+  path = "."
+  handoff_dir = "sessions"
+  decision_log = "decisions/log.md"
+  skip_dirs = ["_Raw", "_PRIVATE", "templates"]
+
+# ── Embedding Provider ──────────────────────────────────────
+# Choose ONE provider. Comment out the others.
+
+# Option 1: Ollama (local, free, requires Ollama installed)
+# Setup: brew install ollama && ollama pull nomic-embed-text
+[embedding]
+  provider = "ollama"
+  model = "nomic-embed-text"
+
+[ollama]
+  url = "http://localhost:11434"
+
+# Option 2: OpenRouter (cloud, pay-per-use)
+# Setup: export SAME_EMBED_API_KEY=sk-or-...
+# [embedding]
+#   provider = "openai-compatible"
+#   model = "qwen/qwen3-embedding-8b"
+#   base_url = "https://openrouter.ai/api/v1"
+#   api_key = ""
+
+# ── Memory Settings ─────────────────────────────────────────
+# Tighter budget since personal notes are short and focused.
+[memory]
+  max_token_budget = 1200
+  max_results = 4
+  composite_threshold = 0.65

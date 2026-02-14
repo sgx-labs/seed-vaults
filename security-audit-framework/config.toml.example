@@ -1,0 +1,10 @@
+[vault]
+  path = "."
+  skip_dirs = ["_Raw"]
+  handoff_dir = "sessions"
+  decision_log = "decisions/log.md"
+
+[memory]
+  max_token_budget = 1600
+  max_results = 5
+  composite_threshold = 0.65

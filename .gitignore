@@ -1,0 +1,17 @@
+# Private/paid seeds (distributed separately)
+TradingSeed/
+
+# Machine-specific
+.same/
+.claude/
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Session data (generated per-user)
+sessions/
+welcome/
+
+# Private notes
+_PRIVATE/
