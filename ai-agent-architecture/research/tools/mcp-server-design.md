@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build an MCP Server for Agents?"
-tags: [MCP, server, tools, protocol, implementation]
+tags: [MCP, server, tools, protocol, implementation, TypeScript, Python, stdio, SSE]
 content_type: research
 domain: engineering
 ---

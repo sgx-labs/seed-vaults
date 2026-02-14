@@ -1,6 +1,6 @@
 ---
 title: "LangGraph — Current State"
-tags: [langgraph, langchain, graph, state-machine, entity, framework]
+tags: [langgraph, langchain, graph, state-machine, entity, framework, checkpoints, conditional-edges]
 content_type: entity
 domain: engineering
 ---

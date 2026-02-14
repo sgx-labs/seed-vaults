@@ -1,6 +1,6 @@
 ---
 title: "How Do I Give Agents Persistent Memory Across Sessions?"
-tags: [memory, persistent, cross-session, knowledge-base, embeddings]
+tags: [memory, persistent, cross-session, knowledge-base, embeddings, SQLite, vector-db, SAME]
 content_type: research
 domain: engineering
 ---

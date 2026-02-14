@@ -7,6 +7,8 @@ domain: engineering
 
 # Frameworks — Comparison and Selection Guide
 
+Overview: This hub covers agent framework selection including Claude Agent SDK, LangGraph, CrewAI, OpenAI Agents SDK, and AutoGen comparison. It addresses the build-versus-framework decision, framework migration strategies for portability, graph-based orchestration with LangGraph, role-based multi-agent teams with CrewAI, and minimal-abstraction agent loops with Claude SDK. Start here when choosing a framework, comparing options, or planning a migration between frameworks.
+
 ## The Framework Landscape (2026)
 
 The agent framework space has consolidated around a few serious options. The right choice depends on your use case, team, and how much control you need.
@@ -66,3 +68,10 @@ Do you need multi-agent orchestration?
 - `research/frameworks/crewai-patterns.md` — CrewAI multi-agent patterns
 - `research/frameworks/build-vs-framework.md` — When to roll your own
 - `research/frameworks/framework-migration.md` — Migrating between frameworks
+
+## See Also
+
+- `hub/architecture.md` — Architecture patterns each framework implements differently
+- `hub/tools.md` — MCP as the portability layer across frameworks
+- `hub/deployment.md` — Production deployment options by framework
+- `hub/memory.md` — How each framework handles state persistence and memory

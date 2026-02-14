@@ -1,6 +1,6 @@
 ---
 title: "How Do I Migrate Between Agent Frameworks?"
-tags: [migration, frameworks, refactoring, portability, lock-in]
+tags: [migration, frameworks, refactoring, portability, lock-in, MCP, quality-tests, tool-isolation]
 content_type: research
 domain: engineering
 ---

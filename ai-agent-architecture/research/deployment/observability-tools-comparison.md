@@ -1,6 +1,6 @@
 ---
 title: "Which Observability Tools Work Best for Agent Systems?"
-tags: [observability, tools, monitoring, tracing, comparison]
+tags: [observability, tools, monitoring, tracing, comparison, Braintrust, LangSmith, Helicone, OpenTelemetry]
 content_type: research
 domain: engineering
 ---

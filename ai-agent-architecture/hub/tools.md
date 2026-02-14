@@ -7,6 +7,8 @@ domain: engineering
 
 # Tools — Design, MCP, and Function Calling
 
+Overview: This hub covers agent tool design, Model Context Protocol (MCP) server implementation, function calling reliability, structured output with JSON Schema, and tool security patterns. It addresses how to write tool descriptions that agents use correctly, build MCP servers in TypeScript and Python, validate tool parameters, handle tool errors, and implement least-privilege permissions for agent actions. Start here when designing tools, integrating MCP servers, or debugging function calling issues.
+
 ## Why Tool Design Matters
 
 Tools are how agents interact with the world. A poorly designed tool causes the agent to hallucinate parameters, call the wrong tool, or misinterpret results. Good tool design is the highest-leverage improvement you can make to agent reliability.
@@ -56,3 +58,10 @@ Model Context Protocol (MCP) is the emerging standard for tool interfaces. Adopt
 - `research/tools/structured-output.md` — When and how to use JSON Schema output
 - `research/tools/tool-security.md` — Security considerations for agent tool use
 - `research/tools/function-calling-reliability.md` — Making function calls work consistently
+
+## See Also
+
+- `hub/architecture.md` — Agent patterns that define how tools are orchestrated
+- `hub/reliability.md` — Guardrails, validation, and safety constraints for tool use
+- `hub/frameworks.md` — Framework-specific tool integration patterns
+- `hub/deployment.md` — Monitoring tool call success rates in production

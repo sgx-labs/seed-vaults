@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build Agents with LangGraph?"
-tags: [LangGraph, LangChain, graph, state-machine, patterns]
+tags: [LangGraph, LangChain, graph, state-machine, patterns, supervisor, human-in-the-loop, subgraph, checkpoints]
 content_type: research
 domain: engineering
 ---

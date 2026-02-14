@@ -1,6 +1,6 @@
 ---
 title: "What Is an Agent Harness and Why Is It the Competitive Moat?"
-tags: [harness, infrastructure, competitive-advantage, architecture]
+tags: [harness, infrastructure, competitive-advantage, architecture, tool-router, guardrails, observability]
 content_type: research
 domain: engineering
 ---

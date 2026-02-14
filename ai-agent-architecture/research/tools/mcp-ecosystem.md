@@ -1,6 +1,6 @@
 ---
 title: "What MCP Servers Are Available and How Do I Find Them?"
-tags: [MCP, ecosystem, servers, directories, community]
+tags: [MCP, ecosystem, servers, directories, community, Glama, Smithery, Claude-Code, integration]
 content_type: research
 domain: engineering
 ---

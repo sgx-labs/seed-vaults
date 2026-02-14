@@ -1,6 +1,6 @@
 ---
 title: "What Are the Security Considerations for Agent Tool Use?"
-tags: [security, tools, permissions, sandboxing, safety]
+tags: [security, tools, permissions, sandboxing, safety, least-privilege, data-exfiltration, prompt-injection]
 content_type: research
 domain: engineering
 ---

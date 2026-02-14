@@ -1,8 +1,9 @@
 ---
 title: "MCP — Model Context Protocol Current State"
-tags: [MCP, protocol, tools, standard, entity, interoperability]
+tags: [MCP, protocol, tools, standard, entity, interoperability, JSON-RPC, tool-schema]
 content_type: entity
 domain: engineering
+pinned: true
 ---
 
 # MCP — Model Context Protocol Current State

@@ -7,6 +7,8 @@ domain: engineering
 
 # Deployment — Production, Monitoring, and Scaling
 
+Overview: This hub covers running AI agents in production including monitoring and observability with traces, metrics, and alerts, cost optimization strategies for token usage and model selection, scaling patterns with worker pools, async queues, and session pooling, agent debugging with structured logging and trace reconstruction, production readiness checklists, and quality measurement with pass@1 metrics, A/B testing, and benchmarks. Start here when deploying agents, setting up monitoring, controlling costs, or scaling to many users.
+
 ## The Production Gap
 
 Getting an agent working locally is step one. Running it reliably in production is a different discipline entirely. Production agents need monitoring, cost controls, observability, and operational runbooks.
@@ -64,3 +66,10 @@ Agent costs compound quickly. A single agent session can use 100K+ tokens. At sc
 - `research/deployment/cost-optimization.md` — Token cost management strategies
 - `research/deployment/agent-debugging.md` — Tracing, logging, and replay
 - `research/deployment/scaling-patterns.md` — Scaling agent systems
+
+## See Also
+
+- `hub/reliability.md` — Error handling, guardrails, and testing that underpin production readiness
+- `hub/tools.md` — Tool design patterns that affect monitoring and debugging
+- `hub/architecture.md` — Architecture decisions that affect scaling and cost
+- `hub/frameworks.md` — Framework deployment options (LangGraph Platform, custom)

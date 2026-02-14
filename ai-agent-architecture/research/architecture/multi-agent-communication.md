@@ -1,6 +1,6 @@
 ---
 title: "What Are the Patterns for Agent-to-Agent Communication?"
-tags: [multi-agent, communication, coordination, message-passing, shared-state]
+tags: [multi-agent, communication, coordination, message-passing, shared-state, blackboard, supervisor, handoff]
 content_type: research
 domain: engineering
 ---

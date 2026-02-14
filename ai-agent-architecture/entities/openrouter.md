@@ -1,6 +1,6 @@
 ---
 title: "OpenRouter — Current State"
-tags: [openrouter, multi-model, routing, API, pricing, entity]
+tags: [openrouter, multi-model, routing, API, pricing, entity, fallback, model-gateway]
 content_type: entity
 domain: engineering
 ---

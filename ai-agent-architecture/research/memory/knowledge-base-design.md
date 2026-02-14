@@ -1,6 +1,6 @@
 ---
 title: "How Do I Design a Knowledge Base That Agents Can Search?"
-tags: [knowledge-base, design, search, embeddings, organization]
+tags: [knowledge-base, design, search, embeddings, organization, frontmatter, chunking, retrieval-quality]
 content_type: research
 domain: engineering
 ---

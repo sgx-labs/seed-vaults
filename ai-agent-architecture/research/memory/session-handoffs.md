@@ -1,6 +1,6 @@
 ---
 title: "How Do I Carry State Between Agent Sessions?"
-tags: [sessions, handoffs, state, continuity, memory]
+tags: [sessions, handoffs, state, continuity, memory, hooks, automation, crash-recovery]
 content_type: research
 domain: engineering
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build Agents with Claude Agent SDK?"
-tags: [Claude, SDK, Anthropic, patterns, implementation]
+tags: [Claude, SDK, Anthropic, patterns, implementation, extended-thinking, prompt-caching, subagents, MCP]
 content_type: research
 domain: engineering
 ---

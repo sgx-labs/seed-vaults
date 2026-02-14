@@ -7,6 +7,8 @@ domain: engineering
 
 # Reliability — Error Handling, Guardrails, and Testing
 
+Overview: This hub covers production agent reliability including error handling with retries and fallbacks, guardrail implementation for input validation, output validation, and action permissions, agent testing with unit tests, integration tests, and eval harnesses, prompt injection defense, prompt robustness across model versions, human-in-the-loop approval patterns, rate limit handling, and infinite loop prevention. Start here when hardening agents for production, implementing safety constraints, or building quality evaluation infrastructure.
+
 ## Why Reliability Is the Hard Problem
 
 A demo agent that works 80% of the time is impressive. A production agent that fails 20% of the time is unusable. The gap between "works in demo" and "works in production" is almost entirely reliability engineering.
@@ -64,3 +66,10 @@ Do not ask "did the agent get the right answer?" Ask "across 100 runs, how often
 - `research/reliability/rate-limits-api-failures.md` — Handling rate limits gracefully
 - `research/reliability/prompt-robustness.md` — Prompts that survive model updates
 - `research/reliability/human-in-the-loop.md` — When and how to involve humans
+
+## See Also
+
+- `hub/tools.md` — Tool design principles that prevent errors at the source
+- `hub/deployment.md` — Production monitoring, alerting, and observability
+- `hub/architecture.md` — Architecture choices that affect reliability (single vs multi-agent)
+- `hub/memory.md` — Memory patterns for persistent error resolution and session continuity

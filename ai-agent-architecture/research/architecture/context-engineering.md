@@ -1,6 +1,6 @@
 ---
 title: "What Is Context Engineering and Why Does It Matter?"
-tags: [context-engineering, tokens, prompt-design, architecture]
+tags: [context-engineering, tokens, prompt-design, architecture, retrieval, just-in-time, context-budget]
 content_type: research
 domain: engineering
 ---

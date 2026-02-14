@@ -1,6 +1,6 @@
 ---
 title: "How Do I Test Agents (Unit Tests, Integration Tests, Quality Harnesses)?"
-tags: [testing, quality, harness, stochastic, metrics]
+tags: [testing, quality, harness, stochastic, metrics, unit-test, integration-test, red-teaming, pass-at-1]
 content_type: research
 domain: engineering
 ---

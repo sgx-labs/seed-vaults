@@ -1,6 +1,6 @@
 ---
 title: "How Do I Use RAG Effectively for Agent Workloads?"
-tags: [RAG, retrieval, embeddings, vector-search, agents]
+tags: [RAG, retrieval, embeddings, vector-search, agents, reranking, hybrid-search, metadata-filters]
 content_type: research
 domain: engineering
 ---

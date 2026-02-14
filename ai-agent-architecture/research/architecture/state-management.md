@@ -1,6 +1,6 @@
 ---
 title: "What Are the Patterns for Agent State Management?"
-tags: [state, management, persistence, checkpoints, architecture]
+tags: [state, management, persistence, checkpoints, architecture, scratchpad, working-memory, cross-session]
 content_type: research
 domain: engineering
 ---

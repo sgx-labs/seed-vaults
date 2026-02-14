@@ -1,6 +1,6 @@
 ---
 title: "When Should I Use Single vs Multi-Agent Architecture?"
-tags: [architecture, single-agent, multi-agent, decision-framework]
+tags: [architecture, single-agent, multi-agent, decision-framework, coordination-tax, specialization, context-overflow]
 content_type: research
 domain: engineering
 ---

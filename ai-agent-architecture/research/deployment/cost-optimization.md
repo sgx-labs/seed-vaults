@@ -1,6 +1,6 @@
 ---
 title: "What Are the Cost Optimization Strategies for Agent Systems?"
-tags: [cost, optimization, tokens, pricing, efficiency]
+tags: [cost, optimization, tokens, pricing, efficiency, model-selection, prompt-caching, batch-processing]
 content_type: research
 domain: engineering
 ---

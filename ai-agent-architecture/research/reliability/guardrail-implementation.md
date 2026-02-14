@@ -1,6 +1,6 @@
 ---
 title: "How Do I Implement Guardrails and Safety Constraints?"
-tags: [guardrails, safety, constraints, validation, permissions]
+tags: [guardrails, safety, constraints, validation, permissions, PII-detection, prompt-injection, cost-caps]
 content_type: research
 domain: engineering
 ---

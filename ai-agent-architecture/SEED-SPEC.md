@@ -1,3 +1,10 @@
+---
+title: "AI Agent Architecture Seed — Build Specification"
+content_type: template
+tags: [seed-spec, build-plan, hub-categories, key-questions, entities]
+domain: engineering
+---
+
 # AI Agent Architecture Seed
 
 ## Metadata

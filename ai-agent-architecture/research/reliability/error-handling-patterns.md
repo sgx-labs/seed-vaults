@@ -1,6 +1,6 @@
 ---
 title: "How Do I Handle Agent Errors and Hallucinations in Production?"
-tags: [errors, hallucinations, production, recovery, error-handling]
+tags: [errors, hallucinations, production, recovery, error-handling, retry, fallback, circuit-breaker, graceful-degradation]
 content_type: research
 domain: engineering
 ---

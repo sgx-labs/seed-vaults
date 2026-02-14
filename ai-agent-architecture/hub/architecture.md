@@ -7,6 +7,8 @@ domain: engineering
 
 # Architecture — Agent Patterns and Orchestration
 
+Overview: This hub covers AI agent architecture patterns including ReAct loops, Plan-and-Execute workflows, Reflexion self-correction, Tree of Thoughts branching, and multi-agent orchestration. It addresses single-agent versus multi-agent design decisions, supervisor and pipeline coordination patterns, agent handoffs, delegation, state management, and context engineering. Start here when choosing how to structure your agent system, deciding between reasoning patterns, or planning multi-agent coordination.
+
 ## The Core Question
 
 How do you structure an AI agent system? The answer depends on task complexity, reliability requirements, and how much you can afford to get wrong.
@@ -65,3 +67,10 @@ Most teams start too far right. A single ReAct agent handles 80% of real-world t
 - `research/architecture/multi-agent-communication.md` — Agent-to-agent coordination
 - `research/architecture/agent-handoffs.md` — Delegation and handoff patterns
 - `research/architecture/state-management.md` — Managing agent state across turns
+
+## See Also
+
+- `hub/tools.md` — Tool design and MCP, the action layer for agent architectures
+- `hub/memory.md` — Memory systems for managing state across sessions and context windows
+- `hub/reliability.md` — Error handling, guardrails, and testing for production agents
+- `hub/frameworks.md` — Framework selection guide for implementing architecture patterns

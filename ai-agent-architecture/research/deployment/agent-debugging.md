@@ -1,6 +1,6 @@
 ---
 title: "How Do I Debug Agent Behavior (Tracing, Logging, Replay)?"
-tags: [debugging, tracing, logging, replay, observability]
+tags: [debugging, tracing, logging, replay, observability, prompt-inspection, diff-analysis, time-travel]
 content_type: research
 domain: engineering
 ---

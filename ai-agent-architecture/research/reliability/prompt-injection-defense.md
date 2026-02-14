@@ -1,6 +1,6 @@
 ---
 title: "How Do I Defend Against Prompt Injection in Agent Systems?"
-tags: [security, prompt-injection, defense, safety, adversarial]
+tags: [security, prompt-injection, defense, safety, adversarial, input-validation, data-separation, action-verification]
 content_type: research
 domain: engineering
 ---

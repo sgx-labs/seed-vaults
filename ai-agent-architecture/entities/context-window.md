@@ -1,6 +1,6 @@
 ---
 title: "Context Window — Token Limits and Management"
-tags: [context-window, tokens, limits, management, entity]
+tags: [context-window, tokens, limits, management, entity, token-budget, pruning, compaction]
 content_type: entity
 domain: engineering
 ---

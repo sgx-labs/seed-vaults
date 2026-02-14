@@ -1,8 +1,9 @@
 ---
 title: "Claude Agent SDK — Current State"
-tags: [claude, agent-sdk, anthropic, entity, framework]
+tags: [claude, agent-sdk, anthropic, entity, framework, tool-use, extended-thinking]
 content_type: entity
 domain: engineering
+pinned: true
 ---
 
 # Claude Agent SDK — Current State

@@ -1,6 +1,6 @@
 ---
 title: "How Do I Monitor Agent Behavior in Production?"
-tags: [monitoring, observability, logging, tracing, metrics, production]
+tags: [monitoring, observability, logging, tracing, metrics, production, Braintrust, LangSmith, Helicone]
 content_type: research
 domain: engineering
 ---

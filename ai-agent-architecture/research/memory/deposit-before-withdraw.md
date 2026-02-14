@@ -1,6 +1,6 @@
 ---
 title: "The 'Deposit Before You Withdraw' Principle for Agent Memory"
-tags: [memory, write-side, discipline, patterns, knowledge-management]
+tags: [memory, write-side, discipline, patterns, knowledge-management, session-handoff, decision-log, hooks]
 content_type: research
 domain: engineering
 ---

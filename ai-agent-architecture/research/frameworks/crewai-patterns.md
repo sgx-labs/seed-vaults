@@ -1,6 +1,6 @@
 ---
 title: "How Do I Build Multi-Agent Teams with CrewAI?"
-tags: [CrewAI, multi-agent, roles, crews, orchestration]
+tags: [CrewAI, multi-agent, roles, crews, orchestration, sequential, hierarchical, delegation, flows]
 content_type: research
 domain: engineering
 ---

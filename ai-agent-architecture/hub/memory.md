@@ -7,6 +7,8 @@ domain: engineering
 
 # Memory — Persistent Memory and Context Management
 
+Overview: This hub covers agent memory systems including persistent memory across sessions, context window management, RAG retrieval for agents, session handoffs, knowledge base design, and the write-side discipline of deciding what to save. It addresses working memory, short-term and long-term memory patterns, embedding-based semantic search, local-first SQLite storage versus cloud vector databases, and context budget allocation. Start here when building agent memory, managing token limits, or designing knowledge bases.
+
 ## The Memory Problem
 
 LLMs have no memory between sessions. Every conversation starts from zero. For agents that work on ongoing projects, this is the fundamental limitation. You either solve memory or your agent re-discovers everything every session.
@@ -63,3 +65,10 @@ For most agent builders, **local-first is the right default**. You can always ad
 - `research/memory/rag-for-agents.md` — RAG patterns specific to agent workloads
 - `research/memory/session-handoffs.md` — Carrying state between sessions
 - `research/memory/knowledge-base-design.md` — Designing knowledge bases agents can search
+
+## See Also
+
+- `hub/architecture.md` — State management and context engineering patterns
+- `hub/tools.md` — MCP tool design for memory retrieval and knowledge base search
+- `hub/deployment.md` — Token usage monitoring and cost optimization for memory-heavy agents
+- `hub/reliability.md` — Testing memory retrieval quality with eval harnesses

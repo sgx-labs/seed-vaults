@@ -1,6 +1,6 @@
 ---
 title: "What Does a Production-Ready Agent Need?"
-tags: [production, checklist, deployment, readiness, operations]
+tags: [production, checklist, deployment, readiness, operations, health-check, alerting, staged-rollout]
 content_type: research
 domain: engineering
 ---
