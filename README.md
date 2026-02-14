@@ -1,97 +1,117 @@
 # Seed Vaults
 
-Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/same) — the persistent memory layer for AI coding agents.
+Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/same). Install one command. Your AI agent gets instant domain expertise.
 
-Each seed is a ready-to-use vault that gives your AI agent instant expertise in a specific domain. Clone a seed, water it, and your agent has context from day one.
+**8 seeds. 500+ notes. All local, all private, no cloud.**
+
+## Quick Start
+
+```bash
+# Install SAME if you haven't already
+npm install -g @sgx-labs/same
+
+# Install a seed vault (one command)
+same seed install claude-code-power-user
+
+# Your agent now has expert knowledge
+same search "how do I write a pre-commit hook"
+```
 
 ## Available Seeds
 
-| Seed | Type | Notes | Description |
-|------|------|-------|-------------|
-| [Claude Code Power User](./claude-code-power-user/) | Knowledge | 50+ | Master hooks, MCP servers, workflows, and prompt patterns |
-| [AI Agent Architecture](./ai-agent-architecture/) | Knowledge | 60-80 | Patterns for building production AI agents |
-| [Security Audit Framework](./security-audit-framework/) | Knowledge | 50-70 | OWASP Top 10, auth patterns, secure coding |
-| [DevOps Runbooks](./devops-runbooks/) | Hybrid | 50-70 | Incident response, monitoring, deployment |
-| [Indie Hacker Playbook](./indie-hacker-playbook/) | Hybrid | 50-70 | Idea validation to first revenue |
-| [Open Source Launch Kit](./open-source-launch-kit/) | Hybrid | 40-60 | Launch, grow, and maintain OSS projects |
-| [Freelancer Business Kit](./freelancer-business-kit/) | Framework | 40-60 | Proposals, contracts, invoicing, clients |
-| [Personal Productivity OS](./personal-productivity-os/) | Framework | 30-50 | Your personal operating system |
-| [Trading Seed](./TradingSeed/) | Knowledge | 140+ | Algorithmic trading strategies and analysis |
+### Featured
 
-All seeds are **free and open source**.
+| Seed | Notes | Size | Description |
+|------|------:|-----:|-------------|
+| **[Claude Code Power User](./claude-code-power-user/)** | 50 | 384 KB | Master hooks, MCP servers, workflows, and prompt patterns |
+| **[AI Agent Architecture](./ai-agent-architecture/)** | 56 | 276 KB | Production patterns for building AI agents — memory, tool use, orchestration |
+| **[Personal Productivity OS](./personal-productivity-os/)** | 118 | 680 KB | Full productivity system with ADHD support, habit tracking, recipes, gamification, and self-growth frameworks |
 
-## Water the Seed
+### All Seeds
 
-Clone a seed. Water it. Your agent grows expertise instantly.
+| Seed | Notes | Size | Description |
+|------|------:|-----:|-------------|
+| [Security Audit Framework](./security-audit-framework/) | 61 | 320 KB | OWASP-based security assessment methodology |
+| [DevOps Runbooks](./devops-runbooks/) | 55 | 316 KB | Infrastructure playbooks and incident response |
+| [Indie Hacker Playbook](./indie-hacker-playbook/) | 52 | 220 KB | From idea validation to first revenue |
+| [Open Source Launch Kit](./open-source-launch-kit/) | 54 | 228 KB | Ship, promote, and maintain open source projects |
+| [Freelancer Business Kit](./freelancer-business-kit/) | 54 | 332 KB | Proposals, contracts, invoicing, and client management |
 
-```bash
-# 1. Install SAME
-npm install -g @sgx-labs/same
+> Personal Productivity OS requires SAME v0.8.0+. All other seeds require v0.7.0+.
 
-# 2. Pick a seed and copy it
-git clone https://github.com/sgx-labs/seed-vaults
-cp -r seed-vaults/claude-code-power-user ~/my-vault
+## What Are Seeds?
 
-# 3. Water the seed
-cd ~/my-vault
-same init          # Configure your embedding provider
-same reindex       # Index all notes (~30 seconds)
+A seed is a curated vault of markdown notes designed around a specific domain. Each note is written for retrieval — concise, tagged, and structured so your AI agent can find exactly what it needs during a coding session.
 
-# 4. Verify it works
-same search "how do hooks work"
+Seeds are not documentation. They are **working memory** — the kind of knowledge an experienced teammate carries in their head. Install a seed and your agent stops guessing and starts knowing.
 
-# Done. Your agent now has expert knowledge in every session.
-```
+## How It Works
 
-### What Happens When You Water
+When you run `same seed install`, SAME:
 
-| Seed Type | What happens |
-|-----------|-------------|
-| **Knowledge** | Ready immediately. 50+ expert notes indexed and searchable. |
-| **Hybrid** | Starter content indexed. Templates ready for you to customize. |
-| **Framework** | Scaffolding indexed. Your agent interviews you on first session to personalize. |
+1. Downloads the seed from this repo
+2. Extracts files into `~/same-seeds/<name>/`
+3. Indexes all notes into a local SQLite database
+4. Registers it as a SAME vault
 
-## Seed Types
+From that point on, every AI session backed by SAME can search the seed's knowledge. Notes surface automatically through hooks, or on demand through `same search` and `same ask`.
 
-- **Knowledge** — Pre-filled with curated research and reference material. Water and use immediately.
-- **Hybrid** — Starter content plus templates you customize for your situation. Water, then adapt.
-- **Framework** — Scaffolding you fill in. Water, then let your agent interview you to personalize.
+Seeds also ship with a `CLAUDE.md` that teaches your agent how to use the domain — what to search for, when to save decisions, and how to hand off between sessions.
 
 ## Building Your Own Seed
 
-Use the [`_seed-template/`](./_seed-template/) as a starting point:
+The [`_seed-template/`](./_seed-template/) directory contains everything you need to create a new seed:
 
-1. Copy the template directory
-2. Fill in `SEED-SPEC.md` with your domain
-3. Create hub notes (category indexes)
-4. Add research notes (one question per file)
-5. Define entities (things that change over time)
-6. Set up `CLAUDE.md` governance rules
-7. Water it: `same init && same reindex`
+1. Copy `_seed-template/` to a new directory
+2. Fill in `SEED-SPEC.md` with your domain, audience, and key questions
+3. Write hub notes (category indexes), research notes (one concept per file), and entity notes (living reference docs)
+4. Add a `CLAUDE.md` with governance rules and SAME tool usage patterns
+5. Test it: `same init && same reindex && same search "your test query"`
 
-See the [SEED-SPEC template](./_seed-template/SEED-SPEC.md) for the full structure.
+See [`_seed-template/SEED-SPEC.md`](./_seed-template/SEED-SPEC.md) for the full spec and quality checklist.
 
-## Structure
+## Seed Structure
 
-Every seed follows the same layout:
+Every seed follows a consistent layout:
 
 ```
 seed-name/
-  bootstrap.md       # Pinned — "Water the Seed" instructions + orientation
-  SEED-SPEC.md        # Seed definition and metadata
-  CLAUDE.md            # Agent governance rules
-  config.toml.example  # SAME configuration template
-  hub/                 # Category index notes
-  research/            # Deep-dive reference notes
-  entities/            # Living documents (tools, platforms, standards)
-  decisions/           # Architectural decisions log
-  templates/           # Fill-in templates (hybrid/framework seeds)
-  sessions/            # Session handoffs
-  _Raw/                # Source material (skipped by indexer)
+  bootstrap.md          # Pinned — onboarding instructions and orientation
+  SEED-SPEC.md          # Seed definition and metadata
+  CLAUDE.md             # Agent governance rules and SAME tool patterns
+  config.toml.example   # SAME configuration template
+  hub/                  # Category index notes (5-7 per seed)
+  research/             # Deep-dive reference notes (one concept per file)
+  entities/             # Living documents — tools, platforms, standards
+  decisions/            # Architectural decision log
+  templates/            # Fill-in templates (some seeds)
+  sessions/             # Session handoff notes (generated per-user)
+  _Raw/                 # Source material (excluded from indexing)
 ```
 
-## Made with SAME, Used with SAME
+<details>
+<summary><strong>Manual Install (without <code>same seed</code>)</strong></summary>
 
-These seeds are built using SAME's agent workflows and designed to be used with SAME. They demonstrate the full lifecycle: persistent memory, session continuity, federated search across vaults, and knowledge that compounds over time.
+If you prefer to install manually or are running an older version of SAME:
 
-Plant a seed. Water it. Watch it grow.
+```bash
+# Clone the repo
+git clone https://github.com/sgx-labs/seed-vaults
+cd seed-vaults
+
+# Copy the seed you want to a new location
+cp -r claude-code-power-user ~/vaults/claude-code
+
+# Initialize and index
+cd ~/vaults/claude-code
+same init
+same reindex
+```
+
+</details>
+
+---
+
+All seeds are free and open source. Built with SAME, used with SAME.
+
+*Plant a seed. Water it. Watch it grow.*
