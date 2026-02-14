@@ -1,6 +1,6 @@
 ---
 title: "How to Write Effective Prompts for Claude Code"
-tags: [prompts, efficiency, tokens, fundamentals]
+tags: [prompts, efficiency, tokens, fundamentals, four-part-formula, file-paths]
 content_type: research
 domain: engineering
 ---

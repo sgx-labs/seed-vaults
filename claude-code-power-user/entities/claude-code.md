@@ -1,7 +1,8 @@
 ---
 title: "Claude Code — Current State"
-tags: [claude-code, entity, models, capabilities]
+tags: [claude-code, entity, models, capabilities, opus, sonnet, haiku]
 content_type: entity
+pinned: true
 domain: engineering
 ---
 

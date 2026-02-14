@@ -1,6 +1,6 @@
 ---
 title: "MCP Protocol — Current State"
-tags: [mcp, protocol, entity, tools, servers]
+tags: [mcp, protocol, entity, tools, servers, stdio, sse, json-schema]
 content_type: entity
 domain: engineering
 ---

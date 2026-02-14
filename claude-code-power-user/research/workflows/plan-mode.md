@@ -1,6 +1,6 @@
 ---
 title: "When and How to Use Plan Mode"
-tags: [plan-mode, workflow, architecture, design, strategy]
+tags: [plan-mode, workflow, architecture, design, strategy, EnterPlanMode, refactoring]
 content_type: research
 domain: engineering
 ---

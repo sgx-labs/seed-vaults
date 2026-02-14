@@ -1,7 +1,8 @@
 ---
 title: "CLAUDE.md — Current State"
-tags: [claude-md, governance, entity, configuration, project-setup]
+tags: [claude-md, governance, entity, configuration, project-setup, instructions]
 content_type: entity
+pinned: true
 domain: engineering
 ---
 

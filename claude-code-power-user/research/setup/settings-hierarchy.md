@@ -1,6 +1,6 @@
 ---
 title: "How Settings Merge and Override"
-tags: [settings, configuration, permissions, merge, hierarchy]
+tags: [settings, configuration, permissions, merge, hierarchy, global-project-personal, deny-wins]
 content_type: research
 domain: engineering
 ---

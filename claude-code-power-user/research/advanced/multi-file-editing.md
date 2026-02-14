@@ -1,6 +1,6 @@
 ---
 title: "Multi-File Editing Workflows"
-tags: [editing, multi-file, refactoring, workflow, advanced]
+tags: [editing, multi-file, refactoring, workflow, advanced, rename, glob-grep, atomic]
 content_type: research
 domain: engineering
 ---

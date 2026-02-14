@@ -1,6 +1,6 @@
 ---
 title: "Managing the Context Window Effectively"
-tags: [context-window, optimization, session-management, workflow]
+tags: [context-window, optimization, session-management, workflow, token-budget, compaction, file-reads]
 content_type: research
 domain: engineering
 ---

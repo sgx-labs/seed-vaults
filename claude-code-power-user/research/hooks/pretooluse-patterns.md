@@ -1,6 +1,6 @@
 ---
 title: "PreToolUse Guard Patterns"
-tags: [hooks, PreToolUse, security, guard, git-push, protection]
+tags: [hooks, PreToolUse, security, guard, git-push, protection, force-push, config-files]
 content_type: research
 domain: engineering
 ---

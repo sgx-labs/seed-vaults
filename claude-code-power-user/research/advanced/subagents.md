@@ -1,6 +1,6 @@
 ---
 title: "Using Subagents for Parallel Work"
-tags: [subagents, task-tool, parallel, context-management, advanced]
+tags: [subagents, task-tool, parallel, context-management, advanced, background-mode, explore]
 content_type: research
 domain: engineering
 ---

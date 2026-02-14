@@ -1,6 +1,6 @@
 ---
 title: "Writing Custom Hooks"
-tags: [hooks, custom-hooks, bash, python, settings, tutorial]
+tags: [hooks, custom-hooks, bash, python, settings, tutorial, stdin-stdout, json]
 content_type: research
 domain: engineering
 ---

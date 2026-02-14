@@ -1,6 +1,6 @@
 ---
 title: "Debugging Hooks When They Don't Work"
-tags: [hooks, debugging, troubleshooting, errors, testing]
+tags: [hooks, debugging, troubleshooting, errors, testing, settings-json, stderr]
 content_type: research
 domain: engineering
 ---

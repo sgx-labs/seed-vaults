@@ -1,6 +1,6 @@
 ---
 title: "Automating Repetitive Tasks with Claude Code"
-tags: [automation, hooks, mcp, slash-commands, workflow, advanced]
+tags: [automation, hooks, mcp, slash-commands, workflow, advanced, permissions, lifecycle]
 content_type: research
 domain: engineering
 ---

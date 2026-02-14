@@ -1,3 +1,11 @@
+---
+title: "Claude Code Power User — Governance"
+content_type: hub
+tags: [governance, claude-code, seed, rules, research-cascade]
+pinned: true
+domain: engineering
+---
+
 # Claude Code Power User — Governance
 
 ## Purpose

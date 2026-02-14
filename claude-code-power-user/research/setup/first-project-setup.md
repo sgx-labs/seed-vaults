@@ -1,6 +1,6 @@
 ---
 title: "First Project Setup — Step by Step"
-tags: [getting-started, setup, first-project, tutorial, beginner]
+tags: [getting-started, setup, first-project, tutorial, beginner, npm-install, authentication]
 content_type: research
 domain: engineering
 ---

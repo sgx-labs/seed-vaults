@@ -1,6 +1,6 @@
 ---
 title: "Building Your Own MCP Server"
-tags: [mcp, server, sdk, typescript, python, development]
+tags: [mcp, server, sdk, typescript, python, development, custom-tools, json-rpc]
 content_type: research
 domain: engineering
 ---

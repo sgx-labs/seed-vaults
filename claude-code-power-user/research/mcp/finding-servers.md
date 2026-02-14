@@ -1,6 +1,6 @@
 ---
 title: "Where to Find MCP Servers"
-tags: [mcp, servers, directories, discovery, ecosystem]
+tags: [mcp, servers, directories, discovery, ecosystem, glama, smithery, awesome-mcp]
 content_type: research
 domain: engineering
 ---

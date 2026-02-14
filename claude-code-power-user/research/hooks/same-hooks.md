@@ -1,6 +1,6 @@
 ---
 title: "How SAME Uses Hooks for Persistent Memory"
-tags: [hooks, same, memory, context-surfacing, handoff, session-continuity]
+tags: [hooks, same, memory, context-surfacing, handoff, session-continuity, crash-recovery, pinned-notes]
 content_type: research
 domain: engineering
 ---

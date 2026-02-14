@@ -1,6 +1,6 @@
 ---
 title: "The Permission System in Depth"
-tags: [permissions, settings, security, configuration, project-setup]
+tags: [permissions, settings, security, configuration, project-setup, allow-deny, wildcard]
 content_type: research
 domain: engineering
 ---

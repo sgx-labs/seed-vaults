@@ -1,6 +1,6 @@
 ---
 title: "Context Window — Current State"
-tags: [context-window, tokens, entity, performance, compaction]
+tags: [context-window, tokens, entity, performance, compaction, 200K, subagents]
 content_type: entity
 domain: engineering
 ---

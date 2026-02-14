@@ -1,3 +1,10 @@
+---
+title: "Claude Code Power User Seed — Specification"
+content_type: template
+tags: [seed-spec, claude-code, knowledge-seed, hub-categories, entity-definitions]
+domain: engineering
+---
+
 # Claude Code Power User Seed
 
 ## Metadata

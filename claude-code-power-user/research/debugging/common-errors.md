@@ -1,6 +1,6 @@
 ---
 title: "Common Claude Code Error Messages and What They Mean"
-tags: [debugging, errors, troubleshooting, claude-code]
+tags: [debugging, errors, troubleshooting, claude-code, permission-denied, rate-limit, authentication]
 content_type: research
 domain: engineering
 ---

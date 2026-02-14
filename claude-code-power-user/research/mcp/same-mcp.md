@@ -1,6 +1,6 @@
 ---
 title: "SAME as an MCP Server — Persistent Memory for Claude Code"
-tags: [mcp, same, memory, knowledge-base, search, session-handoff]
+tags: [mcp, same, memory, knowledge-base, search, session-handoff, sqlite-vec, embeddings]
 content_type: research
 domain: engineering
 ---

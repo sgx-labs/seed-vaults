@@ -1,6 +1,6 @@
 ---
 title: "Hook Lifecycle and Execution Model"
-tags: [hooks, lifecycle, events, SessionStart, Stop, execution-model]
+tags: [hooks, lifecycle, events, SessionStart, Stop, execution-model, UserPromptSubmit, PreToolUse]
 content_type: research
 domain: engineering
 ---

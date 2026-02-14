@@ -1,6 +1,6 @@
 ---
 title: "Safe Refactoring with Claude Code"
-tags: [refactoring, plan-mode, testing, workflow, code-quality]
+tags: [refactoring, plan-mode, testing, workflow, code-quality, rename, extract-function]
 content_type: research
 domain: engineering
 ---

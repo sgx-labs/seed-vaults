@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Claude Code for a Team"
-tags: [team, collaboration, onboarding, settings, project-setup]
+tags: [team, collaboration, onboarding, settings, project-setup, shared-config, gitignore]
 content_type: research
 domain: engineering
 ---

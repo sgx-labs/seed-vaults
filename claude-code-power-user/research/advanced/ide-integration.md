@@ -1,6 +1,6 @@
 ---
 title: "Claude Code in VS Code, Cursor, and Other Editors"
-tags: [ide, vscode, cursor, windsurf, integration, mcp, advanced]
+tags: [ide, vscode, cursor, windsurf, integration, mcp, advanced, mcp-only, extension]
 content_type: research
 domain: engineering
 ---

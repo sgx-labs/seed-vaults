@@ -1,6 +1,6 @@
 ---
 title: "Debugging MCP Server Issues"
-tags: [mcp, debugging, troubleshooting, servers, configuration]
+tags: [mcp, debugging, troubleshooting, servers, configuration, json-rpc, connection-failed]
 content_type: research
 domain: engineering
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Decision Log"
-tags: [decisions, architecture, log]
+tags: [decisions, architecture, log, governance, claude-md, hooks, mcp, batching]
 content_type: decision
 domain: engineering
 ---

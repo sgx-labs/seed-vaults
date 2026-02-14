@@ -1,11 +1,15 @@
 ---
 title: "Prompt Patterns — Talking to Claude Code Effectively"
-tags: [prompts, patterns, efficiency, communication]
+tags: [prompts, patterns, efficiency, communication, token-saving, batching, file-paths]
 content_type: hub
 domain: engineering
 ---
 
 # Prompt Patterns — Talking to Claude Code Effectively
+
+## Overview
+
+Prompt patterns for Claude Code cover effective prompting strategies for feature development, bug fixing, refactoring, code review, and research tasks. Key patterns include the four-part formula (what, where, why, constraints), file path references over descriptions, batched operations for token savings, plan mode for complex tasks, and anti-patterns that waste tokens. This hub links to detailed guides on task-specific templates, model-specific prompting (Opus, Sonnet, Haiku), and common mistakes.
 
 ## Core Principle
 
@@ -74,3 +78,10 @@ to the protected route handler.
 - `research/prompts/task-specific-prompts.md` — Templates by task type
 - `research/prompts/model-differences.md` — How prompting differs by model
 - `research/prompts/common-mistakes.md` — Token-wasting mistakes to avoid
+
+## See Also
+
+- `hub/workflows.md` — Workflow patterns that complement good prompting
+- `hub/troubleshooting.md` — When prompts produce unexpected results
+- `hub/hooks.md` — Automatic context surfacing reduces manual prompting
+- `hub/getting-started.md` — First prompts for new users

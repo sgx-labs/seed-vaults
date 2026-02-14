@@ -1,6 +1,6 @@
 ---
 title: "Prompt Templates by Task Type for Claude Code"
-tags: [prompts, templates, patterns, tasks, workflow]
+tags: [prompts, templates, patterns, tasks, workflow, bug-fix, feature, refactoring]
 content_type: research
 domain: engineering
 ---

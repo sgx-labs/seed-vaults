@@ -1,6 +1,6 @@
 ---
 title: "How to Batch Operations for Efficiency in Claude Code"
-tags: [prompts, batching, efficiency, tokens, cost]
+tags: [prompts, batching, efficiency, tokens, cost, rapid-fire, overhead]
 content_type: research
 domain: engineering
 ---

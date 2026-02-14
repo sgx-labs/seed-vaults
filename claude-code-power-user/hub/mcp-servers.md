@@ -1,11 +1,15 @@
 ---
 title: "MCP Servers — Extending Claude Code"
-tags: [mcp, servers, tools, integration, extensions]
+tags: [mcp, servers, tools, integration, extensions, stdio, same, postgresql, brave-search]
 content_type: hub
 domain: engineering
 ---
 
 # MCP Servers — Extending Claude Code
+
+## Overview
+
+MCP (Model Context Protocol) servers extend Claude Code with external tools for searching databases, accessing APIs, managing knowledge bases, and automating browsers. This hub covers MCP server configuration in settings.json, stdio vs SSE transport, popular servers (SAME, PostgreSQL, Brave Search, Puppeteer, Filesystem, GitHub), building custom servers with the official SDK, and the critical distinction between MCP tools (agent-initiated) and hooks (event-driven automation).
 
 ## What Is MCP?
 
@@ -74,3 +78,10 @@ Use hooks for automation that should happen every time. Use MCP for tools Claude
 - `research/mcp/building-servers.md` — Building your own MCP server
 - `research/mcp/database-servers.md` — Database MCP servers
 - `research/mcp/search-servers.md` — Search and web MCP servers
+
+## See Also
+
+- `hub/hooks.md` — Hooks vs MCP: when to use each approach
+- `hub/project-setup.md` — Registering MCP servers in settings.json
+- `hub/troubleshooting.md` — MCP server debugging
+- `hub/getting-started.md` — First-time MCP setup

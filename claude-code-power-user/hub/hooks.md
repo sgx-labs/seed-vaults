@@ -1,11 +1,15 @@
 ---
 title: "Hooks — Lifecycle Automation"
-tags: [hooks, lifecycle, automation, SessionStart, events]
+tags: [hooks, lifecycle, automation, SessionStart, events, PreToolUse, UserPromptSubmit, guard-rails]
 content_type: hub
 domain: engineering
 ---
 
 # Hooks — Lifecycle Automation
+
+## Overview
+
+Claude Code hooks are event-driven shell commands that fire on SessionStart, Stop, UserPromptSubmit, PreToolUse, PostToolUse, Notification, and SubagentStop. Hooks power context surfacing, decision extraction, session handoffs, push protection, and guard rails. This hub covers hook configuration in settings.json, the execution model (stdout becomes agent context), SAME's built-in hooks, custom hook development, and debugging hooks when they fail.
 
 ## What Are Hooks?
 
@@ -81,3 +85,10 @@ same hook pre-tool-use  # SAME checks push protection rules
 - `research/hooks/same-hooks.md` — How SAME uses hooks for persistent memory
 - `research/hooks/hook-debugging.md` — Debugging hooks when they don't work
 - `research/hooks/pretooluse-patterns.md` — PreToolUse guard patterns
+
+## See Also
+
+- `hub/mcp-servers.md` — MCP tools vs hooks: when to use each
+- `hub/project-setup.md` — Configuring hooks in settings.json
+- `hub/workflows.md` — Hook-driven workflow automation
+- `hub/troubleshooting.md` — Debugging hooks that don't fire

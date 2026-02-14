@@ -1,6 +1,6 @@
 ---
 title: "Getting Claude to Fix Bugs Faster"
-tags: [debugging, bug-reports, prompting, workflow]
+tags: [debugging, bug-reports, prompting, workflow, error-messages, stack-traces, reproduction]
 content_type: research
 domain: engineering
 ---

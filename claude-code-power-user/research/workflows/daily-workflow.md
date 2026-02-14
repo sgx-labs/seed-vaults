@@ -1,6 +1,6 @@
 ---
 title: "How to Structure Your Day Working with Claude Code"
-tags: [workflow, daily, productivity, sessions, handoff]
+tags: [workflow, daily, productivity, sessions, handoff, morning-routine, compact]
 content_type: research
 domain: engineering
 ---

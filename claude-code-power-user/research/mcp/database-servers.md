@@ -1,6 +1,6 @@
 ---
 title: "Database MCP Servers — Query Your Data from Claude Code"
-tags: [mcp, database, postgresql, sqlite, supabase, sql]
+tags: [mcp, database, postgresql, sqlite, supabase, sql, read-only, schema]
 content_type: research
 domain: engineering
 ---

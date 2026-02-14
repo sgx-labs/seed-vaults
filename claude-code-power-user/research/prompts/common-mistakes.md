@@ -1,6 +1,6 @@
 ---
 title: "Token-Wasting Mistakes to Avoid in Claude Code"
-tags: [prompts, mistakes, efficiency, tokens, antipatterns]
+tags: [prompts, mistakes, efficiency, tokens, antipatterns, rapid-fire, pasting-code]
 content_type: research
 domain: engineering
 ---

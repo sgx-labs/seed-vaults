@@ -1,6 +1,6 @@
 ---
 title: "Using Claude Code for Code Review"
-tags: [code-review, security, quality, workflow, review]
+tags: [code-review, security, quality, workflow, review, slash-review, pre-commit]
 content_type: research
 domain: engineering
 ---

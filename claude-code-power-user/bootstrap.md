@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap — New Session Quick Start"
-tags: [bootstrap, onboarding, session-start, critical]
+tags: [bootstrap, onboarding, session-start, critical, water-the-seed, research-cascade, orientation]
 content_type: hub
 domain: engineering
 pinned: true

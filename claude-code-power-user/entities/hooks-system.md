@@ -1,7 +1,8 @@
 ---
 title: "Hooks System — Current State"
-tags: [hooks, lifecycle, entity, events, automation]
+tags: [hooks, lifecycle, entity, events, automation, SessionStart, PreToolUse]
 content_type: entity
+pinned: true
 domain: engineering
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Writing Effective CLAUDE.md Files"
-tags: [claude-md, project-setup, configuration, governance, best-practices]
+tags: [claude-md, project-setup, configuration, governance, best-practices, nested, architecture]
 content_type: research
 domain: engineering
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Project Setup — CLAUDE.md, Settings, Permissions"
-tags: [project-setup, claude-md, settings, permissions, configuration]
+tags: [project-setup, claude-md, settings, permissions, configuration, settings-json, allow-deny]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Project setup determines how Claude Code behaves in your repository. Three files control everything: CLAUDE.md (instructions), settings.json (permissions), and .claude/ directory (state).
+Project setup for Claude Code covers CLAUDE.md governance files, the .claude/settings.json permission system (allow/deny rules, wildcard patterns), settings.local.json for personal overrides, the three-level settings hierarchy (global, project, personal), hook configuration, MCP server registration, and team onboarding. This hub explains what goes in each configuration file, how permissions merge across levels, and best practices for shared vs personal settings.
 
 ## CLAUDE.md
 
@@ -97,3 +97,10 @@ Claude asks for approval before running tools. You can pre-approve patterns:
 - `research/setup/team-setup.md` — Setting up Claude Code for a team
 - `research/setup/first-project-setup.md` — Step-by-step first project guide
 - `research/setup/settings-hierarchy.md` — How settings merge and override
+
+## See Also
+
+- `hub/getting-started.md` — First-time setup walkthrough
+- `hub/hooks.md` — Configuring hooks in settings.json
+- `hub/mcp-servers.md` — Adding MCP servers to your project
+- `hub/troubleshooting.md` — Fixing configuration-related issues

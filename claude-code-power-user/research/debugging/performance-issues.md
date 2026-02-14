@@ -1,6 +1,6 @@
 ---
 title: "Dealing with Slow Claude Code Responses"
-tags: [performance, optimization, context-window, troubleshooting]
+tags: [performance, optimization, context-window, troubleshooting, slow-responses, compact, subagents]
 content_type: research
 domain: engineering
 ---

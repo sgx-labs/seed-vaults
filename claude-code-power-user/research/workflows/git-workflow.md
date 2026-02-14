@@ -1,6 +1,6 @@
 ---
 title: "Using Claude Code for Git Operations"
-tags: [git, commits, pull-requests, branches, workflow]
+tags: [git, commits, pull-requests, branches, workflow, gh-cli, conventional-commits]
 content_type: research
 domain: engineering
 ---

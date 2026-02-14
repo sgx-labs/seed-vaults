@@ -1,6 +1,6 @@
 ---
 title: "Built-in Slash Commands Reference"
-tags: [slash-commands, cli, reference, productivity]
+tags: [slash-commands, cli, reference, productivity, compact, review, model, skills]
 content_type: research
 domain: engineering
 ---

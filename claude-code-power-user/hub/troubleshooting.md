@@ -1,11 +1,15 @@
 ---
 title: "Troubleshooting — Common Errors and Fixes"
-tags: [troubleshooting, errors, debugging, fixes, common-issues]
+tags: [troubleshooting, errors, debugging, fixes, common-issues, context-window, mcp-errors]
 content_type: hub
 domain: engineering
 ---
 
 # Troubleshooting — Common Errors and Fixes
+
+## Overview
+
+Troubleshooting Claude Code covers common errors (permission denied, rate limit exceeded, context window full, MCP connection failed, authentication errors), debugging hooks that don't fire, MCP server diagnosis, performance slowdowns, context management strategies, and effective bug reporting. This hub provides quick fixes for the most frequent issues and links to detailed debugging guides for hooks, MCP servers, performance optimization, and context window management.
 
 ## Quick Fixes
 
@@ -73,3 +77,10 @@ See: `research/hooks/hook-debugging.md`
 - `research/debugging/effective-bug-reports.md` — Getting Claude to fix bugs faster
 - `research/debugging/performance-issues.md` — Dealing with slow responses
 - `research/debugging/context-management.md` — Managing the context window
+
+## See Also
+
+- `hub/project-setup.md` — Configuration that prevents common issues
+- `hub/hooks.md` — Hook debugging specifics
+- `hub/mcp-servers.md` — MCP server troubleshooting
+- `hub/prompt-patterns.md` — Better prompts produce fewer errors

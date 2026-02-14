@@ -1,6 +1,6 @@
 ---
 title: "How Prompting Differs by Model in Claude Code"
-tags: [prompts, models, opus, sonnet, haiku, cost, performance]
+tags: [prompts, models, opus, sonnet, haiku, cost, performance, model-switching]
 content_type: research
 domain: engineering
 ---

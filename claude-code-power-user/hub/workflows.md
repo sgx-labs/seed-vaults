@@ -1,6 +1,6 @@
 ---
 title: "Workflows — Daily Patterns for Claude Code"
-tags: [workflows, efficiency, patterns, daily]
+tags: [workflows, efficiency, patterns, daily, plan-mode, git, code-review, refactoring]
 content_type: hub
 domain: engineering
 ---
@@ -9,7 +9,7 @@ domain: engineering
 
 ## Overview
 
-Claude Code is most effective when you work with it in patterns. These aren't rigid rules — they're habits that save tokens and get better results.
+Claude Code workflows cover daily development patterns including feature development, bug fixing, code review, refactoring, and git operations. Effective workflows use plan mode for complex tasks, batched prompts for efficiency, slash commands for speed, subagents for parallel research, and `/compact` for context management. This hub covers core workflow patterns, anti-patterns that waste tokens, and links to detailed guides for each workflow type.
 
 ## Core Workflow Patterns
 
@@ -81,3 +81,10 @@ See: `research/workflows/git-workflow.md`
 - `research/workflows/git-workflow.md` — Git operations
 - `research/workflows/code-review-workflow.md` — Code review patterns
 - `research/workflows/refactoring-workflow.md` — Refactoring safely
+
+## See Also
+
+- `hub/prompt-patterns.md` — How to write effective prompts for each workflow
+- `hub/hooks.md` — Automating workflows with lifecycle hooks
+- `hub/troubleshooting.md` — Fixing common workflow issues
+- `hub/getting-started.md` — Initial setup before workflows apply

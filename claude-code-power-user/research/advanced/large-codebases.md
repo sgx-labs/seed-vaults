@@ -1,6 +1,6 @@
 ---
 title: "Working with Large Codebases"
-tags: [large-codebase, monorepo, architecture, context-management, advanced]
+tags: [large-codebase, monorepo, architecture, context-management, advanced, subdirectory-claude-md, glob-grep]
 content_type: research
 domain: engineering
 ---

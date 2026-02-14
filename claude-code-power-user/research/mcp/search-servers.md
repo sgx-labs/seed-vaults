@@ -1,6 +1,6 @@
 ---
 title: "Search and Web MCP Servers"
-tags: [mcp, search, web, brave, exa, puppeteer, fetch, browser]
+tags: [mcp, search, web, brave, exa, puppeteer, fetch, browser, semantic-search]
 content_type: research
 domain: engineering
 ---

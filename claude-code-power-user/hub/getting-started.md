@@ -1,11 +1,15 @@
 ---
 title: "Getting Started with Claude Code"
-tags: [getting-started, install, setup, beginner]
+tags: [getting-started, install, setup, beginner, first-project, npm, authentication]
 content_type: hub
 domain: engineering
 ---
 
 # Getting Started with Claude Code
+
+## Overview
+
+Getting started with Claude Code covers installation, first project setup, authentication, CLAUDE.md creation, permission configuration, MCP server registration, and hook setup. This hub walks through the initial workflow from `npm install` to your first AI-assisted code change, including key concepts like plan mode, slash commands, subagents, and the settings hierarchy that controls Claude Code's behavior in your repository.
 
 ## What Is Claude Code?
 
@@ -61,3 +65,10 @@ That's it. Claude Code reads your codebase and you start talking to it. On first
 - `research/setup/claude-md-guide.md` — Writing effective CLAUDE.md files
 - `research/setup/permissions-settings.md` — Permission system explained
 - `research/workflows/daily-workflow.md` — How to structure your day with Claude Code
+
+## See Also
+
+- `hub/project-setup.md` — Deep dive into CLAUDE.md, settings, and permissions
+- `hub/workflows.md` — Daily workflow patterns after initial setup
+- `hub/hooks.md` — Automating your setup with lifecycle hooks
+- `hub/mcp-servers.md` — Extending Claude Code with external tools
