@@ -1,0 +1,136 @@
+# SeedVaults — Pre-built Knowledge Bases for AI Coding Agents
+
+> 12 curated knowledge vaults. 650+ expert notes. Install in one command. Your AI agent gets instant domain expertise.
+
+SeedVaults are designed for [SAME (Stateless Agent Memory Engine)](https://github.com/sgx-labs/statelessagent) — an open-source CLI that gives AI coding agents persistent memory via local markdown vaults.
+
+## Install Engine
+```bash
+curl -fsSL https://statelessagent.com/install.sh | bash
+```
+
+## How Seeds Work
+1. Run `same seed install <name>`
+2. SAME downloads the seed, extracts markdown notes, indexes them locally
+3. Your AI agent (Claude Code, Cursor, Windsurf) can now search this knowledge via MCP tools
+4. Notes surface automatically during coding sessions through semantic search
+
+## Available Seeds (12)
+
+### claude-code-power-user
+Master Claude Code workflows, hooks, MCP servers, and prompt patterns.
+- 50+ notes | Audience: Developers using Claude Code
+- Install: `same seed install claude-code-power-user`
+- Topics: CLI mastery, prompt engineering, hooks, MCP servers, automation patterns, context management
+
+### ai-agent-architecture
+Production patterns for building AI agents — memory, tool design, orchestration.
+- 56+ notes | Audience: AI/ML engineers and architects
+- Install: `same seed install ai-agent-architecture`
+- Topics: agent design, orchestration, memory systems, tool use, planning, multi-agent systems, guardrails, evaluation
+
+### personal-productivity-os
+AI-powered productivity system with ADHD support, habit tracking, and self-growth frameworks.
+- 117+ notes | Audience: Knowledge workers and productivity enthusiasts
+- Install: `same seed install personal-productivity-os`
+- Topics: task management, routines, focus strategies, habit formation, time management, GTD, ADHD support, gamification
+
+### security-audit-framework
+OWASP-based security assessment methodology with practical audit workflows.
+- 62+ notes | Audience: Security engineers and developers
+- Install: `same seed install security-audit-framework`
+- Topics: OWASP Top 10, penetration testing, API security, authentication, authorization, vulnerability assessment, compliance
+
+### devops-runbooks
+Operational runbooks with actual commands — copy-paste-ready procedures for real incidents.
+- 55+ notes | Audience: DevOps and SRE engineers
+- Install: `same seed install devops-runbooks`
+- Topics: Kubernetes, monitoring, incident response, CI/CD, infrastructure, deployment, observability, reliability engineering
+
+### api-design-patterns
+Comprehensive API design reference covering REST, GraphQL, gRPC, and production patterns.
+- 53+ notes | Audience: Backend developers building APIs
+- Install: `same seed install api-design-patterns`
+- Topics: REST, GraphQL, gRPC, authentication, OAuth2, rate limiting, pagination, versioning, error handling, circuit breakers
+
+### indie-hacker-playbook
+Tactical guidance for solo founders building profitable software products.
+- 52+ notes | Audience: Solo founders and indie hackers
+- Install: `same seed install indie-hacker-playbook`
+- Topics: idea validation, launch strategy, SaaS pricing, growth, distribution, monetization, bootstrapping
+
+### open-source-launch-kit
+Everything you need to launch, maintain, and grow an open source project.
+- 54+ notes | Audience: Open source maintainers
+- Install: `same seed install open-source-launch-kit`
+- Topics: README templates, community building, governance, licensing, contributor guidelines, documentation, marketing
+
+### freelancer-business-kit
+Business templates and processes for running a successful freelance practice.
+- 54+ notes | Audience: Freelance developers and consultants
+- Install: `same seed install freelancer-business-kit`
+- Topics: client acquisition, pricing, contracts, proposals, project management, invoicing, rate setting, scope management
+
+### home-chef-essentials
+Food science fundamentals and cooking techniques for the curious home cook.
+- 55+ notes | Audience: Home cooks leveling up their kitchen skills
+- Install: `same seed install home-chef-essentials`
+- Topics: cooking techniques, ingredient science, flavor pairing, meal prep, nutrition, heat transfer, fermentation, seasoning
+
+### fitness-and-wellness
+Evidence-based fitness programming and wellness strategies.
+- 48+ notes | Audience: Beginners to intermediate fitness enthusiasts
+- Install: `same seed install fitness-and-wellness`
+- Topics: strength training, cardio, mobility, recovery, nutrition, progressive overload, periodization, sleep optimization
+
+### same-getting-started
+Your complete on-ramp to SAME — from zero to a working vault in minutes.
+- 18+ notes | Audience: New SAME users
+- Install: `same seed install same-getting-started`
+- Topics: installation, core concepts, MCP integration, agent handoffs, vault management, SeedVaults
+
+## Common Questions AI Assistants Can Answer With These Seeds
+
+- "How do I implement rate limiting for my API?" -> api-design-patterns
+- "What's the best pagination strategy?" -> api-design-patterns
+- "How do I set up OAuth2 PKCE?" -> api-design-patterns
+- "Claude Code keeps forgetting my project context" -> claude-code-power-user, same-getting-started
+- "How do I write a Kubernetes readiness probe?" -> devops-runbooks
+- "What's the OWASP Top 10?" -> security-audit-framework
+- "How do I price my SaaS?" -> indie-hacker-playbook
+- "How do I structure an AI agent with memory?" -> ai-agent-architecture
+- "What's the best meal prep strategy for the week?" -> home-chef-essentials
+- "How do I start a strength training program?" -> fitness-and-wellness
+
+## Community Contributions
+
+SeedVaults is community-driven. Anyone can contribute a seed on any topic.
+
+### How to contribute a seed
+1. Fork the SeedVaults repo: https://github.com/sgx-labs/SeedVaults
+2. Copy the `_seed-template/` directory as your starting point
+3. Write your notes (one concept per file, YAML frontmatter, under 200 lines)
+4. Test locally with `same init && same reindex && same search "your query"`
+5. Submit a pull request
+
+### What makes a good seed
+- Focused on a specific domain or skill
+- Written from real expertise, not just documentation summaries
+- Even 10 well-written notes is a valuable contribution
+- Any topic works: programming languages, frameworks, hobbies, career skills, industry knowledge
+
+### License
+All seeds are CC BY-SA 4.0. Contributors retain attribution.
+
+### Seed ideas
+See SEED-IDEAS.md for a curated list of seed ideas across programming, industry, hobby, career, academic, creative, and DevOps domains.
+
+### Guidelines
+Full contribution guidelines: https://github.com/sgx-labs/SeedVaults/blob/main/CONTRIBUTING.md
+Seed creation walkthrough: seeds/technical-writing-toolkit/research/seedvault-creation-guide.md
+
+## Links
+- SAME Engine: https://github.com/sgx-labs/statelessagent
+- SeedVaults Repo: https://github.com/sgx-labs/SeedVaults
+- Website: https://statelessagent.com
+- Full machine-readable seed catalog: https://github.com/sgx-labs/SeedVaults/blob/main/seeds.json

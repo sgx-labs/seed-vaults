@@ -75,7 +75,7 @@ Young's precision-first approach informs the science and technique notes through
 - `research/techniques/sous-vide-fundamentals.md` — Time-temperature cooking based on his work
 - `research/techniques/science-of-heat-transfer.md` — The physics he explains in Modernist Cuisine
 - `research/techniques/baking-science.md` — Precision baking informed by Modernist Bread
-- `research/techniques/maillard-reaction-and-browning.md` — Browning chemistry from his research
+- `research/techniques/maillard-reaction.md` — Browning chemistry from his research
 
 ## Search Suggestions
 

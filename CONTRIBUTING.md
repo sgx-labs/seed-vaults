@@ -13,12 +13,72 @@ Good first contributions:
 
 For small fixes (typos, broken links), open a PR directly. For larger changes (restructuring categories, adding 10+ notes), open an issue first so we can discuss scope.
 
-## Proposing a New Seed
+## Contributing a New Seed
 
-1. **Open an issue** with a draft `SEED-SPEC.md` using the [`_seed-template/`](./_seed-template/) as your starting point
-2. Include: domain, target audience, 5-7 hub categories, estimated note count
-3. We'll discuss scope, overlap with existing seeds, and quality expectations
-4. Once approved, build the seed and open a PR
+We actively encourage community seed contributions. The best seeds come from real expertise — if you know a topic well enough to help others, you have a seed worth sharing.
+
+**Start small.** Even 10 well-written notes on a focused topic is valuable. You can always add more later.
+
+### Getting started
+
+1. **Copy the template** — use [`_seed-template/`](./_seed-template/) as your starting point
+2. **Fill in `SEED-SPEC.md`** — define your domain, audience, and 5-7 hub categories
+3. **Write your notes** — one concept per file, under 200 lines each
+4. **Add a `CLAUDE.md`** — teach the agent how to use your domain knowledge
+5. **Test locally** (see below)
+6. **Open a PR** with your seed
+
+For a detailed walkthrough of the entire process, see the [Building a SAME SeedVault](./seeds/technical-writing-toolkit/research/seedvault-creation-guide.md) guide.
+
+You don't need to open an issue first for new seeds. Just submit a PR. If we have questions about scope or overlap, we'll discuss in the review.
+
+### How to test your seed locally
+
+Before submitting, verify your seed works with SAME:
+
+```bash
+# Navigate to your seed directory
+cd your-seed-name/
+
+# Initialize and index
+same init
+same reindex
+
+# Test that notes surface for relevant queries
+same search "your primary use case"
+same search "a specific concept from your notes"
+same search "something a user would actually ask"
+```
+
+Good signs:
+- Relevant notes appear in the top 3 results
+- Tags and frontmatter are parsed correctly
+- No indexing errors
+
+### What makes a good seed PR
+
+Here are patterns we see in strong contributions:
+
+- **Focused scope** — "Python testing patterns" is better than "everything about Python"
+- **Real expertise** — notes that reflect hands-on experience, not just documentation summaries
+- **Good test queries** — PR description includes 2-3 queries that demonstrate the seed works
+- **Consistent structure** — follows the template layout (hub/, research/, entities/)
+- **Complete frontmatter** — every note has title, content_type, domain, and tags
+
+### Examples of contribution ideas
+
+- A DevOps engineer shares their Terraform module patterns (20 notes)
+- A data scientist contributes pandas/numpy recipes they use daily (15 notes)
+- A designer adds accessibility audit checklists (12 notes)
+- A hobbyist shares their sourdough baking knowledge (10 notes)
+
+### Proposing a seed via issue (optional)
+
+If you want feedback before building, you can open an issue with a draft `SEED-SPEC.md`:
+
+1. Include: domain, target audience, 5-7 hub categories, estimated note count
+2. We'll discuss scope, overlap with existing seeds, and quality expectations
+3. Once we align, build the seed and open a PR
 
 Use the template structure — it ensures your seed works with `same seed install` out of the box.
 
@@ -82,8 +142,8 @@ disclaimer: >
 
 ## Legal
 
-- All contributions are licensed under [CC BY 4.0](./LICENSE)
-- By submitting a PR, you agree to license your contribution under CC BY 4.0
+- All contributions are licensed under [CC BY-SA 4.0](./LICENSE)
+- By submitting a PR, you agree to license your contribution under CC BY-SA 4.0
 - **AI-generated content must be disclosed** — if notes were generated or substantially written by an AI, say so in the PR description. This is standard practice, not a disqualifier
 - See [DISCLAIMER.md](./DISCLAIMER.md) for the project's content notice
 

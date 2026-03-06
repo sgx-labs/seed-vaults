@@ -55,8 +55,7 @@ You do not need a food science lab. Lopez-Alt's method scales down to any home k
 Lopez-Alt's science-driven methodology informs the technique research notes throughout this vault, particularly:
 
 - `research/techniques/science-of-heat-transfer.md` — Heat transfer principles he frequently explains
-- `research/techniques/maillard-reaction-and-browning.md` — The browning chemistry behind his searing techniques
-- `research/techniques/wok-cooking.md` — Adapted from his wok work for home kitchens
+- `research/techniques/maillard-reaction.md` — The browning chemistry behind his searing techniques
 - `research/techniques/emulsions-and-sauces.md` — His testing of sauce stability and repair
 
 ## Search Suggestions

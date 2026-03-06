@@ -229,3 +229,72 @@ personal-productivity-os/
 Session 1, this is a template. Session 10, it knows your projects. Session 50, it knows your patterns. Session 100, it knows you — how you work, when you struggle, what motivates you, which strategies actually work for your brain, and which ones sound good but never stick.
 
 That is the difference between a productivity app and a personal operating system. Apps reset every time you open them. This remembers.
+
+---
+
+## Full Directory Structure
+
+```
+personal-productivity-os/
+├── CLAUDE.md                    # Agent governance and behavior rules
+├── bootstrap.md                 # Pinned — orientation, onboarding, discovery
+├── config.toml.example          # SAME configuration
+├── hub/                         # Category overviews — start here for any topic
+│   ├── systems.md               # Productivity systems and frameworks
+│   ├── projects.md              # Project tracking and management
+│   ├── goals.md                 # Goal setting and progress tracking
+│   ├── reviews.md               # Review frameworks and cadences
+│   ├── energy.md                # Energy management and focus
+│   └── decisions.md             # Decision frameworks and logging
+├── research/                    # Evidence-based frameworks and strategies
+│   ├── adhd/                    # ADHD/ADD: executive function, accommodations
+│   ├── same-integration/        # How SAME features serve productivity needs
+│   ├── systems/                 # Capture, organize, review, execute
+│   ├── reviews/                 # Review methodologies and consistency
+│   ├── goals/                   # Goal-setting, habits, planning frameworks
+│   ├── energy/                  # Focus, deep work, burnout prevention
+│   └── decisions/               # Decision-making and cognitive load
+├── entities/                    # Living docs — user fills via conversation
+│   ├── me.md                    # About the user: strengths, style, patterns
+│   ├── work.md                  # Job/business: role, team, tools, workflows
+│   └── projects.md              # Active project list with status and goals
+├── decisions/                   # Decision log — append-only, prevents re-litigation
+│   └── log.md                   # Chronological decision record
+├── current-state/               # Live status — updated every session
+│   ├── projects.md              # Current project status and blockers
+│   └── goals.md                 # Current goal progress
+├── templates/                   # Reusable templates
+│   ├── dashboards/              # Dashboard templates (weekly, project tracker)
+│   ├── weekly-review.md         # Weekly review template
+│   ├── monthly-review.md        # Monthly review template
+│   ├── daily-capture.md         # Daily capture template
+│   ├── project-kickoff.md       # New project kickoff template
+│   └── decision-template.md     # Decision record template
+├── recipes/                     # Structured session scripts
+│   ├── brainstorm.md            # Brainstorming session
+│   ├── decision-analysis.md     # Decision analysis framework
+│   ├── decompose-project.md     # Break down a vague project
+│   ├── end-of-day.md            # End-of-day wrap-up
+│   ├── energy-audit.md          # Energy pattern audit
+│   ├── goal-check.md            # Goal progress check
+│   ├── monthly-retro.md         # Monthly retrospective
+│   ├── morning-start.md         # Morning session start
+│   ├── unstick-me.md            # Get unstuck when blocked
+│   └── weekly-review.md         # Weekly review session
+├── sessions/                    # Agent session handoffs — continuity
+└── _Raw/                        # Full-length docs, exports — not indexed
+```
+
+---
+
+## Content Types
+
+| Type | Purpose | Update Frequency |
+|------|---------|-----------------|
+| `hub` | Navigation indexes — start here for any topic | Rarely — when new categories are added |
+| `research` | Evidence-based frameworks and strategies | When new research is created via the cascade |
+| `entity` | Living state about the user, their work, their projects | Every session as things change |
+| `decision` | Locked choices and rationale | Append-only — whenever a decision is made |
+| `template` | Reusable formats for reviews, dashboards, kickoffs | Adapt to user preferences over time |
+| `dashboard` | Live status views — projects, weekly, energy | Every session — agent maintains these |
+| `session` | Handoff notes for continuity between sessions | End of every meaningful session |

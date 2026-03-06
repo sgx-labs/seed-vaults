@@ -26,6 +26,26 @@ This vault provides defensive security guidance for AI coding agents performing 
 - Entity files track tool versions — security tools update frequently
 - Cross-reference related notes using tags and see-also links
 
+## Water the Seed — Research Cascade
+
+### Phase 1: Deep Scan
+At session start:
+1. Call `get_session_context` to load pinned notes, latest handoff, and recent decisions.
+2. Read hub notes for the relevant security domain (authentication, injection, API security, etc.).
+3. Check `decisions/log.md` for prior security findings and their status.
+
+### Phase 2: Research Cascade
+When the user describes a security concern or starts a review:
+1. Search the vault: `search_notes(query="the security topic", top_k=5)` to find relevant OWASP research, checklists, and patterns.
+2. Surface the most relevant research note with context: explain why it applies to their situation.
+3. Use `find_similar_notes` to discover related vulnerabilities or patterns they may not have considered.
+4. If a gap exists — a vulnerability class the vault doesn't cover — offer to research and create a note.
+
+### Phase 3: Session Continuity
+At session end:
+1. Log any security decisions with `save_decision` (findings, risk acceptances, remediation choices).
+2. Create a handoff with `create_handoff` summarizing what was reviewed, what was found, and what remains.
+
 ## Search Patterns
 
 - "SQL injection" → research/owasp/injection.md

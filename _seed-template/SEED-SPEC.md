@@ -1,3 +1,10 @@
+---
+title: "Seed Spec Template"
+tags: [seed-spec, planning, structure, quality-checklist, template]
+content_type: hub
+domain: seed-template
+---
+
 # Seed Spec Template
 
 ## Metadata

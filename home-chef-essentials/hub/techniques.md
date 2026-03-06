@@ -14,14 +14,14 @@ Good cooking is applied science. Every technique in the kitchen — searing a st
 | Technique | Research Note | One-Line Summary |
 |-----------|--------------|------------------|
 | Heat Transfer | `research/techniques/science-of-heat-transfer.md` | Conduction, convection, and radiation — how energy moves into food and why it matters for every cooking method. |
-| Maillard Reaction & Browning | `research/techniques/maillard-reaction-and-browning.md` | The chemistry behind flavor development on seared, roasted, and baked surfaces. Requires dry surface + high heat. |
+| Maillard Reaction & Browning | `research/techniques/maillard-reaction.md` | The chemistry behind flavor development on seared, roasted, and baked surfaces. Requires dry surface + high heat. |
 | Emulsions & Sauces | `research/techniques/emulsions-and-sauces.md` | How to combine oil and water into stable sauces — vinaigrettes, pan sauces, hollandaise, and why they break. |
 | Braising & Slow Cooking | `research/techniques/braising-and-slow-cooking.md` | Collagen-to-gelatin conversion in tough cuts. Low temperature + time + moisture = fork-tender results. |
 | Knife Skills | `research/techniques/knife-skills.md` | Core cuts (dice, julienne, chiffonade, brunoise), knife selection, sharpening, and why consistent cuts mean even cooking. |
 | Fermentation Basics | `research/techniques/fermentation-basics.md` | Lacto-fermentation, yeast fermentation, and controlled decomposition — pickles, bread, yogurt, and beyond. |
 | Baking Science | `research/techniques/baking-science.md` | Flour, gluten, leavening, hydration, and oven dynamics. Why baking is more precise than stovetop cooking. |
 | Sous Vide | `research/techniques/sous-vide-fundamentals.md` | Precision temperature cooking in vacuum-sealed bags. Edge-to-edge doneness and the time-temperature relationship. |
-| Wok Cooking | `research/techniques/wok-cooking.md` | Wok hei, high-heat technique, oil management, and the stir-fry sequence. Adapted for home burners. |
+
 | Stocks & Broths | `research/techniques/stocks-and-broths.md` | Extracting flavor and body from bones, aromatics, and time. The foundation of soups, sauces, and braises. |
 | Salt Fat Acid Heat Framework | `research/techniques/salt-fat-acid-heat-framework.md` | Samin Nosrat's four-element approach to understanding and fixing any dish. |
 
