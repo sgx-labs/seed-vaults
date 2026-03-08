@@ -11,9 +11,9 @@ Many projects span multiple repositories. You want one container that gives you 
 ```json
 {
   "workspaceFolder": "/workspace",
-  "workspaceMount": "source=${localWorkspaceFolder}/..,target=/workspace/code,type=bind",
+  "workspaceMount": "source=${localWorkspaceFolder}/..,target=/workspace/repos,type=bind",
   "mounts": [
-    "source=${localEnv:HOME}/Projects/my-company,target=/workspace/company,type=bind",
+    "source=${localEnv:HOME}/Projects/my-org,target=/workspace/shared,type=bind",
     "source=${localEnv:HOME}/.config,target=/home/vscode/.config,type=bind"
   ]
 }
@@ -24,9 +24,9 @@ Many projects span multiple repositories. You want one container that gives you 
 ```json
 {
   "folders": [
-    { "name": "backend (core)", "path": "/workspace/code/backend" },
-    { "name": "frontend (web)", "path": "/workspace/code/frontend" },
-    { "name": "company (HQ)", "path": "/workspace/company" }
+    { "name": "backend (core)", "path": "/workspace/repos/api-server" },
+    { "name": "frontend (web)", "path": "/workspace/repos/web-app" },
+    { "name": "shared (config)", "path": "/workspace/shared" }
   ],
   "settings": {},
   "tasks": {
@@ -36,7 +36,7 @@ Many projects span multiple repositories. You want one container that gives you 
         "label": "Build backend",
         "type": "shell",
         "command": "make build",
-        "options": { "cwd": "/workspace/code/backend" }
+        "options": { "cwd": "/workspace/repos/api-server" }
       }
     ]
   }
