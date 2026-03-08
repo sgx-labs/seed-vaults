@@ -14,7 +14,7 @@ This is an AI-powered personal operating system that grows with you. It tracks y
 
 But it is more than a productivity system. It is a knowledge base that compounds. Every session makes the next session smarter. Every decision logged is a decision you never re-litigate. Every research note you add connects to others automatically. The longer you use it, the more valuable it becomes.
 
-This seed works best with the [SAME engine](https://github.com/sgx-labs/same), which gives your AI agent persistent memory, semantic search, and session continuity. But the notes and structure are useful on their own.
+This seed works best with the [SAME engine](https://github.com/sgx-labs/statelessagent), which gives your AI agent persistent memory, semantic search, and session continuity. But the notes and structure are useful on their own.
 
 ---
 

@@ -8,7 +8,7 @@ engine: "https://github.com/sgx-labs/statelessagent"
 
 # Resume & Interview Prep — SAME Seed Vault
 
-A complete toolkit for job search success built on the [SAME](https://github.com/yourusername/same) framework.
+A complete toolkit for job search success built on the [SAME](https://github.com/sgx-labs/statelessagent) framework.
 
 ## Quick Start
 

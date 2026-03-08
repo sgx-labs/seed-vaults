@@ -1,6 +1,6 @@
 # Seed Vaults
 
-Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/same). Install one command. Your AI agent gets instant domain expertise.
+Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/statelessagent). Install one command. Your AI agent gets instant domain expertise.
 
 **17 seeds. 880+ notes. All local, all private, no cloud.**
 
