@@ -34,7 +34,7 @@ Some of the available seeds:
 same seed install claude-code-power-user
 ```
 
-This downloads the seed, places it in your vault directory, and indexes all the notes. Your AI immediately has access to 50+ expert notes.
+This downloads the seed, places it in your vault directory, and indexes all the notes. Your AI immediately has access to 50+ curated notes.
 
 ### Manual Install
 

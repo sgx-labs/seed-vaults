@@ -35,7 +35,7 @@ Already set up? Here is what your agent does automatically on every session:
 
 - **Loads context** -- SAME surfaces your pinned notes, recent handoffs, and decisions
 - **Remembers where you left off** -- session handoffs capture what was done and what is pending
-- **Searches before generating** -- your vault has [N]+ expert notes, growing with every session
+- **Searches before generating** -- your vault has [N]+ curated notes, growing with every session
 - **Cross-references** -- finds related notes you might not know about
 - **Compounds knowledge** -- every useful answer gets saved for next time
 

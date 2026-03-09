@@ -1,8 +1,8 @@
 # SeedVaults — Pre-built Knowledge Bases for AI Coding Agents
 
-> 12 curated knowledge vaults. 650+ expert notes. Install in one command. Your AI agent gets instant domain expertise.
+> 12 curated knowledge vaults. 650+ curated notes. Install in one command. Your AI agent gets instant domain expertise.
 
-SeedVaults are designed for [SAME (Stateless Agent Memory Engine)](https://github.com/sgx-labs/statelessagent) — an open-source CLI that gives AI coding agents persistent memory via local markdown vaults.
+SeedVaults are designed for [SAME (Stateless Agent Memory Engine)](https://github.com/sgx-labs/statelessagent) — a source-available CLI that gives AI coding agents persistent memory via local markdown vaults.
 
 ## Install Engine
 ```bash
