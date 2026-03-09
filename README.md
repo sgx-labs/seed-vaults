@@ -2,7 +2,7 @@
 
 Pre-built knowledge bases for [SAME](https://github.com/sgx-labs/statelessagent). Install one command. Your AI agent gets instant domain expertise.
 
-**17 seeds. 880+ curated notes. All local, all private, no cloud.**
+**17 seeds. 870+ curated notes. All local, all private, no cloud.**
 
 ## Quick Start
 
